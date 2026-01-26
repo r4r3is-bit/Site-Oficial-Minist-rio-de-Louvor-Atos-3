@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ministério de Louvor Atos 3</title>
+
+<!-- FONTES -->
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+<!-- CSS -->
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- ===================== TELA DE BOAS-VINDAS ===================== -->
+<div id="welcome-screen">
+  <h1>BEM-VINDO</h1>
+</div>
+
+<!-- ===================== TOPO FIXO ===================== -->
+<div class="topbar">
+  <div class="gold-line"></div>
+  <img src="assets/logo.png" class="mini-logo">
+  <span class="topbar-title">ATOS 3</span>
+</div>
+
+<!-- ===================== SITE ===================== -->
+<div id="site" class="hidden">
+
+<!-- ===================== CABEÇALHO ===================== -->
+<header class="header">
+  <div class="overlay"></div>
+  <div class="hero-center">
+    <img src="assets/logo.png" class="logo hero-logo">
+    <h1>SITE OFICIAL BANDA ATOS 3</h1>
+    <button id="themeToggle">🌙</button>
+  </div>
+</header>
+
+<!-- ===================== TELA DO HINO ===================== -->
+<section class="hino-page hidden" id="hinoPage">
+
+  <button class="voltar" onclick="fecharHino()">← Voltar</button>
+
+  <iframe id="hinoPlayer" class="hino-player" allowfullscreen></iframe>
+
+  <a id="hinoYouTube" target="_blank" class="youtube-btn">🎬 Abrir no YouTube</a>
+  <a id="hinoSpotify" target="_blank" class="spotify-btn">🎧 Abrir no Spotify</a>
+
+  <h2 id="hinoNome"></h2>
+
+  <div class="hino-tom">
+    Tom: <span id="hinoTom"></span>
+    <select id="tomSelect"></select>
+  </div>
+
+  <textarea id="hinoObs" placeholder="Observações..."></textarea>
+
+  <a id="hinoCifra" target="_blank" class="cifra-btn">🎸 Abrir CifraClub</a>
+
+<button onclick="abrirEscalaBuilder()">➕ Adicionar à escala</button>
+
+</section>
+
+<!-- ===================== MINISTROS ===================== -->
+<section class="ministros">
+  <h3>Nossos Ministros</h3>
+  <div class="ministros-grid" id="ministros"></div>
+</section>
+<!-- ================= GALERIA COM ÁUDIO ================= -->
+<section class="galeria-sonora">
+
+  <div class="audio-control">
+    <span id="audioMsg">🔊 Clique para ativar o áudio ambiente</span>
+    <button id="audioToggle" onclick="toggleAudio()">🔇</button>
+  </div>
+
+  <div class="carousel">
+    <div class="carousel-track">
+      <img src="assets/galeria/1.jpg">
+      <img src="assets/galeria/2.jpg">
+      <img src="assets/galeria/3.jpg">
+      <img src="assets/galeria/4.jpg">
+      
+      <!-- DUPLICA para efeito infinito -->
+      <img src="assets/galeria/5.jpg">
+      <img src="assets/galeria/6.jpg">
+      <img src="assets/galeria/5.jpg">
+      <img src="assets/galeria/6.jpg">
+      <img src="assets/galeria/5.jpg">
+      
+      
+    </div>
+  </div>
+</section>
+<!-- ===================== REPERTÓRIO ===================== -->
+<section class="repertorio">
+  <h3>Repertório Banda Atos 3</h3>
+
+<!-- ===================== Lupa de pesquisa ===================== -->
+<div class="busca-hinos">
+  🔍
+  <input
+    type="text"
+    id="buscaHinos"
+    placeholder="Buscar hino..."
+  >
+</div>
+
+  <ul id="listaHinos" class="az-lista"></ul>
+  <!-- MODAL DA ESCALA -->
+  <div id="escalaModal" class="escala-modal hidden">
+    <div class="escala-box">
+      <input type="text" id="buscaEscala" placeholder="Buscar hino...">
+      <ul id="listaEscala" class="az-lista"></ul>
+      <button onclick="fecharEscala()">Fechar</button>
+    </div>
+  </div>
+
+  <!-- BOTÃO FLUTUANTE -->
+  <button class="fab" onclick="abrirEscala()">+</button>
+</section>
+
+<!-- ===================== PERFIL DOS MINISTROS ===================== -->
+<section class="perfil hidden" id="perfil">
+  <div class="voltar" onclick="fecharPerfil()">← Voltar</div>
+  <img id="perfilFoto" class="perfil-capa">
+  <h2 id="perfilNome"></h2>
+  <p id="perfilFuncao"></p>
+  <p id="perfilInfo"></p>
+  <div id="perfilAvaliacoes"></div>
+  <!-- ===================== AVALIAÇÃO DO MINISTRO ===================== -->
+<div class="avaliacao-ministro" id="avaliacaoMinistro">
+  <h3>📊 Avaliação Ministerial</h3>
+<div class="atributo">
+    <span class="label"> Atualizada em 17/01/2026 </span>
+  </div>
+</div>
+</section>
+<!-- ===================== RODAPÉ ===================== -->
+<footer class="footer">
+  <img src="assets/igreja.png">
+  <p>Igreja Formosa</p>
+</footer>
+
+</div> <!-- FIM #site -->
+
+
+<!-- ===================== MODAL MONTAR ESCALA ===================== -->
+<div id="escalaBuilder" class="escala-modal hidden">
+  <div class="escala-box">
+
+    <h3>📋 Montar Escala</h3>
+
+    <!-- DIA -->
+    <label>Dia da escala</label>
+    <select id="escalaDia">
+      <option>Domingo</option>
+      <option>Segunda</option>
+      <option>Terça</option>
+      <option>Quarta</option>
+      <option>Quinta</option>
+      <option>Sexta</option>
+      <option>Sábado</option>
+    </select>
+
+    <hr>
+
+    <!-- LISTA DE HINOS -->
+    <div id="escalaLista"></div>
+
+    <button onclick="enviarEscalaWhatsApp()" class="whatsapp-btn">
+      📲 Enviar Escala no WhatsApp
+    </button>
+
+ <button class="btn-fechar" onclick="fecharEscalaBuilder()">✖ Fechar</button>
+  </div>
+</div>
+<!-- ===================== JAVASCRIPT ===================== -->
+<script src="main.js"></script>
+<button id="escalaFab" class="escala-fab hidden" onclick="abrirEscalaBuilder()">
+  📋
+</button>
+<audio id="bgAudio" loop>
+  <source src="assets/audio/ambiente.mp3" type="audio/mpeg">
+  Seu navegador não suporta áudio.
+</audio>
+</body>
+</html>
