@@ -133,25 +133,25 @@ const avaliacoesMinistros = {
   },
 
   "Edna": {
-    teoria: 0,
-    paciencia: 0,
-    humor: 0,
-    pontualidade: 0,
-    potencial: 0,
-    compromisso: 0
+    teoria: 74,
+    paciencia: 76,
+    humor: 72,
+    pontualidade: 78,
+    potencial: 100,
+    compromisso: 87
   },
 
   "Stephanie": {
-    teoria: 74,
+    teoria: 71,
     paciencia: 83,
     humor: 92,
-    pontualidade: 15,
+    pontualidade: 44,
     potencial: 98,
     compromisso: 99
   },
 
 "Natiele": {
-    teoria: 69,
+    teoria: 67,
     paciencia: 80,
     humor: 78,
     pontualidade: 80,
@@ -165,7 +165,7 @@ const avaliacoesMinistros = {
     humor: 63,
     pontualidade: 81,
     potencial: 80,
-    compromisso: 90
+    compromisso: 80
   },
 
   "Júnior": {
@@ -187,7 +187,7 @@ const avaliacoesMinistros = {
   },
   
     "Felipe Mesquita": {
-    teoria: 92,
+    teoria: 87,
     paciencia: 95,
     humor: 90,
     pontualidade: 95,
