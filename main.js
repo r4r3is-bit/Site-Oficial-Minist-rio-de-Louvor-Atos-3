@@ -18,7 +18,7 @@ document.body.style.background = dark ? "#111" : "#f2f2f2"
 document.body.style.color = dark ? "#fff" : "#000"
 toggle.textContent = dark ? "🌙" : "☀️"
 }
-
+let termoBusca = "";
 // =================================================
 // TOPO FIXO
 // =================================================
@@ -302,9 +302,17 @@ renderHinos()
 // RENDERIZA HINOS A-Z
 // =================================================
 function renderHinos(){
-const ordenados = [...hinos].sort((a,b)=>a.nome.localeCompare(b.nome))
-renderAgrupado("listaHinos", ordenados)
-renderAgrupado("listaEscala", ordenados)
+  const base = termoBusca
+    ? hinos.filter(h =>
+        h.nome.toLowerCase().includes(termoBusca) ||
+        h.cantor.toLowerCase().includes(termoBusca)
+      )
+    : hinos;
+
+  const ordenados = [...base].sort((a,b)=>a.nome.localeCompare(b.nome));
+
+  renderAgrupado("listaHinos", ordenados);
+  renderAgrupado("listaEscala", ordenados);
 }
 
 function renderAgrupado(id, lista){
@@ -618,33 +626,11 @@ function carregarAvaliacao(nomeMinistro) {
 // ===============================
 // Lupa de Pesquisa
 // ===============================
-const inputBusca = document.getElementById("buscaHinos");
+const buscaInput = document.getElementById("buscaHinos");
 
-if (inputBusca) {
-  inputBusca.addEventListener("input", () => {
-    const termo = inputBusca.value.toLowerCase();
-    const itens = document.querySelectorAll(".az-item");
-    const letras = document.querySelectorAll(".az-letter");
-
-    itens.forEach(item => {
-      const texto = item.innerText.toLowerCase();
-      item.style.display = texto.includes(termo) ? "flex" : "none";
-    });
-
-    // Esconde letras sem itens visíveis abaixo
-    letras.forEach(letra => {
-      let proximo = letra.nextElementSibling;
-      let visivel = false;
-
-      while (proximo && !proximo.classList.contains("az-letter")) {
-        if (proximo.style.display !== "none") {
-          visivel = true;
-          break;
-        }
-        proximo = proximo.nextElementSibling;
-      }
-
-      letra.style.display = visivel ? "block" : "none";
-    });
+if (buscaInput) {
+  buscaInput.addEventListener("input", () => {
+    termoBusca = buscaInput.value.toLowerCase().trim();
+    renderHinos();
   });
 }
