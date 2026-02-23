@@ -251,10 +251,18 @@ renderHinos()
 // RENDERIZA HINOS A-Z (COM FILTRO)
 // =================================================
 function renderHinos(){
-  const base = termoBusca
+
+  const normalizar = texto =>
+    texto.normalize("NFD")
+         .replace(/[\u0300-\u036f]/g,"")
+         .toLowerCase();
+
+  const busca = normalizar(termoBusca);
+
+  const base = busca
     ? hinos.filter(h =>
-        h.nome.toLowerCase().includes(termoBusca) ||
-        h.cantor.toLowerCase().includes(termoBusca)
+        normalizar(h.nome).includes(busca) ||
+        normalizar(h.cantor).includes(busca)
       )
     : hinos;
 
