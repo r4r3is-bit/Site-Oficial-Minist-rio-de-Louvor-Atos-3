@@ -243,33 +243,52 @@ let escala = []
 fetch("data/hinos.json")
 .then(r => r.json())
 .then(d => {
-hinos = d
-renderHinos()
-})
+  hinos = d;
 
+  // Ativa a lupa só depois de carregar
+  const buscaInput = document.getElementById("buscaHinos");
+
+  if (buscaInput) {
+    buscaInput.addEventListener("input", function () {
+      termoBusca = this.value;
+      renderHinos();
+    });
+  }
+
+  renderHinos();
+});
 // =================================================
 // RENDERIZA HINOS A-Z (COM FILTRO)
 // =================================================
 function renderHinos(){
-
   const normalizar = texto =>
-    texto.normalize("NFD")
-         .replace(/[\u0300-\u036f]/g,"")
-         .toLowerCase();
+  (texto || "")
+    .toString()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g,"")
+    .toLowerCase()
+    .trim();
 
   const busca = normalizar(termoBusca);
 
-  const base = busca
-    ? hinos.filter(h =>
-        normalizar(h.nome).includes(busca) ||
-        normalizar(h.cantor).includes(busca)
-      )
-    : hinos;
+  let base = hinos;
 
-  const ordenados = [...base].sort((a,b)=>a.nome.localeCompare(b.nome));
+  if (busca.length > 0) {
+    base = hinos.filter(h =>
+      normalizar(h.nome).includes(busca) ||
+      normalizar(h.cantor).includes(busca)
+    );
+  }
 
+  const ordenados = [...base].sort((a,b)=>
+    normalizar(a.nome).localeCompare(normalizar(b.nome))
+  );
+if (ordenados.length === 0) {
+  document.getElementById("listaHinos").innerHTML =
+    "<p style='padding:20px'>Nenhum hino encontrado.</p>";
+  return;
+}
   renderAgrupado("listaHinos", ordenados);
-  renderAgrupado("listaEscala", ordenados);
 }
 
 function renderAgrupado(id, lista){
@@ -593,12 +612,11 @@ function carregarAvaliacao(nomeMinistro) {
 // =================================================
 // LUPA DE PESQUISA
 // =================================================
-document.addEventListener("DOMContentLoaded", () => {
-  const buscaInput = document.getElementById("buscaHinos");
-  if (buscaInput) {
-    buscaInput.addEventListener("input", () => {
-      termoBusca = buscaInput.value.toLowerCase().trim();
-      renderHinos();
-    });
-  }
-});
+const buscaInput = document.getElementById("buscaHinos");
+
+if (buscaInput) {
+  buscaInput.addEventListener("input", function () {
+    termoBusca = this.value;
+    renderHinos();
+  });
+}
