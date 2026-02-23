@@ -44,23 +44,12 @@ info: "Integrante desde 2025. Dedicada, acertiva, observadora, simples mas possu
 foto: "assets/iara.png"
 },
 {
-nome: "Samuel",
-funcao: "Baterista • Tecladista",
-info: "Integrante desde 2020. Talentoso, dedicado e discreto, mesmo tendo grandes capacidades não gosta de aparecer, ajuda sempre e se esforça para entregar o fino.",
-foto: "assets/samuel.png"
-},
-{
 nome: "Natiele",
 funcao: "Vocalista Mezzo Soprano",
 info: "Integrante desde 2025. Voz poderosa e companheira, sempre está a disposição quando precisa, tem um grande alcance vocal, mas não foi completamente explorado ainda.",
 foto: "assets/natiele.png"
 },
-{
-  nome: "Caio",
-funcao: "Sonoplasta",
-info: "Integrante desde 2025. Se dedica constantemente, humilde, possui um grande potêncial, ajuda sempre que pode.",
-foto: "assets/caio.png"
-},
+
 {
 nome: "Natã Freitas",
 funcao: "Tecladista",
@@ -90,18 +79,6 @@ nome: "Stephanie",
 funcao: "Vocalista Contralto",
 info: "Integrante desde 2025. Muito dedicada e bem humorada, responsável pelo humor da equipe.",
 foto: "assets/stephanie.jpg"
-},
-{
-nome: "Júnior",
-funcao: "Guitarrista • Baixista • Violonista",
-info: "Integrante desde 2023. Muito detalhista e técnico, alto conhecimento, Diretor musical da banda.",
-foto: "assets/junior.jpg"
-},
-{
-nome: "Gil Carlos",
-funcao: "Violonista • Vocalista Tenor",
-info: "Integrante desde 2022. Muito criterioso e exigente.",
-foto: "assets/gil.jpg"
 },
 {
 nome: "Thiago",
@@ -167,24 +144,6 @@ const avaliacoesMinistros = {
     potencial: 80,
     compromisso: 80
   },
-
-  "Júnior": {
-    teoria: 0,
-    paciencia: 0,
-    humor: 0,
-    pontualidade: 0,
-    potencial: 0,
-    compromisso: 0
-  },
-
-  "Gil Carlos": {
-    teoria: 0,
-    paciencia: 0,
-    humor: 0,
-    pontualidade: 0,
-    potencial: 0,
-    compromisso: 0
-  },
   
     "Felipe Mesquita": {
     teoria: 87,
@@ -193,15 +152,6 @@ const avaliacoesMinistros = {
     pontualidade: 95,
     potencial: 85,
     compromisso: 97
-  },
-  
-    "Caio": {
-    teoria: 58,
-    paciencia: 55,
-    humor: 67,
-    pontualidade: 75,
-    potencial: 87,
-    compromisso: 89
   },
   
     "Iara": {
@@ -297,9 +247,8 @@ hinos = d
 renderHinos()
 })
 
-
 // =================================================
-// RENDERIZA HINOS A-Z
+// RENDERIZA HINOS A-Z (COM FILTRO)
 // =================================================
 function renderHinos(){
   const base = termoBusca
@@ -316,34 +265,34 @@ function renderHinos(){
 }
 
 function renderAgrupado(id, lista){
-const ul = document.getElementById(id)
-ul.innerHTML = ""   // ⚠️ LINHA CRÍTICA (não remover)
-let letra = ""
+  const ul = document.getElementById(id)
+  ul.innerHTML = ""   
 
-const normalizados = [...lista].sort((a,b)=>{
-return a.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-.localeCompare(
-b.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-)
-})
+  let letra = ""
 
-normalizados.forEach(h=>{
-const primeira = h.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-.trim()[0].toUpperCase()
+  const normalizados = [...lista].sort((a,b)=>{
+    return a.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+    .localeCompare(
+      b.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+    )
+  })
 
-if(primeira !== letra){  
-  letra = primeira  
-  ul.innerHTML += `<div class="az-letter">${letra}</div>`  
-}  
+  normalizados.forEach(h=>{
+    const primeira = h.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+    .trim()[0].toUpperCase()
 
-ul.innerHTML += `
+    if(primeira !== letra){  
+      letra = primeira  
+      ul.innerHTML += `<div class="az-letter">${letra}</div>`  
+    }  
 
-<li class="az-item" onclick="abrirHinoPorId('${h.id}')">  
-  <strong>${h.nome}</strong>  
-  <span>${h.cantor}</span>  
-</li>`  
-  })  
-}  // =================================================
+    ul.innerHTML += `
+      <li class="az-item" onclick="abrirHinoPorId('${h.id}')">  
+        <strong>${h.nome}</strong>  
+        <span>${h.cantor}</span>  
+      </li>`  
+    })  
+} // =================================================
 // ABRIR HINO
 // =================================================
 function abrirHino(i){
@@ -366,7 +315,12 @@ hinoAtual.youtube_secundario || hinoAtual.youtube_principal
 
 // PLAYER EMBED
 if(hinoAtual.youtube_principal){
-const idVideo = hinoAtual.youtube_principal.split("v=")[1]
+let idVideo = "";
+
+if(hinoAtual.youtube_principal.includes("youtu.be/")){
+  idVideo = hinoAtual.youtube_principal.split("youtu.be/")[1].split("?")[0];
+} else if(hinoAtual.youtube_principal.includes("v=")){
+  idVideo = hinoAtual.youtube_principal.split("v=")[1].split("&")[0];}
 document.getElementById("hinoPlayer").src =
   `https://www.youtube-nocookie.com/embed/${idVideo}`
 }else{
@@ -513,6 +467,10 @@ function abrirEscalaBuilder(){
 
   document.getElementById("escalaBuilder").classList.add("show");
 
+//so detalhes pode ser removido
+if(escalaAtual.hinos.some(h => h.nome === hinoAtual.nome)) return;
+// acima
+
   escalaAtual.hinos.push({
     nome: hinoAtual.nome,
     cantor: hinoAtual.cantor,
@@ -524,7 +482,8 @@ function abrirEscalaBuilder(){
 
   renderEscala();
 }
-document.getElementById("escalaFab").classList.remove("hidden");
+const fab = document.getElementById("escalaFab");
+if (fab) fab.classList.remove("hidden");
 function fecharEscalaBuilder(){
   document.getElementById("escalaBuilder").classList.remove("show");
 }
@@ -623,14 +582,15 @@ function carregarAvaliacao(nomeMinistro) {
     document.getElementById(txtId).innerText = valor + "%";
   });
 }
-// ===============================
-// Lupa de Pesquisa
-// ===============================
-const buscaInput = document.getElementById("buscaHinos");
-
-if (buscaInput) {
-  buscaInput.addEventListener("input", () => {
-    termoBusca = buscaInput.value.toLowerCase().trim();
-    renderHinos();
-  });
-}
+// =================================================
+// LUPA DE PESQUISA
+// =================================================
+document.addEventListener("DOMContentLoaded", () => {
+  const buscaInput = document.getElementById("buscaHinos");
+  if (buscaInput) {
+    buscaInput.addEventListener("input", () => {
+      termoBusca = buscaInput.value.toLowerCase().trim();
+      renderHinos();
+    });
+  }
+});
