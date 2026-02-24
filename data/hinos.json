@@ -460,18 +460,6 @@
     "spotify": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe",
     "cifra": "https://www.cifraclub.com.br/gabriela-rocha/creio-que-tu-es-a-cura/"
   },
-
-  {
-    "id": "aos-pes-da-cruz",
-    "nome": "Aos Pés Da Cruz",
-    "cantor": "Kleber Lucas",
-    "tom": "A",
-    "youtube_principal": "https://www.youtube.com/watch?v=GW3gAF1KPB4",
-    "youtube_secundario": "https://www.youtube.com/watch?v=IPlYNQqBJAw",
-    "spotify": "https://open.spotify.com/track/0DdnIRpv8zgcEnpmxdZWEf",
-    "cifra": "https://www.cifraclub.com.br/kleber-lucas/aos-pes-da-cruz/"
-  },
-
   {
     "id": "ha-um-lugar",
     "nome": "Há Um Lugar",
@@ -681,28 +669,6 @@
   },
 
   {
-    "id": "a-gloria-da-segunda-casa",
-    "nome": "A Glória Da Segunda Casa",
-    "cantor": "Gisele Nascimento",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=Z0Ob7jl4-Tc",
-    "youtube_secundario": "https://www.youtube.com/watch?v=mUubQBy5OVY",
-    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
-    "cifra": "https://www.cifraclub.com.br/gisele-nascimento/a-gloria-da-segunda-casa/"
-  },
-
-  {
-    "id": "na-alegria-ou-na-dor",
-    "nome": "Na Alegria Ou Na Dor",
-    "cantor": "J Neto",
-    "tom": "G",
-    "youtube_principal": "https://www.youtube.com/watch?v=LYsaKn8FRhc",
-    "youtube_secundario": "https://www.youtube.com/watch?v=3cJf8vlrqEU",
-    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
-    "cifra": "https://www.cifraclub.com.br/j-neto/na-alegria-ou-na-dor/"
-  },
-
-  {
     "id": "restitui",
     "nome": "Restitui",
     "cantor": "Ministério Apascentar de Louvor (Toque No Altar)",
@@ -726,7 +692,7 @@
 
   {
     "id": "atos-2",
-    "nome": "Atos-2",
+    "nome": "Atos 2",
     "cantor": "Gabriela Rocha",
     "tom": "",
     "youtube_principal": "https://youtu.be/9l4lS8AhcN0?si=JPWBqXQ548R6rOKJ",
@@ -846,17 +812,6 @@
   },
 
   {
-    "id": "1000-graus",
-    "nome": "1000 Graus",
-    "cantor": "Renascer Praise",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=QTC7_DVENZA",
-    "youtube_secundario": "https://www.youtube.com/watch?v=IgumehX9B2w",
-    "spotify": "https://open.spotify.com/track/2UpjBUKmR4HxtLg1orkrk0",
-    "cifra": "https://www.cifraclub.com.br/renascer-praise/1000-graus/"
-  },
-
-  {
     "id": "via-dolorosa",
     "nome": "Via Dolorosa",
     "cantor": "Sérgio Saas",
@@ -921,18 +876,6 @@
     "spotify": "https://open.spotify.com/track/0gTkaOEcPG4zPhgwcUgQvH",
     "cifra": "https://www.cifraclub.com.br/regis-danese/faz-um-milagre-em-mim/"
   },
-
-  {
-    "id": "acalma-o-meu-coracao",
-    "nome": "Acalma o Meu Coração",
-    "cantor": "Anderson Freire",
-    "tom": "B",
-    "youtube_principal": "https://www.youtube.com/watch?v=4NBmNvqmnqg",
-    "youtube_secundario": "https://www.youtube.com/watch?v=OuAa-LRm2JU",
-    "spotify": "https://open.spotify.com/track/0x3VCZEoCv2TzwTyy1DLhj",
-    "cifra": "https://www.cifraclub.com.br/anderson-freire/acalma-o-meu-coracao/"
-  },
-
   {
     "id": "preciso-de-uma-bencao",
     "nome": "Preciso De Uma Benção",
@@ -966,16 +909,6 @@
     "cifra": "https://www.cifraclub.com.br/fernandinho/uma-nova-historia/"
   },
 
-  {
-    "id": "o-que-sua-gloria-fez-comigo",
-    "nome": "O Que Sua Glória Fez Comigo",
-    "tom": "",
-    "cantor": "Fernanda Brum",
-    "youtube_principal": "https://www.youtube.com/watch?v=TMe2fZ8CQ8A",
-    "youtube_secundario": "https://www.youtube.com/watch?v=6OmAx0BkRGQ",
-    "spotify": "https://open.spotify.com/track/0TxmZvEXDX2VZBvS8c3DL0",
-    "cifra": "https://www.cifraclub.com.br/fernanda-brum/o-que-tua-gloria-fez-comigo/"
-  },
 
   {
     "id": "me-escolheu",
@@ -1450,22 +1383,12 @@
     "cifra": "https://www.cifraclub.com.br/morada/o-grito/"
   },
 
-  {
-    "id": "alianca-de-sangue",
-    "nome": "Aliança De Sangue",
-    "cantor": "Anderson Freire",
-    "tom": "D",
-    "youtube_principal": "https://www.youtube.com/watch?v=gAPybGd5KP4",
-    "youtube_secundario": "https://www.youtube.com/watch?v=bDg9ALs0V6E",
-    "spotify": "https://open.spotify.com/track/443TOgRDCDHQJnm92Ji7FH",
-    "cifra": "https://www.cifraclub.com.br/anderson-freire/alianca-de-sangue/"
-  },
 
   {
-    "id": "aleluia-vilas-boas",
-    "nome": "Aleluia Vilas Boas",
+    "id": "aleluia",
+    "nome": "Aleluia",
     "cantor": "Alessandro Vilas Boas",
-    "tom": "",
+    "tom": "Am",
     "youtube_principal": "https://www.youtube.com/watch?v=m2A0B8Ipio8",
     "youtube_secundario": "https://www.youtube.com/watch?v=G9fyjAU-KL4",
     "spotify": "https://open.spotify.com/track/6PDVvrnfevJcIGCx8Vrm4S",
@@ -1669,18 +1592,6 @@
     "spotify": "https://open.spotify.com/track/0Njk2f5tMOnr3CH2WAXpdU",
     "cifra": "https://www.cifraclub.com.br/marcelo-markes/sinto-fluir/"
   },
-
-  {
-    "id": "preco-foi-de-sangue",
-    "nome": "Preço Foi de Sangue",
-    "cantor": "Midian Lima",
-    "tom": "E",
-    "youtube_principal": "https://www.youtube.com/watch?v=OVmE8Aff16E",
-    "youtube_secundario": "https://www.youtube.com/watch?v=3OW6P64WVHc",
-    "spotify": "https://open.spotify.com/track/5U3tN0M7sM1e4x4hP5w6Zo",
-    "cifra": "https://www.cifraclub.com.br/midian-lima/o-preco-foi-de-sangue/"
-  },
-
   {
     "id": "seja-livre",
     "nome": "Seja Livre",
@@ -1697,8 +1608,8 @@
     "nome": "Cruz",
     "cantor": "Bigair Dy Jaime",
     "tom": "G",
-    "youtube_principal": "https://www.youtube.com/watch?v=ybC4HEq-4Dk",
-    "youtube_secundario": "https://www.youtube.com/watch?v=rChHoz4_d5E",
+    "youtube_principal": "https://youtu.be/h7mRVFXqjlg?si=rvFcbK-2VpOhqQoP",
+    "youtube_secundario": "https://youtu.be/h7mRVFXqjlg?si=rvFcbK-2VpOhqQoP",
     "spotify": "https://open.spotify.com/track/4GLpnhegAiZPePoSgSLreG",
     "cifra": "https://www.cifraclub.com.br/kleber-lucas/aos-pes-da-cruz/"
   },
@@ -2221,12 +2132,12 @@
   {
     "id": "nada-mais",
     "nome": "Nada Mais",
-    "cantor": "Sarah Beatriz",
+    "cantor": "Gabriel Guedes",
     "tom": "D",
-    "youtube_principal": "https://www.youtube.com/embed/16,240,946",
-    "youtube_secundario": "https://www.youtube.com/watch?v=16,240,946",
-    "spotify": "https://open.spotify.com/track/16,240,946",
-    "cifra": "https://www.cifraclub.com.br/regis-danese/meu-universo/"
+    "youtube_principal": "https://youtu.be/OUyLQ4LwEBE?si=7evlOkID-EnpzFM-",
+    "youtube_secundario": "https://youtu.be/OUyLQ4LwEBE?si=7evlOkID-EnpzFM-",
+    "spotify": "https://open.spotify.com/track/5zy2TDvO0pbimWsvL7cTnl?si=eO9-QxmdQ86Sk67L7O_8xw",
+    "cifra": "https://www.cifraclub.com.br/gabriel-guedes/nada-mais/principal.html#instrument=guitar&key=3"
   },
   {
     "id": "liberta-me-de-mim",
@@ -2318,16 +2229,6 @@
     "youtube_secundario": "https://www.youtube.com/watch?v=lYvsCfeo3DQ",
     "spotify": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh",
     "cifra": "https://www.cifraclub.com.br/sarah-beatriz/o-medo-nao-vai-me-parar/"
-  },
-  {
-    "id": "boa-parte",
-    "nome": "A Boa Parte",
-    "cantor": "fhop music",
-    "tom": "E",
-    "youtube_principal": "https://www.youtube.com/watch?v=dlGOiuxSzVw",
-    "youtube_secundario": "https://www.youtube.com/watch?v=s3TZI4juMIQ",
-    "spotify": "https://open.spotify.com/track/3xYAYpik21I77zsZOpUJkW",
-    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/a-boa-parte/"
   },
   {
     "id": "primeira-essencia",
@@ -2520,16 +2421,6 @@
     "cifra": "https://www.cifraclub.com.br/sued-silva/reacende-a-chama/"
   },
   {
-    "id": "abre-os-selos",
-    "nome": "Abre Os Selos",
-    "cantor": "Nívea Soares",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=j940PKO3F4A",
-    "youtube_secundario": "https://www.youtube.com/watch?v=X6xfri22pCA",
-    "spotify": "https://open.spotify.com/track/5XdkhSQqT09mxxYWHavskg",
-    "cifra": "https://www.cifraclub.com.br/nivea-soares/abre-os-selos/"
-  },
-  {
     "id": "palavras",
     "nome": "Palavras",
     "cantor": "Lauriete",
@@ -2538,16 +2429,6 @@
     "youtube_secundario": "https://www.youtube.com/watch?v=2xe7bvtUA2A",
     "spotify": "https://open.spotify.com/track/4R0KtYtVHNdqS91IyfUGW3",
     "cifra": "https://www.cifraclub.com.br/lauriete/palavras/"
-  },
-  {
-    "id": "ate-que-nao-consiga-ficar-em-pe",
-    "nome": "Até Que Não Consiga Ficar Em Pé",
-    "cantor": "Daniel Berg",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=G1HWrJqdfww",
-    "youtube_secundario": "https://www.youtube.com/watch?v=vxmyUV2Q5Bw",
-    "spotify": "https://open.spotify.com/track/0Z6zHFnPyk99YnJCz7GM5b",
-    "cifra": "https://www.cifraclub.com.br/daniel-berg/ate-que-eu-nao-consiga-mais-ficar-de-pe/"
   },
   {
     "id": "joao-20-aqui-esta",
@@ -2579,17 +2460,6 @@
     "spotify": "https://open.spotify.com/track/4CBrgHWIpIkgATBKpJQtTb",
     "cifra": "https://www.cifraclub.com.br/adhemar-de-campos/o-nosso-general-e-cristo/"
   },
-  {
-    "id": "com-muito-louvor",
-    "nome": "Com Muito Louvor",
-    "cantor": "Thalles Roberto",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=CPZ17N036pM",
-    "youtube_secundario": "https://www.youtube.com/watch?v=o-cFktsu4hU",
-    "spotify": "https://open.spotify.com/track/6OdGVS306bbYNLuzZSJvGI",
-    "cifra": "https://www.cifraclub.com.br/thalles-roberto/com-muito-louvor/"
-  },
-
   {
     "id": "buscar-me-eis-e-me-achareis",
     "nome": "Buscar-me-Eis E Me Achareis",
@@ -2644,18 +2514,6 @@
     "spotify": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8",
     "cifra": "https://www.cifraclub.com.br/kemilly-santos/deus-de-obras-completas/"
   },
-
-  {
-    "id": "casa-do-pai",
-    "nome": "Casa Do Pai",
-    "cantor": "Aline Barros",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=JJdeKQDJcD8",
-    "youtube_secundario": "https://www.youtube.com/watch?v=JJdeKQDJcD8",
-    "spotify": "https://open.spotify.com/track/3cixPMjsVkVPyuy3Dv4A95",
-    "cifra": "https://www.cifraclub.com.br/aline-barros/casa-do-pai/"
-  },
-
   {
     "id": "o-melhor-lugar-do-mundo",
     "nome": "O Melhor Lugar Do Mundo",
@@ -2687,5 +2545,2735 @@
     "youtube_secundario": "https://youtu.be/a8U8yZsdsn0?si=XaTBG_zAIBbmg-vP",
     "spotify": "https://open.spotify.com/track/4r44vGTzNa3P9xFm7heTsX?si=1pB6AodDTPmXp0zCDkqnkQ",
     "cifra": "https://www.cifraclub.com.br/mara-lima/valor-de-uma-alma/principal.html#instrument=guitar&key=3"
-  }
+  }, 
+  {
+    "id": "bencaos-que-nao-tem-fim",
+    "nome": "Bençãos Que Não Têm Fim",
+    "cantor": "Isadora Pompeo",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Xq_07hEF2AQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Xq_07hEF2AQ",
+    "spotify": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1",
+    "cifra": "https://www.cifraclub.com.br/isadora-pompeo/isadora-pompeo-bencaos-que-nao-tem-fim-counting-my-blessings/"
+  },
+
+  {
+    "id": "se-eu-nao-te-ouvir",
+    "nome": "Se Eu Não Te Ouvir",
+    "cantor": "Sarah Farias",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/KXJpP0jd9Lk",
+    "youtube_secundario": "https://www.youtube.com/watch?v=KXJpP0jd9Lk",
+    "spotify": "https://open.spotify.com/track/3KPwNuVvCy0Q6XJ3PgHJbN",
+    "cifra": "https://www.cifraclub.com.br/sarah-farias/se-eu-nao-te-ouvir/"
+  },
+
+  {
+    "id": "raridade",
+    "nome": "Raridade",
+    "cantor": "Anderson Freire",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/G0FBO5v5JqI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=G0FBO5v5JqI",
+    "spotify": "https://open.spotify.com/track/4M8waY2JnpO8cCckw5wk28",
+    "cifra": "https://www.cifraclub.com.br/anderson-freire/raridade/"
+  },
+
+  {
+    "id": "deserto",
+    "nome": "Deserto",
+    "cantor": "Maria Marçal",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/0H6WYzM0TMg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=0H6WYzM0TMg",
+    "spotify": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7",
+    "cifra": "https://www.cifraclub.com.br/maria-marcal/deserto/"
+  },
+
+  {
+    "id": "eu-sou-teu-pai",
+    "nome": "Eu Sou Teu Pai",
+    "cantor": "Valesca Mayssa",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/kNJPalON82E",
+    "youtube_secundario": "https://www.youtube.com/watch?v=kNJPalON82E",
+    "spotify": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv",
+    "cifra": "https://www.cifraclub.com.br/valesca-mayssa/eu-sou-teu-pai/"
+  },
+
+  {
+    "id": "vem-habitar",
+    "nome": "Vem Habitar",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/vem-habitar/"
+  },
+
+  {
+    "id": "filho-do-homem",
+    "nome": "Filho do Homem",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3Fa2LQ7qoO8",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3Fa2LQ7qoO8",
+    "spotify": "https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/filho-do-homem/"
+  },
+
+  {
+    "id": "o-sol-brilha-mais-forte-agora",
+    "nome": "O Sol Brilha Mais Forte Agora",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/0TxmZvEXDX2VZBvS8c3DL0",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-sol-brilha-mais-forte-agora/"
+  },
+  {
+    "id": "uma-coisa",
+    "nome": "Uma Coisa",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/0TxmZvEXDX2VZBvS8c3DL0",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/uma-coisa/"
+  },
+
+  {
+    "id": "preciso-de-ti",
+    "nome": "Preciso de Ti",
+    "cantor": "Diante do Trono",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3q-pRKf-VaQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3q-pRKf-VaQ",
+    "spotify": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/preciso-de-ti/"
+  },
+
+  {
+    "id": "levanto-um-aleluia",
+    "nome": "Levanto um Aleluia",
+    "cantor": "Diante do Trono",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3cJf8vlrqEU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3cJf8vlrqEU",
+    "spotify": "https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/levanto-um-aleluia/"
+  },
+
+  {
+    "id": "coracao-igual-ao-teu",
+    "nome": "Coração Igual ao Teu",
+    "cantor": "Diante do Trono",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/ZfOpeP2SMx8",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ZfOpeP2SMx8",
+    "spotify": "https://open.spotify.com/track/0TxmZvEXDX2VZBvS8c3DL0",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/coracao-igual-ao-teu/"
+  },
+
+  {
+    "id": "sim-e-amen",
+    "nome": "Sim e Amém",
+    "cantor": "Diante do Trono",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5H9--YGZcK4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5H9--YGZcK4",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/sim-e-amen/"
+  },
+
+  {
+    "id": "senhor-e-rei",
+    "nome": "Senhor e Rei",
+    "cantor": "Trazendo a Arca",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5EYHr0RZI9w",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5EYHr0RZI9w",
+    "spotify": "https://open.spotify.com/track/2LWOizeNUqBcIN88qbLsBY",
+    "cifra": "https://www.cifraclub.com.br/trazendo-a-arca/senhor-e-rei/"
+  },
+
+  {
+    "id": "me-guia-em-tua-luz",
+    "nome": "Me Guia Em Tua Luz",
+    "cantor": "Maria Marçal & VICTIN",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3Oi9icwJvZCT5QcdpxTMiH",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3Oi9icwJvZCT5QcdpxTMiH",
+    "spotify": "https://open.spotify.com/track/5oD82FahIYH6YOTukDS2xx",
+    "cifra": "https://www.cifraclub.com.br/maria-marcal/me-guia-em-tua-luz/"
+  },
+
+  {
+    "id": "eu-vou-contar-tudo",
+    "nome": "Eu Vou Contar Tudo",
+    "cantor": "Ton Carfi",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/v3EjP6cFo00",
+    "youtube_secundario": "https://www.youtube.com/watch?v=v3EjP6cFo00",
+    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
+    "cifra": "https://www.cifraclub.com.br/ton-carfi/eu-vou-contar-tudo/"
+  },
+
+  {
+    "id": "gratidao",
+    "nome": "Gratidão",
+    "cantor": "Gabriel Brito",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6TcAMUOU-VY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6TcAMUOU-VY",
+    "spotify": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe",
+    "cifra": "https://www.cifraclub.com.br/gabriel-brito/gratidao/"
+  },
+
+  {
+    "id": "nao-tem-como-dar-errado",
+    "nome": "Não Tem Como Dar Errado",
+    "cantor": "Maria Marçal",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Yc_HS16WKJw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Yc_HS16WKJw",
+    "spotify": "https://open.spotify.com/track/0C4GG0b8X6k5Liagr5Ec1L",
+    "cifra": "https://www.cifraclub.com.br/maria-marcal/nao-tem-como-dar-errado/"
+  },
+
+  {
+    "id": "a-vitoria-chegou",
+    "nome": "A Vitória Chegou",
+    "cantor": "Aurelina Dourado",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/rBhlTUxAfdA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=rBhlTUxAfdA",
+    "spotify": "https://open.spotify.com/track/6SqZpvMfE3VlK5DFyRs1Wn",
+    "cifra": "https://www.cifraclub.com.br/aurelina-dourado/a-vitoria-chegou/"
+  },
+
+  {
+    "id": "um-dia-novo",
+    "nome": "Um Dia Novo",
+    "cantor": "Get Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/G67eyanae6o",
+    "youtube_secundario": "https://www.youtube.com/watch?v=G67eyanae6o",
+    "spotify": "https://open.spotify.com/track/6KgPk8mDkjPuUODSMvyh5t",
+    "cifra": "https://www.cifraclub.com.br/get-worship/um-dia-novo/"
+  },
+
+  {
+    "id": "cura",
+    "nome": "Cura",
+    "cantor": "Maria Marçal",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/CeIh0Ea35fQ?si=iB3qUWQe4uesIUDe",
+    "youtube_secundario": "https://youtu.be/CeIh0Ea35fQ?si=iB3qUWQe4uesIUDe",
+    "spotify": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ",
+    "cifra": "https://www.cifraclub.com.br/maria-marcal/cura/"
+  },
+
+  {
+    "id": "os-sonhos-de-deus",
+    "nome": "Os Sonhos de Deus",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/44EtclJ7J7I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=44EtclJ7J7I",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/os-sonhos-de-deus/"
+  },
+
+  {
+    "id": "enche-me",
+    "nome": "Enche-me",
+    "cantor": "Isaías Saad & Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/isaias-saad/enche-me/"
+  },
+
+  {
+    "id": "grandes-coisas",
+    "nome": "Grandes Coisas",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/grandes-coisas/"
+  },
+
+  {
+    "id": "cuido-dos-detalhes",
+    "nome": "Cuido dos Detalhes",
+    "cantor": "André & Felipe & Isadora Pompeo",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/5apoZ87t6Pw?si=d5KO3JAUCSRfpaFQ",
+    "youtube_secundario": "https://youtu.be/5apoZ87t6Pw?si=d5KO3JAUCSRfpaFQ",
+    "spotify": "https://open.spotify.com/track/7CuG9m0KPSSAm3fkitO5OB",
+    "cifra": "https://www.cifraclub.com.br/andre-e-felipe/cuido-dos-detalhes/"
+  },
+
+  {
+    "id": "lindo-momento",
+    "nome": "Lindo Momento",
+    "cantor": "DJ PV & Julliany Souza",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/lindo-momento/"
+  },
+
+  {
+    "id": "estamos-de-pe",
+    "nome": "Estamos de Pé",
+    "cantor": "Marcus Salles",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/CPZ17N036pM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=CPZ17N036pM",
+    "spotify": "https://open.spotify.com/track/6OdGVS306bbYNLuzZSJvGI",
+    "cifra": "https://www.cifraclub.com.br/marcus-salles/estamos-de-pe/"
+  },
+
+  {
+    "id": "vida-aos-sepulcros",
+    "nome": "Vida aos Sepulcros",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3Y0ewwo1b50",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3Y0ewwo1b50",
+    "spotify": "https://open.spotify.com/track/3g4TegeapKCe6KnUC6XU0J",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/vida-aos-sepulcros/"
+  },
+
+  {
+    "id": "restitui",
+    "nome": "Restitui",
+    "cantor": "Davi Sacer feat. Ton Carfi",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6TcAMUOU-VY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6TcAMUOU-VY",
+    "spotify": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe",
+    "cifra": "https://www.cifraclub.com.br/davi-sacer/restitui/"
+  },
+
+  {
+    "id": "hino-da-vitoria",
+    "nome": "Hino da Vitória",
+    "cantor": "Cassiane",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/SWm3wuU0PHs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=SWm3wuU0PHs",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/cassiane/hino-da-vitoria/"
+  },
+
+  {
+    "id": "aba",
+    "nome": "Aba",
+    "cantor": "Kemuel & Ton Carfi",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/4NBmNvqmnqg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=4NBmNvqmnqg",
+    "spotify": "https://open.spotify.com/track/6ntlFzraKmwFeLqk6MDnVK",
+    "cifra": "https://www.cifraclub.com.br/kemuel/aba/"
+  },
+
+  {
+    "id": "minha-calmaria",
+    "nome": "Minha Calmaria",
+    "cantor": "Gabriel Brito",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/XOpVpAWIcm0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=XOpVpAWIcm0",
+    "spotify": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP",
+    "cifra": "https://www.cifraclub.com.br/gabriel-brito/minha-calmaria/"
+  },
+
+  {
+    "id": "venha-ao-teu-reino",
+    "nome": "Venha ao Teu Reino",
+    "cantor": "Davi Sacer",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/sL30wkLYW7w",
+    "youtube_secundario": "https://www.youtube.com/watch?v=sL30wkLYW7w",
+    "spotify": "https://open.spotify.com/track/78opOd0x2ZftLIxAB2dmeO",
+    "cifra": "https://www.cifraclub.com.br/davi-sacer/venha-ao-teu-reino/"
+  },
+
+  {
+    "id": "meu-universo",
+    "nome": "Meu Universo",
+    "cantor": "PG",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/KEDvwgqDPVY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=KEDvwgqDPVY",
+    "spotify": "https://open.spotify.com/track/7jouhGGskAccZxl9uKNPuH",
+    "cifra": "https://www.cifraclub.com.br/pg/meu-universo/"
+  },
+
+  {
+    "id": "mesmo-sem-entender",
+    "nome": "Mesmo Sem Entender",
+    "cantor": "Thalles Roberto",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/thalles-roberto/mesmo-sem-entender/"
+  },
+
+  {
+    "id": "sonhe-grande",
+    "nome": "Sonhe Grande",
+    "cantor": "Delino Marçal",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/tu24YXpVSGo",
+    "youtube_secundario": "https://www.youtube.com/watch?v=tu24YXpVSGo",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/delino-marcal/sonhe-grande/"
+  },
+
+  {
+    "id": "nao-adoro-por-sinais",
+    "nome": "Não Adoro por Sinais",
+    "cantor": "Gabriel Brito",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6TcAMUOU-VY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6TcAMUOU-VY",
+    "spotify": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe",
+    "cifra": "https://www.cifraclub.com.br/gabriel-brito/nao-adoro-por-sinais/"
+  },
+
+  {
+    "id": "o-ceu-e-meu-lugar",
+    "nome": "O Céu É Meu Lugar",
+    "cantor": "Casa Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/casa-worship/o-ceu-e-meu-lugar/"
+  },
+
+  {
+    "id": "cancao-do-ceu",
+    "nome": "Canção do Céu",
+    "cantor": "Anderson Freire",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/zJOINygRqtQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=zJOINygRqtQ",
+    "spotify": "https://open.spotify.com/track/3xHMnLdbGlU3BgfLTnMHw8",
+    "cifra": "https://www.cifraclub.com.br/anderson-freire/cancao-do-ceu/"
+  },
+
+  {
+    "id": "infinitamente-mais",
+    "nome": "Infinitamente Mais",
+    "cantor": "Ton Carfi & Dilsinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/v3EjP6cFo00",
+    "youtube_secundario": "https://www.youtube.com/watch?v=v3EjP6cFo00",
+    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
+    "cifra": "https://www.cifraclub.com.br/ton-carfi/infinitamente-mais/"
+  },
+
+  {
+    "id": "coracao-de-joelhos",
+    "nome": "Coração de Joelhos",
+    "cantor": "Samuel Miranda",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/oyZ3-sCb2xY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=oyZ3-sCb2xY",
+    "spotify": "https://open.spotify.com/track/1izIEPiOSZyyVH70SoZZuU",
+    "cifra": "https://www.cifraclub.com.br/samuel-miranda/coracao-de-joelhos/"
+  },
+
+  {
+    "id": "galileu",
+    "nome": "Galileu",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/galileu/"
+  },
+
+  {
+    "id": "som-da-liberdade",
+    "nome": "Som da Liberdade",
+    "cantor": "DJ PV, Tevão Lino & Ivair Filho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/vOCRKAzsblg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=vOCRKAzsblg",
+    "spotify": "https://open.spotify.com/track/4U0OkbvolzQ5RbtzoqSpZt",
+    "cifra": "https://www.cifraclub.com.br/dj-pv/som-da-liberdade/"
+  },
+
+  {
+    "id": "yeshua",
+    "nome": "Yeshua",
+    "cantor": "Fernandinho & Heloisa Rosa",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/65VrsfFKZB7BK6m6Ngml2n",
+    "youtube_secundario": "https://www.youtube.com/watch?v=65VrsfFKZB7BK6m6Ngml2n",
+    "spotify": "https://open.spotify.com/track/0KoqMXZglx0vTCrzdBDlqy",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/yeshua/"
+  },
+
+  {
+    "id": "a-resposta",
+    "nome": "A Resposta",
+    "cantor": "Thalles Roberto",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/thalles-roberto/a-resposta/"
+  },
+
+  {
+    "id": "rendido-estou",
+    "nome": "Rendido Estou",
+    "cantor": "Aline Barros feat. Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/iXTCIBAHq7Q?si=I-unnmUSdWRaMSMg",
+    "youtube_secundario": "https://youtu.be/iXTCIBAHq7Q?si=I-unnmUSdWRaMSMg",
+    "spotify": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/rendido-estou/"
+  },
+
+  {
+    "id": "amigo-espirito-santo",
+    "nome": "Amigo Espírito Santo",
+    "cantor": "Cassiane",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/SWm3wuU0PHs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=SWm3wuU0PHs",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/cassiane/amigo-espirito-santo/"
+  },
+  {
+    "id": "vim-falar-com-deus",
+    "nome": "Vim Falar com Deus",
+    "cantor": "Delino Marçal",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/tu24YXpVSGo",
+    "youtube_secundario": "https://www.youtube.com/watch?v=tu24YXpVSGo",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/delino-marcal/vim-falar-com-deus/"
+  },
+
+  {
+    "id": "es-bom",
+    "nome": "Tu És Bom",
+    "cantor": "DJ PV & Julia Vitória",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/vOCRKAzsblg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=vOCRKAzsblg",
+    "spotify": "https://open.spotify.com/track/4U0OkbvolzQ5RbtzoqSpZt",
+    "cifra": "https://www.cifraclub.com.br/dj-pv/tu-es-bom/"
+  },
+
+  {
+    "id": "arde-outra-vez",
+    "nome": "Arde Outra Vez",
+    "cantor": "Thalles Roberto",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/thalles-roberto/arde-outra-vez/"
+  },
+
+  {
+    "id": "atraidospelo-fogo",
+    "nome": "Atraídos Pelo Fogo",
+    "cantor": "Casa Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/casa-worship/atraidospelo-fogo/"
+  },
+
+  {
+    "id": "eu-tenho-voce",
+    "nome": "Eu Tenho Você",
+    "cantor": "DJ PV, Marcelo Markes & Isadora Pompeo",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/C3EgGOBYk5s",
+    "youtube_secundario": "https://www.youtube.com/watch?v=C3EgGOBYk5s",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/dj-pv/eu-tenho-voce/"
+  },
+
+  {
+    "id": "o-teu-amor",
+    "nome": "O Teu Amor",
+    "cantor": "Kemuel",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3KPwNuVvCy0Q6XJ3PgHJbN",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3KPwNuVvCy0Q6XJ3PgHJbN",
+    "spotify": "https://open.spotify.com/track/3KPwNuVvCy0Q6XJ3PgHJbN",
+    "cifra": "https://www.cifraclub.com.br/kemuel/o-teu-amor/"
+  },
+
+  {
+    "id": "pra-sempre",
+    "nome": "Pra Sempre",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5H9--YGZcK4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5H9--YGZcK4",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/pra-sempre/"
+  },
+
+  {
+    "id": "a-bencao",
+    "nome": "A Bênção",
+    "cantor": "Aline Barros & Lukas Agustinho",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/aEufMNx0P74",
+    "youtube_secundario": "https://www.youtube.com/watch?v=aEufMNx0P74",
+    "spotify": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu",
+    "cifra": "https://www.cifraclub.com.br/gabriel-guedes/a-bencao/"
+  },
+  {
+    "id": "melhor-amigo",
+    "nome": "Melhor Amigo",
+    "cantor": "Nair Nany",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/lmm9iKoSpHc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=lmm9iKoSpHc",
+    "spotify": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE",
+    "cifra": "https://www.cifraclub.com.br/nair-nany/melhor-amigo/"
+  },
+
+  {
+    "id": "ovelhinha",
+    "nome": "Ovelhinha",
+    "cantor": "Isadora Pompeo",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/OEDQj7XucHg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=OEDQj7XucHg",
+    "spotify": "https://open.spotify.com/track/5XdkhSQqT09mxxYWHavskg",
+    "cifra": "https://www.cifraclub.com.br/isadora-pompeo/ovelhinha/"
+  },
+  {
+    "id": "quem-e-esse",
+    "nome": "Quem É Esse",
+    "cantor": "Julliany Souza",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
+  },
+
+  {
+    "id": "restaura-o-teu-altar",
+    "nome": "Restaura o Teu Altar",
+    "cantor": "Julia Vitória",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/MiMGdPB46jY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=MiMGdPB46jY",
+    "spotify": "https://open.spotify.com/track/5ZpV0fbUEMDaacLCOtDWjO",
+    "cifra": "https://www.cifraclub.com.br/julia-vitoria/restaura-o-teu-altar/"
+  },
+
+  {
+    "id": "santo-pra-sempre",
+    "nome": "Santo Pra Sempre",
+    "cantor": "Gabriel Guedes",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/wSKKEAnLTDw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+    "spotify": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai",
+    "cifra": "https://www.cifraclub.com.br/gabriel-guedes/santo-pra-sempre/"
+  },
+
+  {
+    "id": "dias-de-guerra",
+    "nome": "Dias de Guerra",
+    "cantor": "Jamily",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/36,808,202",
+    "youtube_secundario": "https://www.youtube.com/watch?v=36,808,202",
+    "spotify": "https://open.spotify.com/track/36,808,202",
+    "cifra": "https://www.cifraclub.com.br/jamily/dias-de-guerra/"
+  },
+
+  {
+    "id": "sossegai",
+    "nome": "Sossegai",
+    "cantor": "Lauriete",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/619,102",
+    "youtube_secundario": "https://www.youtube.com/watch?v=619,102",
+    "spotify": "https://open.spotify.com/track/619,102",
+    "cifra": "https://www.cifraclub.com.br/lauriete/sossegai/"
+  },
+
+  {
+    "id": "outra-vez",
+    "nome": "Outra Vez",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3:53",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3:53",
+    "spotify": "https://open.spotify.com/track/3:53",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/outra-vez/"
+  },
+
+  {
+    "id": "grande-e-o-senhor",
+    "nome": "Grande é o Senhor",
+    "cantor": "David Quinlan",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/92,409,434",
+    "youtube_secundario": "https://www.youtube.com/watch?v=92,409,434",
+    "spotify": "https://open.spotify.com/track/92,409,434",
+    "cifra": "https://www.cifraclub.com.br/david-quinlan/grande-e-o-senhor/"
+  },
+  {
+    "id": "liberta-me-de-mim",
+    "nome": "Liberta-me de Mim",
+    "cantor": "Quatro por Um",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/36,808,202",
+    "youtube_secundario": "https://www.youtube.com/watch?v=36,808,202",
+    "spotify": "https://open.spotify.com/track/36,808,202",
+    "cifra": "https://www.cifraclub.com.br/quatro-por-um/liberta-me-de-mim/"
+  },
+
+  {
+    "id": "tu-es-aguas-purificadoras",
+    "nome": "Tu És Águas Purificadoras",
+    "cantor": "Voz da Verdade",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/619,102",
+    "youtube_secundario": "https://www.youtube.com/watch?v=619,102",
+    "spotify": "https://open.spotify.com/track/619,102",
+    "cifra": "https://www.cifraclub.com.br/voz-da-verdade/tu-es-aguas-purificadoras/"
+  },
+
+  {
+    "id": "se-isso-nao-for-amor",
+    "nome": "Se Isso Não For Amor",
+    "cantor": "Harpa Cristã",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3:53",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3:53",
+    "spotify": "https://open.spotify.com/track/3:53",
+    "cifra": "https://www.cifraclub.com.br/harpa-crista/se-isso-nao-for-amor/"
+  },
+
+  {
+    "id": "yahweh-se-manifestara",
+    "nome": "Yahweh se Manifestará",
+    "cantor": "Oasis Ministry",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/92,409,434",
+    "youtube_secundario": "https://www.youtube.com/watch?v=92,409,434",
+    "spotify": "https://open.spotify.com/track/92,409,434",
+    "cifra": "https://www.cifraclub.com.br/oasis-ministry/yahweh-se-manifestara/"
+  },
+
+  {
+    "id": "vida-aos-sepulcros-2",
+    "nome": "Vida Aos Sepulcros",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/16,240,946",
+    "youtube_secundario": "https://www.youtube.com/watch?v=16,240,946",
+    "spotify": "https://open.spotify.com/track/16,240,946",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/vida-aos-sepulcros/"
+  },
+
+  {
+    "id": "romanos-826",
+    "nome": "Romanos 8:26",
+    "cantor": "Casa Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/36,808,202",
+    "youtube_secundario": "https://www.youtube.com/watch?v=36,808,202",
+    "spotify": "https://open.spotify.com/track/36,808,202",
+    "cifra": "https://www.cifraclub.com.br/casa-worship/romanos-826/"
+  },
+
+  {
+    "id": "eu-falo-jesus",
+    "nome": "Eu Falo Jesus",
+    "cantor": "Resgate Music",
+    "tom": "E",
+    "youtube_principal": "https://www.youtube.com/embed/XT5qcE4M6-E",
+    "youtube_secundario": "https://www.youtube.com/watch?v=XT5qcE4M6-E",
+    "spotify": "https://open.spotify.com/track/4wAOE38erKH5LNw95M18Lf",
+    "cifra": "https://www.cifraclub.com.br/resgate-music/eu-falo-jesus/"
+  },
+
+  {
+    "id": "so-quero-queimar",
+    "nome": "Só Quero Queimar",
+    "cantor": "Jhonas Serra",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/ITYf2gh5Lqo",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ITYf2gh5Lqo",
+    "spotify": "https://open.spotify.com/track/0n4xiWLe6UIxImIgZ3sCqE",
+    "cifra": "https://www.cifraclub.com.br/jhonas-serra/so-quero-queimar/"
+  },
+
+  {
+    "id": "o-medo-nao-vai-me-parar",
+    "nome": "O Medo Não Vai Me Parar",
+    "cantor": "Sarah Beatriz",
+    "tom": "C",
+    "youtube_principal": "https://www.youtube.com/embed/VVBbZmeWEl0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=VVBbZmeWEl0",
+    "spotify": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh",
+    "cifra": "https://www.cifraclub.com.br/sarah-beatriz/o-medo-nao-vai-me-parar/"
+  },
+
+  {
+    "id": "boa-parte",
+    "nome": "A Boa Parte",
+    "cantor": "fhop music",
+    "tom": "E",
+    "youtube_principal": "https://www.youtube.com/embed/dlGOiuxSzVw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=dlGOiuxSzVw",
+    "spotify": "https://open.spotify.com/track/3xYAYpik21I77zsZOpUJkW",
+    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/a-boa-parte/"
+  },
+
+  {
+    "id": "primeira-essencia",
+    "nome": "Primeira Essência",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/HN55iqXQtiQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=HN55iqXQtiQ",
+    "spotify": "https://open.spotify.com/track/7mgpEdSEkzWyHmqa6gA8DE",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/primeira-essencia/"
+  },
+
+  {
+    "id": "me-leva-pra-casa",
+    "nome": "Me Leva Pra Casa",
+    "cantor": "Israel Subirá",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/80SJ8XHqKqM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=80SJ8XHqKqM",
+    "spotify": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T",
+    "cifra": "https://www.cifraclub.com.br/israel-subira/me-leva-pra-casa/"
+  },
+
+  {
+    "id": "lindo-momento",
+    "nome": "Lindo Momento",
+    "cantor": "Julliany Souza",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/lindo-momento/"
+  },
+
+  {
+    "id": "renovo",
+    "nome": "Renovo",
+    "cantor": "Sarah Farias",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/jApvWOGhKyo",
+    "youtube_secundario": "https://www.youtube.com/watch?v=jApvWOGhKyo",
+    "spotify": "https://open.spotify.com/track/4kNbUaQeaG8pc2W82ukGyh",
+    "cifra": "https://www.cifraclub.com.br/sarah-farias/renovo/"
+  },
+
+  {
+    "id": "quase-morri",
+    "nome": "Quase Morri",
+    "cantor": "Marcos Antônio",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/b0BfHrxToj8",
+    "youtube_secundario": "https://www.youtube.com/watch?v=b0BfHrxToj8",
+    "spotify": "https://open.spotify.com/track/7IUzlg0H39s2WMWPNNAgqe",
+    "cifra": "https://www.cifraclub.com.br/marcos-antonio/quase-morri/"
+  },
+
+  {
+    "id": "escape-nunca-pare-de-lutar",
+    "nome": "Escape + Nunca Pare de Lutar",
+    "cantor": "Jadson Moreno",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/MepW-YIO7Ls",
+    "youtube_secundario": "https://www.youtube.com/watch?v=MepW-YIO7Ls",
+    "spotify": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9",
+    "cifra": "https://www.cifraclub.com.br/jadson-moreno/escape-nunca-pare-de-lutar/"
+  },
+
+  {
+    "id": "senhor-te-quero",
+    "nome": "Senhor Te Quero",
+    "cantor": "Ministério Vineyard",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/8ZylBo6Zv18",
+    "youtube_secundario": "https://www.youtube.com/watch?v=8ZylBo6Zv18",
+    "spotify": "https://open.spotify.com/track/6WmlPRkJH68P7tmkFuQe3z",
+    "cifra": "https://www.cifraclub.com.br/vineyard/senhor-te-quero/"
+  },
+
+  {
+    "id": "medley-te-agradeco",
+    "nome": "Medley Te Agradeço",
+    "cantor": "Diante do Trono",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/8gKsfcIvnt0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=8gKsfcIvnt0",
+    "spotify": "https://open.spotify.com/track/267ad5QWyvi30NcZPCYQZj",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/medley-te-agradeco/"
+  },
+
+  {
+    "id": "nao-ha-deus-maior",
+    "nome": "Não Há Deus Maior",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/ubm9GK8jf84",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ubm9GK8jf84",
+    "spotify": "https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/nao-ha-deus-maior/"
+  },
+  {
+    "id": "impacto",
+    "nome": "Impacto",
+    "cantor": "Suellen Lima",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/soWqyZvRVPA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=soWqyZvRVPA",
+    "spotify": "https://open.spotify.com/track/4cAW8tEZOUDlO2M2wDHWCR",
+    "cifra": "https://www.cifraclub.com.br/suellen-lima/impacto/"
+  },
+
+  {
+    "id": "fidelidade",
+    "nome": "Fidelidade",
+    "cantor": "Danielle Cristina",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/HMIHtZXijNc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=HMIHtZXijNc",
+    "spotify": "https://open.spotify.com/track/68McOe4uvV9uJlQVu65duX",
+    "cifra": "https://www.cifraclub.com.br/danielle-cristina/fidelidade/"
+  },
+
+  {
+    "id": "e-ele",
+    "nome": "É Ele",
+    "cantor": "Drops INA",
+    "tom": "A#",
+    "youtube_principal": "https://www.youtube.com/embed/L3b2gRB7YVc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=L3b2gRB7YVc",
+    "spotify": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13",
+    "cifra": "https://www.cifraclub.com.br/drops-ina/e-ele/"
+  },
+
+  {
+    "id": "essencia-da-adoracao-2",
+    "nome": "Essência da Adoração",
+    "cantor": "David Quinlan",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/ZfOpeP2SMx8",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ZfOpeP2SMx8",
+    "spotify": "https://open.spotify.com/track/33zDjtriW7iFYTcrgKJ0m1",
+    "cifra": "https://www.cifraclub.com.br/david-quinlan/essencia-da-adoracao/"
+  },
+
+  {
+    "id": "foi-na-cruz",
+    "nome": "Foi Na Cruz",
+    "cantor": "Jefferson & Suellen",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/392zVjhxurA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=392zVjhxurA",
+    "spotify": "https://open.spotify.com/track/319hNdVYuignA2FpAqpDTW",
+    "cifra": "https://www.cifraclub.com.br/jefferson-e-suellen/foi-na-cruz/"
+  },
+
+  {
+    "id": "saudade",
+    "nome": "Saudade",
+    "cantor": "Felipe Rodrigues",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/23kl8jSXRok",
+    "youtube_secundario": "https://www.youtube.com/watch?v=23kl8jSXRok",
+    "spotify": "https://open.spotify.com/track/7q7PwDUnmnKbi1jeF5dylY",
+    "cifra": "https://www.cifraclub.com.br/felipe-rodrigues/saudade/"
+  },
+
+  {
+    "id": "meu-universo",
+    "nome": "Meu Universo",
+    "cantor": "PG",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/KEDvwgqDPVY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=KEDvwgqDPVY",
+    "spotify": "https://open.spotify.com/track/7jouhGGskAccZxl9uKNPuH",
+    "cifra": "https://www.cifraclub.com.br/pg/meu-universo/"
+  },
+
+  {
+    "id": "reacende-a-chama",
+    "nome": "Reacende a Chama",
+    "cantor": "Sued Silva",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/MfzYPahyqYo",
+    "youtube_secundario": "https://www.youtube.com/watch?v=MfzYPahyqYo",
+    "spotify": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg",
+    "cifra": "https://www.cifraclub.com.br/sued-silva/reacende-a-chama/"
+  },
+
+  {
+    "id": "abre-os-selos",
+    "nome": "Abre Os Selos",
+    "cantor": "Nívea Soares",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/j940PKO3F4A",
+    "youtube_secundario": "https://www.youtube.com/watch?v=j940PKO3F4A",
+    "spotify": "https://open.spotify.com/track/5XdkhSQqT09mxxYWHavskg",
+    "cifra": "https://www.cifraclub.com.br/nivea-soares/abre-os-selos/"
+  },
+
+  {
+    "id": "palavras",
+    "nome": "Palavras",
+    "cantor": "Lauriete",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/La2-W-Ex6q4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=La2-W-Ex6q4",
+    "spotify": "https://open.spotify.com/track/4R0KtYtVHNdqS91IyfUGW3",
+    "cifra": "https://www.cifraclub.com.br/lauriete/palavras/"
+  },
+
+  {
+    "id": "ate-que-nao-consiga-ficar-em-pe",
+    "nome": "Até Que Não Consiga Ficar Em Pé",
+    "cantor": "Daniel Berg",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/G1HWrJqdfww",
+    "youtube_secundario": "https://www.youtube.com/watch?v=G1HWrJqdfww",
+    "spotify": "https://open.spotify.com/track/0Z6zHFnPyk99YnJCz7GM5b",
+    "cifra": "https://www.cifraclub.com.br/daniel-berg/ate-que-nao-consiga-ficar-em-pe/"
+  },
+  {
+    "id": "com-muito-louvor-thalles",
+    "nome": "Com Muito Louvor",
+    "cantor": "Thalles Roberto",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/CPZ17N036pM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=CPZ17N036pM",
+    "spotify": "https://open.spotify.com/track/6OdGVS306bbYNLuzZSJvGI",
+    "cifra": "https://www.cifraclub.com.br/thalles-roberto/com-muito-louvor/"
+  },
+  {
+    "id": "se-hoje-me-toca",
+    "nome": "Se Hoje Me Toca",
+    "cantor": "José Jr.",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/lRL8rt55szw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=lRL8rt55szw",
+    "spotify": "https://open.spotify.com/track/2aHIXgsgccgg4j8BBzrvb6",
+    "cifra": "https://www.cifraclub.com.br/jose-augusto-five-music/se-hoje-me-toca/"
+  },
+
+  {
+    "id": "tudo-e-perda",
+    "nome": "Tudo É Perda",
+    "cantor": "Felipe Rodrigues",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/rodJCufTHs4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=rodJCufTHs4",
+    "spotify": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2",
+    "cifra": "https://www.cifraclub.com.br/felipe-rodrigues/tudo-e-perda/"
+  },
+
+  {
+    "id": "santos",
+    "nome": "Santos",
+    "cantor": "Sarah Oliveira",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/trPtAAEtCIY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=trPtAAEtCIY",
+    "spotify": "https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2",
+    "cifra": "https://www.cifraclub.com.br/sarah-oliveira/santos/"
+  },
+
+  {
+    "id": "deus-de-obras-completas",
+    "nome": "Deus De Obras Completas",
+    "cantor": "Kemilly Santos",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/tkURIl2I8jM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=tkURIl2I8jM",
+    "spotify": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8",
+    "cifra": "https://www.cifraclub.com.br/kemilly-santos/deus-de-obras-completas/"
+  },
+  {
+    "id": "o-melhor-lugar-do-mundo",
+    "nome": "O Melhor Lugar Do Mundo",
+    "cantor": "Eli Soares",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/Zp7mr9ivXAw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Zp7mr9ivXAw",
+    "spotify": "https://open.spotify.com/track/5699h5r8oxt6Q0l6Lsgh9z",
+    "cifra": "https://www.cifraclub.com.br/eli-soares/o-melhor-lugar-do-mundo/"
+  },
+  {
+    "id": "quem-e-esse",
+    "nome": "Quem É Esse?",
+    "cantor": "Julliany Souza",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
+  },
+
+  {
+    "id": "um-novo-dia",
+    "nome": "Um Novo Dia",
+    "cantor": "Get Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/G67eyanae6o",
+    "youtube_secundario": "https://www.youtube.com/watch?v=G67eyanae6o",
+    "spotify": "https://open.spotify.com/track/6KgPk8mDkjPuUODSMvyh5t",
+    "cifra": "https://www.cifraclub.com.br/get-worship/um-novo-dia/"
+  },
+  {
+    "id": "bondade-de-deus",
+    "nome": "Bondade de Deus",
+    "cantor": "Isaías Saad",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/wSKKEAnLTDw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+    "spotify": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai",
+    "cifra": "https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/"
+  },
+
+  {
+    "id": "santo-pra-sempre",
+    "nome": "Santo Pra Sempre",
+    "cantor": "Gabriel Guedes",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/wSKKEAnLTDw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+    "spotify": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai",
+    "cifra": "https://www.cifraclub.com.br/gabriel-guedes/santo-pra-sempre/"
+  },
+
+  {
+    "id": "toda-terra",
+    "nome": "Toda Terra",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/44EtclJ7J7I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=44EtclJ7J7I",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/toda-terra/"
+  },
+
+  {
+    "id": "igual-nao-ha",
+    "nome": "Igual Não Há",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/igual-nao-ha/"
+  },
+
+  {
+    "id": "acorda-brasil",
+    "nome": "Acorda Brasil",
+    "cantor": "Ministério Vineyard",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/8ZylBo6Zv18",
+    "youtube_secundario": "https://www.youtube.com/watch?v=8ZylBo6Zv18",
+    "spotify": "https://open.spotify.com/track/6WmlPRkJH68P7tmkFuQe3z",
+    "cifra": "https://www.cifraclub.com.br/vineyard/acorda-brasil/"
+  },
+
+  {
+    "id": "sonha-mesmo",
+    "nome": "Sonha Mesmo",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/sonha-mesmo/"
+  },
+
+  {
+    "id": "renova-minha-vida",
+    "nome": "Renova Minha Vida",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/ZWzjC9dl9tI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ZWzjC9dl9tI",
+    "spotify": "https://open.spotify.com/track/4CJBIkdci4FNFXpaiJK3fi",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/renova-minha-vida/"
+  },
+
+  {
+    "id": "the-ascension",
+    "nome": "The Ascension",
+    "cantor": "Elevation Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3cJf8vlrqEU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3cJf8vlrqEU",
+    "spotify": "https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz",
+    "cifra": "https://www.cifraclub.com.br/elevation-worship/the-ascension/"
+  },
+
+  {
+    "id": "no-teu-silencio",
+    "nome": "No Teu Silêncio",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/no-teu-silencio/"
+  },
+
+  {
+    "id": "ele-e-jesus",
+    "nome": "Ele É Jesus",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/ele-e-jesus/"
+  },
+
+  {
+    "id": "so-agradecer",
+    "nome": "Só Agradecer",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/so-agradecer/"
+  },
+
+  {
+    "id": "como-sera-o-amanha",
+    "nome": "Como Será o Amanhã",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/como-sera-o-amanha/"
+  },
+
+  {
+    "id": "apenas-creia",
+    "nome": "Apenas Creia",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/apenas-creia/"
+  },
+
+  {
+    "id": "este-e-o-mover",
+    "nome": "Este É o Mover",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/este-e-o-mover/"
+  },
+
+  {
+    "id": "reino-de-deus",
+    "nome": "Reino de Deus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/reino-de-deus/"
+  },
+  {
+    "id": "e-tudo-sobre-voce-morada",
+    "nome": "É Tudo Sobre Você",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/UnEd_pFGWGw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=UnEd_pFGWGw",
+    "spotify": "https://open.spotify.com/track/5GKfNd0KJQe6d0tAFTbpoL",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/e-tudo-sobre-voce/"
+  },
+
+  {
+    "id": "boa-nova",
+    "nome": "Boa Nova",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/boa-nova/"
+  },
+
+  {
+    "id": "anseio",
+    "nome": "Anseio",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/anseio/"
+  },
+
+  {
+    "id": "santo-de-israel",
+    "nome": "Santo de Israel",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/santo-de-israel/"
+  },
+
+  {
+    "id": "teus-altares",
+    "nome": "Teus Altares",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
+  },
+
+  {
+    "id": "reino-de-deus-2",
+    "nome": "Reino de Deus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/reino-de-deus/"
+  },
+  {
+    "id": "e-tudo-sobre-voce-morada-2",
+    "nome": "É Tudo Sobre Você",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/UnEd_pFGWGw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=UnEd_pFGWGw",
+    "spotify": "https://open.spotify.com/track/5GKfNd0KJQe6d0tAFTbpoL",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/e-tudo-sobre-voce/"
+  },
+  {
+    "id": "santo-de-israel-2",
+    "nome": "Santo de Israel",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/santo-de-israel/"
+  },
+
+  {
+    "id": "teus-altares-2",
+    "nome": "Teus Altares",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
+  },
+
+  {
+    "id": "reino-de-deus-3",
+    "nome": "Reino de Deus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/reino-de-deus/"
+  },
+  {
+    "id": "e-tudo-sobre-voce-morada-3",
+    "nome": "É Tudo Sobre Você",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/UnEd_pFGWGw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=UnEd_pFGWGw",
+    "spotify": "https://open.spotify.com/track/5GKfNd0KJQe6d0tAFTbpoL",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/e-tudo-sobre-voce/"
+  },
+  {
+    "id": "santo-de-israel-3",
+    "nome": "Santo de Israel",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/santo-de-israel/"
+  },
+
+  {
+    "id": "teus-altares-3",
+    "nome": "Teus Altares",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
+  },
+
+  {
+    "id": "reino-de-deus-4",
+    "nome": "Reino de Deus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/reino-de-deus/"
+  },
+  {
+    "id": "e-tudo-sobre-voce-morada-4",
+    "nome": "É Tudo Sobre Você",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/UnEd_pFGWGw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=UnEd_pFGWGw",
+    "spotify": "https://open.spotify.com/track/5GKfNd0KJQe6d0tAFTbpoL",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/e-tudo-sobre-voce/"
+  },
+  {
+    "id": "santo-de-israel-4",
+    "nome": "Santo de Israel",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/santo-de-israel/"
+  },
+
+  {
+    "id": "teus-altares-4",
+    "nome": "Teus Altares",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
+  },
+
+  {
+    "id": "reino-de-deus-5",
+    "nome": "Reino de Deus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/reino-de-deus/"
+  },
+  {
+    "id": "e-tudo-sobre-voce-morada-5",
+    "nome": "É Tudo Sobre Você",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/UnEd_pFGWGw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=UnEd_pFGWGw",
+    "spotify": "https://open.spotify.com/track/5GKfNd0KJQe6d0tAFTbpoL",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/e-tudo-sobre-voce/"
+  },
+  {
+    "id": "santo-de-israel-5",
+    "nome": "Santo de Israel",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/santo-de-israel/"
+  },
+
+  {
+    "id": "teus-altares-5",
+    "nome": "Teus Altares",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
+  },
+  {
+    "id": "quem-e-esse",
+    "nome": "Quem É Esse?",
+    "cantor": "Julliany Souza",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
+  },
+
+  {
+    "id": "um-novo-dia",
+    "nome": "Um Novo Dia",
+    "cantor": "Get Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/G67eyanae6o",
+    "youtube_secundario": "https://www.youtube.com/watch?v=G67eyanae6o",
+    "spotify": "https://open.spotify.com/track/6KgPk8mDkjPuUODSMvyh5t",
+    "cifra": "https://www.cifraclub.com.br/get-worship/um-novo-dia/"
+  },
+
+  {
+    "id": "joao-20-pra-sempre",
+    "nome": "João 20 + Pra Sempre",
+    "cantor": "Vitor Santana",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/qj-XYUUVN2Q",
+    "youtube_secundario": "https://www.youtube.com/watch?v=qj-XYUUVN2Q",
+    "spotify": "https://open.spotify.com/track/7wQkGSBzcVAsJHu4PK1mIz",
+    "cifra": "https://www.cifraclub.com.br/vitor-santana/joao-20-pra-sempre/"
+  },
+  {
+    "id": "tudo-e-perda",
+    "nome": "Tudo É Perda",
+    "cantor": "Felipe Rodrigues",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/rodJCufTHs4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=rodJCufTHs4",
+    "spotify": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2",
+    "cifra": "https://www.cifraclub.com.br/felipe-rodrigues/tudo-e-perda/"
+  },
+  {
+    "id": "sonha-mesmo",
+    "nome": "Sonha Mesmo",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/sonha-mesmo/"
+  },
+
+  {
+    "id": "renova-minha-vida",
+    "nome": "Renova Minha Vida",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/ZWzjC9dl9tI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ZWzjC9dl9tI",
+    "spotify": "https://open.spotify.com/track/4CJBIkdci4FNFXpaiJK3fi",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/renova-minha-vida/"
+  },
+
+  {
+    "id": "the-ascension",
+    "nome": "The Ascension",
+    "cantor": "Elevation Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3cJf8vlrqEU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3cJf8vlrqEU",
+    "spotify": "https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz",
+    "cifra": "https://www.cifraclub.com.br/elevation-worship/the-ascension/"
+  },
+
+  {
+    "id": "no-teu-silencio",
+    "nome": "No Teu Silêncio",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/no-teu-silencio/"
+  },
+
+  {
+    "id": "ele-e-jesus",
+    "nome": "Ele É Jesus",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/ele-e-jesus/"
+  },
+
+  {
+    "id": "so-agradecer",
+    "nome": "Só Agradecer",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/so-agradecer/"
+  },
+  {
+    "id": "este-e-o-mover",
+    "nome": "Este É o Mover",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/7K9KiqxCtio",
+    "youtube_secundario": "https://www.youtube.com/watch?v=7K9KiqxCtio",
+    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/este-e-o-mover/"
+  },
+
+  {
+    "id": "reino-de-deus",
+    "nome": "Reino de Deus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/reino-de-deus/"
+  },
+
+  {
+    "id": "cristo-sustenta",
+    "nome": "Cristo Sustenta",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/NNaPxaoWxXY?si=SZWsOQEY7Kh1mZst",
+    "youtube_secundario": "https://www.youtube.com/watch?v=NNaPxaoWxXY",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/cristo-sustenta/"
+  },
+
+  {
+    "id": "ao-lembrarmos",
+    "nome": "Ao Lembrarmos",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/HFJvsLDWWNY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=HFJvsLDWWNY",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/ao-lembrarmos/"
+  },
+  {
+    "id": "e-tudo-sobre-voce-morada",
+    "nome": "É Tudo Sobre Você",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/UnEd_pFGWGw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=UnEd_pFGWGw",
+    "spotify": "https://open.spotify.com/track/5GKfNd0KJQe6d0tAFTbpoL",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/e-tudo-sobre-voce/"
+  },
+  {
+    "id": "santo-de-israel",
+    "nome": "Santo de Israel",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/santo-de-israel/"
+  },
+
+  {
+    "id": "teus-altares",
+    "nome": "Teus Altares",
+    "cantor": "Morada",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5QHF5OQeFOs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5QHF5OQeFOs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
+  },
+
+  {
+    "id": "o-fogo-nunca-dorme",
+    "nome": "O Fogo Nunca Dorme",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3RLZBfA2ixs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3RLZBfA2ixs",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-fogo-nunca-dorme/"
+  },
+
+  {
+    "id": "tu-es-tudo",
+    "nome": "Tu És Tudo",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/tu-es-tudo/"
+  },
+
+  {
+    "id": "peregrino",
+    "nome": "Peregrino",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/peregrino/"
+  },
+
+  {
+    "id": "o-carpinteiro",
+    "nome": "O Carpinteiro",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3RLZBfA2ixs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3RLZBfA2ixs",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-carpinteiro/"
+  },
+
+  {
+    "id": "quero-conhecer-jesus",
+    "nome": "Quero Conhecer Jesus",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/dnxkpr6UAMI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=dnxkpr6UAMI",
+    "spotify": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/quero-conhecer-jesus/"
+  },
+  {
+    "id": "igual-nao-ha",
+    "nome": "Igual Não Há",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/igual-nao-ha/"
+  },
+
+  {
+    "id": "me-atraiu",
+    "nome": "Me Atraiu",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3SvRpIro9RI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3SvRpIro9RI",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/me-atraiu/"
+  },
+
+  {
+    "id": "os-sonhos-de-deus",
+    "nome": "Os Sonhos de Deus",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/44EtclJ7J7I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=44EtclJ7J7I",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/os-sonhos-de-deus/"
+  },
+
+  {
+    "id": "a-alma-abatida",
+    "nome": "A Alma Abatida",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/a-alma-abatida/"
+  },
+
+  {
+    "id": "jeova-jireh",
+    "nome": "Jeová Jireh",
+    "cantor": "Aline Barros",
+    "tom": "F",
+    "youtube_principal": "https://www.youtube.com/embed/4Yy9lJCUmQw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=4Yy9lJCUmQw",
+    "spotify": "https://open.spotify.com/track/7nESz4NOClWaOxwfQhZidN",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/jeova-jireh/"
+  },
+
+  {
+    "id": "porque-ele-vive",
+    "nome": "Porque Ele Vive",
+    "cantor": "Aline Barros",
+    "tom": "C",
+    "youtube_principal": "https://www.youtube.com/embed/Mwkb5To-4M0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Mwkb5To-4M0",
+    "spotify": "https://open.spotify.com/track/0b21zPsSVctrH0rUr7VWVO",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/porque-ele-vive/"
+  },
+
+  {
+    "id": "sonda-me-usa-me",
+    "nome": "Sonda-me Usa-me",
+    "cantor": "Aline Barros",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/3_1f4g4yQ5M",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3_1f4g4yQ5M",
+    "spotify": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/"
+  },
+
+  {
+    "id": "vitoria-no-deserto",
+    "nome": "Vitória No Deserto",
+    "cantor": "Aline Barros",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/TWBdN9qGL2c",
+    "youtube_secundario": "https://www.youtube.com/watch?v=TWBdN9qGL2c",
+    "spotify": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/vitoria-no-deserto/"
+  },
+
+  {
+    "id": "eu-navegarei",
+    "nome": "Eu Navegarei",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/eu-navegarei/"
+  },
+
+  {
+    "id": "pai-nosso",
+    "nome": "Pai Nosso",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/44EtclJ7J7I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=44EtclJ7J7I",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/pai-nosso/"
+  },
+
+  {
+    "id": "lugar-secreto",
+    "nome": "Lugar Secreto",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/YnrN0o0lubM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=YnrN0o0lubM",
+    "spotify": "https://open.spotify.com/track/5RKekXXd9ltF7zirPXEAb5",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/lugar-secreto/"
+  },
+
+  {
+    "id": "ninguem-explica-deus",
+    "nome": "Ninguém Explica Deus",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/51sCqn8ul308",
+    "youtube_secundario": "https://www.youtube.com/watch?v=51sCqn8ul308",
+    "spotify": "https://open.spotify.com/track/51nTdPKg2nd1wMxStXdE2Xe",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/ninguem-explica-deus/"
+  },
+
+  {
+    "id": "lindo-es",
+    "nome": "Lindo És",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/o-hUEnkwoDc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=o-hUEnkwoDc",
+    "spotify": "https://open.spotify.com/track/3o0bKrrUtt1v4GcxQERGAu",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/lindo-es/"
+  },
+
+  {
+    "id": "vim-para-adorar-te",
+    "nome": "Vim Para Adorar-Te",
+    "cantor": "Gabriela Rocha",
+    "tom": "E",
+    "youtube_principal": "https://www.youtube.com/embed/53sCqn8ul308",
+    "youtube_secundario": "https://www.youtube.com/watch?v=53sCqn8ul308",
+    "spotify": "https://open.spotify.com/track/53nTdPKg2nd1wMxStXdE2Xe",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/vim-para-adorar-te/"
+  },
+
+  {
+    "id": "so-tu-es-santo",
+    "nome": "Só Tu És Santo",
+    "cantor": "Morada",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/Kh14SNPaHco",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Kh14SNPaHco",
+    "spotify": "https://open.spotify.com/track/0JJ6c3VtruBt2DrFM9dC7u",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/so-tu-es-santo/"
+  },
+
+  {
+    "id": "o-tabernaculo",
+    "nome": "O Tabernáculo",
+    "cantor": "Voz da Verdade",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/00hRp1TwgqY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=00hRp1TwgqY",
+    "spotify": "https://open.spotify.com/track/3vhAqeJJjx25xYswKZxMat",
+    "cifra": "https://www.cifraclub.com.br/voz-da-verdade/o-tabernaculo/"
+  },
+
+  {
+    "id": "vai-chover",
+    "nome": "Vai Chover",
+    "cantor": "Fernandinho",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/BjaFZo1dxRA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=BjaFZo1dxRA",
+    "spotify": "https://open.spotify.com/track/1KgGFjOWKzSwiCVYBVVojm",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/vai-chover/"
+  },
+
+  {
+    "id": "perto-quero-estar",
+    "nome": "Perto Quero Estar",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/IZJkJvnnHiE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=IZJkJvnnHiE",
+    "spotify": "https://open.spotify.com/track/4riVncKC2BHr2xjPvSxKak",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/perto-quero-estar/"
+  },
+
+  {
+    "id": "pra-sempre",
+    "nome": "Pra Sempre",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5H9--YGZcK4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5H9--YGZcK4",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/pra-sempre/"
+  },
+
+  {
+    "id": "quao-grande-e-meu-deus",
+    "nome": "Quão Grande É o Meu Deus",
+    "cantor": "Soraya Moraes",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/IT827htf_S8",
+    "youtube_secundario": "https://www.youtube.com/watch?v=IT827htf_S8",
+    "spotify": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd",
+    "cifra": "https://www.cifraclub.com.br/soraya-moraes/quao-grande-o-meu-deus/"
+  },
+
+  {
+    "id": "sobre-as-aguas",
+    "nome": "Sobre As Águas",
+    "cantor": "Davi Sacer",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/sL30wkLYW7w",
+    "youtube_secundario": "https://www.youtube.com/watch?v=sL30wkLYW7w",
+    "spotify": "https://open.spotify.com/track/78opOd0x2ZftLIxAB2dmeO",
+    "cifra": "https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/"
+  },
+
+  {
+    "id": "e-adorar",
+    "nome": "É Adorar",
+    "cantor": "Isaías Saad",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6OmAx0BkRGQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6OmAx0BkRGQ",
+    "spotify": "https://open.spotify.com/track/1U2eBrq3VvjAw3q5UahjOk",
+    "cifra": "https://www.cifraclub.com.br/isaias-saad/e-adorar/"
+  },
+
+  {
+    "id": "maranata",
+    "nome": "Maranata",
+    "cantor": "Ministério Avivah",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/iS6GXPbhCwU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=iS6GXPbhCwU",
+    "spotify": "https://open.spotify.com/track/4V8phuplGuhw98VvScGDi1",
+    "cifra": "https://www.cifraclub.com.br/ministerio-avivah/maranata/"
+  },
+  {
+    "id": "a-gloria-da-segunda-casa",
+    "nome": "A Glória Da Segunda Casa",
+    "cantor": "Gisele Nascimento",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Z0Ob7jl4-Tc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Z0Ob7jl4-Tc",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/gisele-nascimento/a-gloria-da-segunda-casa/"
+  },
+
+
+  {
+    "id": "restitui",
+    "nome": "Restitui",
+    "cantor": "Toque No Altar",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6TcAMUOU-VY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6TcAMUOU-VY",
+    "spotify": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe",
+    "cifra": "https://www.cifraclub.com.br/toque-no-altar/restitui/"
+  },
+
+  {
+    "id": "sonda-me-usa-me-2",
+    "nome": "Sonda-me Usa-me",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3_1f4g4yQ5M",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3_1f4g4yQ5M",
+    "spotify": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/"
+  },
+  {
+    "id": "o-fogo-nunca-dorme-2",
+    "nome": "O Fogo Nunca Dorme",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Kh14SNPaHco",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Kh14SNPaHco",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-fogo-nunca-dorme/"
+  },
+
+  {
+    "id": "deus-me-ama",
+    "nome": "Deus Me Ama",
+    "cantor": "Thalles Roberto",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/thalles-roberto/deus-me-ama/"
+  },
+
+  {
+    "id": "nao-pare",
+    "nome": "Não Pare",
+    "cantor": "Midian Lima",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/dANcAGydlsM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=dANcAGydlsM",
+    "spotify": "https://open.spotify.com/track/4SXld7G7LXQffIVePuDZxl",
+    "cifra": "https://www.cifraclub.com.br/midian-lima/nao-pare/"
+  },
+
+  {
+    "id": "toca-em-mim-de-novo",
+    "nome": "Toca Em Mim De Novo",
+    "cantor": "Isadora Pompeo",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/YnrN0o0lubM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=YnrN0o0lubM",
+    "spotify": "https://open.spotify.com/track/5RKekXXd9ltF7zirPXEAb5",
+    "cifra": "https://www.cifraclub.com.br/isadora-pompeo/toca-em-mim-de-novo/"
+  },
+  {
+    "id": "oi-jesus",
+    "nome": "Oi Jesus",
+    "cantor": "Isadora Pompeo",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/HCWl554M1SI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=HCWl554M1SI",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/isadora-pompeo/oi-jesus/"
+  },
+
+  {
+    "id": "nova-chance",
+    "nome": "Nova Chance",
+    "cantor": "Peterson Ribeiro",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Z0Ob7jl4-Tc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Z0Ob7jl4-Tc",
+    "spotify": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II",
+    "cifra": "https://www.cifraclub.com.br/peterson-ribeiro/nova-chance/"
+  },
+
+  {
+    "id": "eu-sei-que-nunca-me-deixou",
+    "nome": "Eu Sei Que Nunca Me Deixou",
+    "cantor": "Livres Para Adorar",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5H9--YGZcK4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5H9--YGZcK4",
+    "spotify": "https://open.spotify.com/track/78opOd0x2ZftLIxAB2dmeO",
+    "cifra": "https://www.cifraclub.com.br/livres-para-adorar/nunca-me-deixou/"
+  },
+  {
+    "id": "respira",
+    "nome": "Respira",
+    "cantor": "Samuel Mariano",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/oyZ3-sCb2xY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=oyZ3-sCb2xY",
+    "spotify": "https://open.spotify.com/track/1izIEPiOSZyyVH70SoZZuU",
+    "cifra": "https://www.cifraclub.com.br/samuel-mariano/respira/"
+  },
+
+  {
+    "id": "1000-graus",
+    "nome": "1000 Graus",
+    "cantor": "Renascer Praise",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/QTC7_DVENZA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=QTC7_DVENZA",
+    "spotify": "https://open.spotify.com/track/2UpjBUKmR4HxtLg1orkrk0",
+    "cifra": "https://www.cifraclub.com.br/renascer-praise/1000-graus/"
+  },
+
+  {
+    "id": "via-dolorosa",
+    "nome": "Via Dolorosa",
+    "cantor": "Sérgio Saas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5M5njyiQlzA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5M5njyiQlzA",
+    "spotify": "https://open.spotify.com/track/1fVKo1dxvM5LnwYTG8xXzO",
+    "cifra": "https://www.cifraclub.com.br/sergio-saas/via-dolorosa/"
+  },
+
+  {
+    "id": "me-ama",
+    "nome": "Me Ama",
+    "cantor": "Diante do Trono",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/3WguVId9zbNufOTHgQiTOx",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/me-ama/"
+  },
+  {
+    "id": "lugar-santo",
+    "nome": "Lugar Santo",
+    "cantor": "Pedro Henrique",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/1ecNMmwvNfI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1ecNMmwvNfI",
+    "spotify": "https://open.spotify.com/track/6ntlFzraKmwFeLqk6MDnVK",
+    "cifra": "https://www.cifraclub.com.br/pedro-henrique-gospel/lugar-santo/"
+  },
+
+  {
+    "id": "deus-provera",
+    "nome": "Deus Proverá",
+    "cantor": "Gabriela Gomes",
+    "tom": "G#",
+    "youtube_principal": "https://www.youtube.com/embed/1i1673ILdVI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1i1673ILdVI",
+    "spotify": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ",
+    "cifra": "https://www.cifraclub.com.br/gabriela-gomes/deus-provera/"
+  },
+  {
+    "id": "acalma-o-meu-coracao",
+    "nome": "Acalma o Meu Coração",
+    "cantor": "Anderson Freire",
+    "tom": "B",
+    "youtube_principal": "https://www.youtube.com/embed/4NBmNvqmnqg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=4NBmNvqmnqg",
+    "spotify": "https://open.spotify.com/track/0x3VCZEoCv2TzwTyy1DLhj",
+    "cifra": "https://www.cifraclub.com.br/anderson-freire/acalma-o-meu-coracao/"
+  },
+  {
+    "id": "uma-nova-historia",
+    "nome": "Uma Nova História",
+    "cantor": "Fernandinho",
+    "tom": "E",
+    "youtube_principal": "https://www.youtube.com/embed/v3EjP6cFo00",
+    "youtube_secundario": "https://www.youtube.com/watch?v=v3EjP6cFo00",
+    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/uma-nova-historia/"
+  },
+
+  {
+    "id": "o-que-sua-gloria-fez-comigo",
+    "nome": "O Que Sua Glória Fez Comigo",
+    "cantor": "Fernanda Brum",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/TMe2fZ8CQ8A",
+    "youtube_secundario": "https://www.youtube.com/watch?v=TMe2fZ8CQ8A",
+    "spotify": "https://open.spotify.com/track/0TxmZvEXDX2VZBvS8c3DL0",
+    "cifra": "https://www.cifraclub.com.br/fernanda-brum/o-que-tua-gloria-fez-comigo/"
+  },
+
+  {
+    "id": "me-escolheu",
+    "nome": "Me Escolheu",
+    "cantor": "Sarah Farias",
+    "tom": "G#",
+    "youtube_principal": "https://www.youtube.com/embed/1zEq6r2Zw3Q",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1zEq6r2Zw3Q",
+    "spotify": "https://open.spotify.com/track/4eovuORQueSab4JGColi4V",
+    "cifra": "https://www.cifraclub.com.br/sarah-farias/me-escolheu/"
+  },
+
+  {
+    "id": "vento-impetuoso",
+    "nome": "Vento Impetuoso",
+    "cantor": "Casa Worship",
+    "tom": "C",
+    "youtube_principal": "https://www.youtube.com/embed/p8vHkE6frZI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=p8vHkE6frZI",
+    "spotify": "https://open.spotify.com/track/1Z9RilMoGIiUgrsNHr0zgN",
+    "cifra": "https://www.cifraclub.com.br/casa-worship/vento-impetuoso/"
+  },
+  {
+    "id": "quem-e-esse",
+    "nome": "Quem É Esse?",
+    "cantor": "Julliany Souza",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
+  },
+
+  {
+    "id": "um-novo-dia",
+    "nome": "Um Novo Dia",
+    "cantor": "Get Worship",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/G67eyanae6o",
+    "youtube_secundario": "https://www.youtube.com/watch?v=G67eyanae6o",
+    "spotify": "https://open.spotify.com/track/6KgPk8mDkjPuUODSMvyh5t",
+    "cifra": "https://www.cifraclub.com.br/get-worship/um-novo-dia/"
+  },
+  {
+    "id": "tudo-e-perda",
+    "nome": "Tudo É Perda",
+    "cantor": "Felipe Rodrigues",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/rodJCufTHs4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=rodJCufTHs4",
+    "spotify": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2",
+    "cifra": "https://www.cifraclub.com.br/felipe-rodrigues/tudo-e-perda/"
+  },
+  {
+    "id": "sonha-mesmo",
+    "nome": "Sonha Mesmo",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/fpQkwxvBsnE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=fpQkwxvBsnE",
+    "spotify": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/sonha-mesmo/"
+  },
+
+  {
+    "id": "renova-minha-vida",
+    "nome": "Renova Minha Vida",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/ZWzjC9dl9tI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=ZWzjC9dl9tI",
+    "spotify": "https://open.spotify.com/track/4CJBIkdci4FNFXpaiJK3fi",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/renova-minha-vida/"
+  },
+  {
+    "id": "igual-nao-ha",
+    "nome": "Igual Não Há",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/igual-nao-ha/"
+  },
+
+  {
+    "id": "me-atraiu",
+    "nome": "Me Atraiu",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/3SvRpIro9RI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3SvRpIro9RI",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/me-atraiu/"
+  },
+
+  {
+    "id": "os-sonhos-de-deus",
+    "nome": "Os Sonhos de Deus",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/44EtclJ7J7I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=44EtclJ7J7I",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/os-sonhos-de-deus/"
+  },
+
+  {
+    "id": "jeova-jireh",
+    "nome": "Jeová Jireh",
+    "cantor": "Aline Barros",
+    "tom": "F",
+    "youtube_principal": "https://www.youtube.com/embed/4Yy9lJCUmQw",
+    "youtube_secundario": "https://www.youtube.com/watch?v=4Yy9lJCUmQw",
+    "spotify": "https://open.spotify.com/track/7nESz4NOClWaOxwfQhZidN",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/jeova-jireh/"
+  },
+
+  {
+    "id": "porque-ele-vive",
+    "nome": "Porque Ele Vive",
+    "cantor": "Aline Barros",
+    "tom": "C",
+    "youtube_principal": "https://www.youtube.com/embed/Mwkb5To-4M0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Mwkb5To-4M0",
+    "spotify": "https://open.spotify.com/track/0b21zPsSVctrH0rUr7VWVO",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/porque-ele-vive/"
+  },
+
+  {
+    "id": "sonda-me-usa-me",
+    "nome": "Sonda-me Usa-me",
+    "cantor": "Aline Barros",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/3_1f4g4yQ5M",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3_1f4g4yQ5M",
+    "spotify": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/"
+  },
+
+  {
+    "id": "vitoria-no-deserto",
+    "nome": "Vitória No Deserto",
+    "cantor": "Aline Barros",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/TWBdN9qGL2c",
+    "youtube_secundario": "https://www.youtube.com/watch?v=TWBdN9qGL2c",
+    "spotify": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/vitoria-no-deserto/"
+  },
+
+  {
+    "id": "eu-navegarei",
+    "nome": "Eu Navegarei",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/eu-navegarei/"
+  },
+
+  {
+    "id": "pai-nosso",
+    "nome": "Pai Nosso",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/44EtclJ7J7I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=44EtclJ7J7I",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/pai-nosso/"
+  },
+
+  {
+    "id": "lugar-secreto",
+    "nome": "Lugar Secreto",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/YnrN0o0lubM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=YnrN0o0lubM",
+    "spotify": "https://open.spotify.com/track/5RKekXXd9ltF7zirPXEAb5",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/lugar-secreto/"
+  },
+
+  {
+    "id": "ninguem-explica-deus",
+    "nome": "Ninguém Explica Deus",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/51sCqn8ul308",
+    "youtube_secundario": "https://www.youtube.com/watch?v=51sCqn8ul308",
+    "spotify": "https://open.spotify.com/track/51nTdPKg2nd1wMxStXdE2Xe",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/ninguem-explica-deus/"
+  },
+
+  {
+    "id": "lindo-es",
+    "nome": "Lindo És",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/o-hUEnkwoDc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=o-hUEnkwoDc",
+    "spotify": "https://open.spotify.com/track/3o0bKrrUtt1v4GcxQERGAu",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/lindo-es/"
+  },
+
+  {
+    "id": "vim-para-adorar-te",
+    "nome": "Vim Para Adorar-Te",
+    "cantor": "Gabriela Rocha",
+    "tom": "E",
+    "youtube_principal": "https://www.youtube.com/embed/53sCqn8ul308",
+    "youtube_secundario": "https://www.youtube.com/watch?v=53sCqn8ul308",
+    "spotify": "https://open.spotify.com/track/53nTdPKg2nd1wMxStXdE2Xe",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/vim-para-adorar-te/"
+  },
+
+  {
+    "id": "so-tu-es-santo",
+    "nome": "Só Tu És Santo",
+    "cantor": "Morada",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/Kh14SNPaHco",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Kh14SNPaHco",
+    "spotify": "https://open.spotify.com/track/0JJ6c3VtruBt2DrFM9dC7u",
+    "cifra": "https://www.cifraclub.com.br/ministerio-morada/so-tu-es-santo/"
+  },
+
+  {
+    "id": "o-tabernaculo",
+    "nome": "O Tabernáculo",
+    "cantor": "Voz da Verdade",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/00hRp1TwgqY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=00hRp1TwgqY",
+    "spotify": "https://open.spotify.com/track/3vhAqeJJjx25xYswKZxMat",
+    "cifra": "https://www.cifraclub.com.br/voz-da-verdade/o-tabernaculo/"
+  },
+
+  {
+    "id": "vai-chover",
+    "nome": "Vai Chover",
+    "cantor": "Fernandinho",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/BjaFZo1dxRA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=BjaFZo1dxRA",
+    "spotify": "https://open.spotify.com/track/1KgGFjOWKzSwiCVYBVVojm",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/vai-chover/"
+  },
+
+  {
+    "id": "perto-quero-estar",
+    "nome": "Perto Quero Estar",
+    "cantor": "Aline Barros",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/IZJkJvnnHiE",
+    "youtube_secundario": "https://www.youtube.com/watch?v=IZJkJvnnHiE",
+    "spotify": "https://open.spotify.com/track/4riVncKC2BHr2xjPvSxKak",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/perto-quero-estar/"
+  },
+
+  {
+    "id": "pra-sempre",
+    "nome": "Pra Sempre",
+    "cantor": "Fernandinho",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5H9--YGZcK4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5H9--YGZcK4",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/pra-sempre/"
+  },
+
+  {
+    "id": "quao-grande-e-meu-deus",
+    "nome": "Quão Grande É o Meu Deus",
+    "cantor": "Soraya Moraes",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/IT827htf_S8",
+    "youtube_secundario": "https://www.youtube.com/watch?v=IT827htf_S8",
+    "spotify": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd",
+    "cifra": "https://www.cifraclub.com.br/soraya-moraes/quao-grande-o-meu-deus/"
+  },
+
+  {
+    "id": "sobre-as-aguas",
+    "nome": "Sobre As Águas",
+    "cantor": "Davi Sacer",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/sL30wkLYW7w",
+    "youtube_secundario": "https://www.youtube.com/watch?v=sL30wkLYW7w",
+    "spotify": "https://open.spotify.com/track/78opOd0x2ZftLIxAB2dmeO",
+    "cifra": "https://www.cifraclub.com.br/davi-sacer/sobre-as-aguas/"
+  },
+
+  {
+    "id": "e-adorar",
+    "nome": "É Adorar",
+    "cantor": "Isaías Saad",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6OmAx0BkRGQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6OmAx0BkRGQ",
+    "spotify": "https://open.spotify.com/track/1U2eBrq3VvjAw3q5UahjOk",
+    "cifra": "https://www.cifraclub.com.br/isaias-saad/e-adorar/"
+  },
+
+  {
+    "id": "maranata",
+    "nome": "Maranata",
+    "cantor": "Ministério Avivah",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/iS6GXPbhCwU",
+    "youtube_secundario": "https://www.youtube.com/watch?v=iS6GXPbhCwU",
+    "spotify": "https://open.spotify.com/track/4V8phuplGuhw98VvScGDi1",
+    "cifra": "https://www.cifraclub.com.br/ministerio-avivah/maranata/"
+  },
+  {
+    "id": "na-alegria-ou-na-dor",
+    "nome": "Na Alegria Ou Na Dor",
+    "cantor": "J Neto",
+    "tom": "G",
+    "youtube_principal": "https://www.youtube.com/embed/LYsaKn8FRhc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=LYsaKn8FRhc",
+    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
+    "cifra": "https://www.cifraclub.com.br/j-neto/na-alegria-ou-na-dor/"
+  },
+
+  {
+    "id": "restitui",
+    "nome": "Restitui",
+    "cantor": "Toque No Altar",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/6TcAMUOU-VY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=6TcAMUOU-VY",
+    "spotify": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe",
+    "cifra": "https://www.cifraclub.com.br/toque-no-altar/restitui/"
+  },
+
+  {
+    "id": "sonda-me-usa-me",
+    "nome": "Sonda-me Usa-me",
+    "cantor": "Aline Barros",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/3_1f4g4yQ5M",
+    "youtube_secundario": "https://www.youtube.com/watch?v=3_1f4g4yQ5M",
+    "spotify": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ",
+    "cifra": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/"
+  },
+  {
+    "id": "o-fogo-nunca-dorme",
+    "nome": "O Fogo Nunca Dorme",
+    "cantor": "Alessandro Vilas Boas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Kh14SNPaHco",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Kh14SNPaHco",
+    "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-fogo-nunca-dorme/"
+  },
+
+  {
+    "id": "deus-me-ama",
+    "nome": "Deus Me Ama",
+    "cantor": "Thalles Roberto",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
+    "cifra": "https://www.cifraclub.com.br/thalles-roberto/deus-me-ama/"
+  },
+
+  {
+    "id": "nao-pare",
+    "nome": "Não Pare",
+    "cantor": "Midian Lima",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/dANcAGydlsM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=dANcAGydlsM",
+    "spotify": "https://open.spotify.com/track/4SXld7G7LXQffIVePuDZxl",
+    "cifra": "https://www.cifraclub.com.br/midian-lima/nao-pare/"
+  },
+
+  {
+    "id": "toca-em-mim-de-novo",
+    "nome": "Toca Em Mim De Novo",
+    "cantor": "Isadora Pompeo",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/YnrN0o0lubM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=YnrN0o0lubM",
+    "spotify": "https://open.spotify.com/track/5RKekXXd9ltF7zirPXEAb5",
+    "cifra": "https://www.cifraclub.com.br/isadora-pompeo/toca-em-mim-de-novo/"
+  },
+  {
+    "id": "oi-jesus",
+    "nome": "Oi Jesus",
+    "cantor": "Isadora Pompeo",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/HCWl554M1SI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=HCWl554M1SI",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/isadora-pompeo/oi-jesus/"
+  },
+
+  {
+    "id": "nova-chance",
+    "nome": "Nova Chance",
+    "cantor": "Peterson Ribeiro",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/Z0Ob7jl4-Tc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Z0Ob7jl4-Tc",
+    "spotify": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II",
+    "cifra": "https://www.cifraclub.com.br/peterson-ribeiro/nova-chance/"
+  },
+
+  {
+    "id": "eu-sei-que-nunca-me-deixou",
+    "nome": "Eu Sei Que Nunca Me Deixou",
+    "cantor": "Livres Para Adorar",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5H9--YGZcK4",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5H9--YGZcK4",
+    "spotify": "https://open.spotify.com/track/78opOd0x2ZftLIxAB2dmeO",
+    "cifra": "https://www.cifraclub.com.br/livres-para-adorar/nunca-me-deixou/"
+  },
+  {
+    "id": "via-dolorosa",
+    "nome": "Via Dolorosa",
+    "cantor": "Sérgio Saas",
+    "tom": "",
+    "youtube_principal": "https://www.youtube.com/embed/5M5njyiQlzA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=5M5njyiQlzA",
+    "spotify": "https://open.spotify.com/track/1fVKo1dxvM5LnwYTG8xXzO",
+    "cifra": "https://www.cifraclub.com.br/sergio-saas/via-dolorosa/"
+  },
+
+  {
+    "id": "me-ama",
+    "nome": "Me Ama",
+    "cantor": "Diante do Trono",
+    "tom": "A",
+    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
+    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "spotify": "https://open.spotify.com/track/3WguVId9zbNufOTHgQiTOx",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/me-ama/"
+  },
+  {
+    "id": "lugar-santo",
+    "nome": "Lugar Santo",
+    "cantor": "Pedro Henrique",
+    "tom": "D",
+    "youtube_principal": "https://www.youtube.com/embed/1ecNMmwvNfI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1ecNMmwvNfI",
+    "spotify": "https://open.spotify.com/track/6ntlFzraKmwFeLqk6MDnVK",
+    "cifra": "https://www.cifraclub.com.br/pedro-henrique-gospel/lugar-santo/"
+  },
+
+  {
+    "id": "deus-provera",
+    "nome": "Deus Proverá",
+    "cantor": "Gabriela Gomes",
+    "tom": "G#",
+    "youtube_principal": "https://www.youtube.com/embed/1i1673ILdVI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1i1673ILdVI",
+    "spotify": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ",
+    "cifra": "https://www.cifraclub.com.br/gabriela-gomes/deus-provera/"
+  },
+  {
+    "id": "uma-nova-historia",
+    "nome": "Uma Nova História",
+    "cantor": "Fernandinho",
+    "tom": "E",
+    "youtube_principal": "https://www.youtube.com/embed/v3EjP6cFo00",
+    "youtube_secundario": "https://www.youtube.com/watch?v=v3EjP6cFo00",
+    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/uma-nova-historia/"
+  },
+  {
+    "id": "me-escolheu",
+    "nome": "Me Escolheu",
+    "cantor": "Sarah Farias",
+    "tom": "G#",
+    "youtube_principal": "https://www.youtube.com/embed/1zEq6r2Zw3Q",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1zEq6r2Zw3Q",
+    "spotify": "https://open.spotify.com/track/4eovuORQueSab4JGColi4V",
+    "cifra": "https://www.cifraclub.com.br/sarah-farias/me-escolheu/"
+  },
+
+  {
+    "id": "vento-impetuoso",
+    "nome": "Vento Impetuoso",
+    "cantor": "Casa Worship",
+    "tom": "C",
+    "youtube_principal": "https://www.youtube.com/embed/p8vHkE6frZI",
+    "youtube_secundario": "https://www.youtube.com/watch?v=p8vHkE6frZI",
+    "spotify": "https://open.spotify.com/track/1Z9RilMoGIiUgrsNHr0zgN",
+    "cifra": "https://www.cifraclub.com.br/casa-worship/vento-impetuoso/"
+  },
+  {
+    "id": "santo-pra-sempre-clamo-jesus-yahweh",
+    "nome": "Santo pra Sempre/Clamo Jesus/Yahweh",
+    "cantor": "Thiago Henrique",
+    "tom": "C",
+    "youtube_principal": "https://youtu.be/Kc24_T_N2xI?si=j1z74KDAjWq-X2T5",
+    "youtube_secundario": "https://youtu.be/Kc24_T_N2xI?si=j1z74KDAjWq-X2T5",
+    "spotify": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY?si=de-P_mMWREetOVzzKvkdsQ",
+    "cifra": "https://www.cifraclub.com.br/thiago-henrique/santo-pra-sempre-clamo-jesus-yahweh-se-manifestara/principal.html#instrument=guitar&key=10"},
+    
+{
+  "id":"nada-alem-do-sangue",
+    "nome": "Nada Além do Sangue",
+    "cantor": "Fernandinho",
+    "tom": "Bb",
+    "youtube_principal": "https://youtu.be/8JOvwxAZ-zo?si=P_1KYlWue_bX3vuv",
+    "youtube_secundario": "https://youtu.be/8JOvwxAZ-zo?si=P_1KYlWue_bX3vuv",
+    "spotify": "https://open.spotify.com/track/3rd5AusaInQQvLigUH4Y9U?si=T6StybucSjiaCJMoQA4HkA",
+    "cifra": "https://www.cifraclub.com.br/fernandinho/nada-alem-do-sangue/principal.html#instrument=guitar&key=0"},
+    {
+  "id":"aclame-ao-senhor",
+    "nome": "Aclame ao Senhor",
+    "cantor": "Felipe Rodrigues",
+    "tom": "F",
+    "youtube_principal": "https://youtu.be/YapdWk-Uh_8?si=yJcDjq-pg7BXK9ru",
+    "youtube_secundario": "https://youtu.be/YapdWk-Uh_8?si=yJcDjq-pg7BXK9ru",
+    "spotify": "https://open.spotify.com/track/49hWQNqmcbVYOw9BkrOrgk?si=sZxZxmRXR-mN9p9t9nFhaA",
+    "cifra": "https://www.cifraclub.com.br/felipe-rodrigues/aclame-ao-senhor/principal.html#instrument=guitar&key=8"},
+    {
+  "id":"estou-contigo",
+    "nome": "Estou Contigo",
+    "cantor": "Shirley Carvalhais",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/Sgu5IxcaHXc?si=xCLWzBblcMlspvLQ",
+    "youtube_secundario": "https://youtu.be/Sgu5IxcaHXc?si=xCLWzBblcMlspvLQ",
+    "spotify": "https://open.spotify.com/track/0gkiNw7I888uxJIhh75m2Y?si=v3jSX9L3TCWZf_1cPJSI8w",
+    "cifra": "https://www.cifraclub.com.br/shirley-carvalhaes/estou-contigo/principal.html#instrument=guitar&key=0"},
+  {
+  "id":"comum-e-imperfeito",
+    "nome": "Comum e Imperfeito",
+    "cantor": "Canção e Louvor",
+    "tom": "Bb",
+    "youtube_principal": "https://youtu.be/394_yGA10sw?si=TRwI137WOdUbmV-J",
+    "youtube_secundario": "https://youtu.be/394_yGA10sw?si=TRwI137WOdUbmV-J",
+    "spotify": "https://open.spotify.com/track/1xV97W6xy6u3Pc2qeJv2KT?si=lLehDjQVTzWX449SYtsTCQ",
+    "cifra": "https://www.cifraclub.com.br/ana-clara-rocha/comum-e-imperfeito-part-cancao-e-louvor/principal.html#instrument=guitar&key=10"}
 ]
+
