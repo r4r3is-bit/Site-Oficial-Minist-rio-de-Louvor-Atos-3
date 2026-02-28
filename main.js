@@ -504,6 +504,7 @@ if(escalaAtual.hinos.some(h => h.nome === hinoAtual.nome)) return;
     tom: hinoAtual.tom,
     youtube: hinoAtual.youtube_principal,
     spotify: hinoAtual.spotify,
+    cifra: hinoAtual.cifra,
     observacoes: ""
   });
 
@@ -565,6 +566,7 @@ function enviarEscalaWhatsApp(){
 👤 Ministro: ${h.ministro || "-"}
 ▶️ YouTube: ${h.youtube}
 🎧 Spotify: ${h.spotify}
+🎸 Cifra: ${h.cifra || "-"}
 📝 Obs: ${h.observacoes || "-"}
 
 `;
