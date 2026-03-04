@@ -254,9 +254,11 @@ fetch("data/hinos.json")
       renderHinos();
     });
   }
-
+criarFiltroLetras();
   renderHinos();
 });
+
+
 // =================================================
 // RENDERIZA HINOS A-Z (COM FILTRO)
 // =================================================
@@ -272,7 +274,14 @@ function renderHinos(){
   const busca = normalizar(termoBusca);
 
   let base = hinos;
-
+// Letras Filtros
+if(letraSelecionada){
+  base = base.filter(h => {
+    const primeira = normalizar(h.nome)[0]?.toUpperCase();
+    return primeira === letraSelecionada;
+  });
+}
+// acima
   if (busca.length > 0) {
     base = hinos.filter(h =>
       normalizar(h.nome).includes(busca) ||
@@ -385,16 +394,16 @@ document.getElementById("hinoPlayer").src = ""
 document.querySelector(".galeria-sonora").classList.remove("hidden")
 document.getElementById("avaliacaoMinistro").classList.remove("hidden")
 document.querySelector(".footer").classList.remove("hidden")
-}
-
-// ficar em observação 
-
 const scroll = localStorage.getItem("scrollHinos");
-  if (scroll) {
-    setTimeout(() => {
-      window.scrollTo(0, parseInt(scroll));
+  if(scroll){
+    setTimeout(()=>{
+      window.scrollTo({
+        top: parseInt(scroll),
+        behavior: "instant"
+      });
     }, 50);
   }
+}
 // =================================================
 // ESCALA
 // =================================================
@@ -620,5 +629,49 @@ if (buscaInput) {
   buscaInput.addEventListener("input", function () {
     termoBusca = this.value;
     renderHinos();
+  });
+}
+let letraSelecionada = "";
+// Filtro por letras
+function criarFiltroLetras(){
+  const container = document.getElementById("filtroLetras");
+  const letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+
+  container.innerHTML = "";
+
+  letras.forEach(l => {
+    container.innerHTML += `
+      <button 
+        class="letra-btn" 
+        onclick="toggleLetra('${l}')"
+        id="letra-${l}">
+        ${l}
+      </button>
+    `;
+  });
+}
+function toggleLetra(letra){
+
+  if(letraSelecionada === letra){
+    letraSelecionada = "";
+  } else {
+    letraSelecionada = letra;
+  }
+
+  atualizarVisualLetras();
+  renderHinos();
+}
+function atualizarVisualLetras(){
+  const letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+
+  letras.forEach(l => {
+    const btn = document.getElementById("letra-" + l);
+    if(!btn) return;
+
+    if(l === letraSelecionada){
+      btn.classList.add("ativa");
+    } else {
+      btn.classList.remove("ativa");
+    }
   });
 }
