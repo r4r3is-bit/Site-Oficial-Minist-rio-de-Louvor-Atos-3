@@ -560,29 +560,49 @@ function renderEscala(){
 }
 
 function enviarEscalaWhatsApp(){
+
   if(!escalaAtual.dia){
     alert("Selecione o dia da escala.");
     return;
   }
 
-  let texto = `*ESCALA - ${escalaAtual.dia.toUpperCase()}*\n\n`;
-
-  escalaAtual.hinos.forEach(h => {
-    texto +=
-`🎵 ${h.nome}
-🎤 ${h.cantor}
-🎼 Tom: ${h.tom}
-👤 Ministro: ${h.ministro || "-"}
-▶️ YouTube: ${h.youtube}
-🎧 Spotify: ${h.spotify}
-🎸 Cifra: ${h.cifra || "-"}
-📝 Obs: ${h.observacoes || "-"}
+  let texto =
+`━━━━━━━━━━━━━━━━
+\uD83C\uDFBC *ESCALA DE LOUVOR*
+\uD83D\uDCC5 ${escalaAtual.dia.toUpperCase()}
+━━━━━━━━━━━━━━━━
 
 `;
+
+  escalaAtual.hinos.forEach((h, i) => {
+
+    texto +=
+`\uD83C\uDFB5 *${h.nome}*
+\uD83C\uDFA4 ${h.cantor}
+\uD83C\uDFBC Tom: ${h.tom}
+\uD83D\uDC64 Ministro: ${h.ministro || "-"}
+
+\u25B6 YouTube
+${h.youtube}
+
+\uD83C\uDFA7 Spotify
+${h.spotify}
+
+\uD83C\uDFB8 Cifra
+${h.cifra || "-"}
+
+\uD83D\uDCDD Obs: ${h.observacoes || "-"}
+
+`;
+
+    if(i < escalaAtual.hinos.length - 1){
+      texto += `──────────────\n\n`;
+    }
+
   });
 
   window.open(
-    "https://wa.me/?text=" + encodeURIComponent(texto),
+    "https://api.whatsapp.com/send?text=" + encodeURIComponent(texto),
     "_blank"
   );
 }
