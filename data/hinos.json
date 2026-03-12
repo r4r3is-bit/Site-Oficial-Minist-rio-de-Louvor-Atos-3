@@ -2499,8 +2499,8 @@
     "nome": "Preciso de Ti",
     "cantor": "Diante do Trono",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/3q-pRKf-VaQ",
-    "youtube_secundario": "https://www.youtube.com/watch?v=3q-pRKf-VaQ",
+    "youtube_principal": "https://youtu.be/Hy6QJ6LJW2I?si=cryWp23Wj96DZxtm",
+    "youtube_secundario": "https://youtu.be/Hy6QJ6LJW2I?si=cryWp23Wj96DZxtm",
     "spotify": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr",
     "cifra": "https://www.cifraclub.com.br/diante-do-trono/preciso-de-ti/"
   },
@@ -4320,7 +4320,17 @@
     "youtube_principal": "https://youtu.be/fOBGrF-bQbA?si=mTaiFpwJzcRU2Kz8",
     "youtube_secundario": "https://youtu.be/fOBGrF-bQbA?si=mTaiFpwJzcRU2Kz8",
     "spotify": "https://open.spotify.com/track/7sV9sltSuQVSGfVhiBhmSF?si=GfKD00KCRPCxDKYhf3QbuA",
-    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/uma-vez/principal.html#instrument=guitar&key=5"}
+    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/uma-vez/principal.html#instrument=guitar&key=5"},
+       
+       {
+  "id":"os-sonhos-de-deus",
+    "nome": "Os Sonhos de Deus",
+    "cantor":"Ludmila Feber",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/4JC74xMzpOo?si=z_ZPJM3qru0P5THt",
+    "youtube_secundario": "https://youtu.be/4JC74xMzpOo?si=z_ZPJM3qru0P5THt",
+    "spotify": "https://open.spotify.com/track/683hgDkcfdq0yZXOSamvtJ?si=k7qph7R_TpqiXjKUmS7bTQ",
+    "cifra": "https://www.cifraclub.com.br/ludmila-ferber/os-sonhos-de-deus/principal.html#instrument=guitar&key=10"}
     
     
 ]
