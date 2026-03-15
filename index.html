@@ -62,6 +62,8 @@
 
   <a id="hinoCifra" target="_blank" class="cifra-btn">🎸 Abrir CifraClub</a>
 
+  <a id="hinoEstudar" class="estudar-btn">📖 Estudar este hino</a>
+
 <button onclick="abrirEscalaBuilder()">➕ Adicionar à escala</button>
 
 </section>
@@ -72,6 +74,71 @@
   <div class="ministros-grid" id="ministros"></div>
 </section>
 
+<!-- ÁREA DE ESTUDO -->
+<section class="area-estudos">
+  
+  <h2 class="titulo-estudos">Área de Estudos</h2>
+  
+  <div class="estudos-carrossel">
+    
+    <div class="estudo-btn" onclick="abrirEstudo('escala')">
+      <div class="icone">
+        <img src="icons/caderno.svg">
+      </div>
+      <span>Escalas</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('guitarra')">
+      <div class="icone">
+        <img src="icons/guitarra.svg">
+      </div>
+      <span>Guitarra</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('violao')">
+      <div class="icone">
+        <img src="icons/violao.svg">
+      </div>
+      <span>Violão</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('teclado')">
+      <div class="icone">
+        <img src="icons/teclado.svg">
+      </div>
+      <span>Teclado</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('baixo')">
+      <div class="icone">
+        <img src="icons/baixo.svg">
+      </div>
+      <span>Contra-Baixo</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('bateria')">
+      <div class="icone">
+        <img src="icons/bateria.svg">
+      </div>
+      <span>Bateria</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('canto')">
+      <div class="icone">
+        <img src="icons/canto.svg">
+      </div>
+      <span>Canto</span>
+    </div>
+    
+    <div class="estudo-btn" onclick="abrirEstudo('mesa')">
+      <div class="icone">
+        <img src="icons/mesa.svg">
+      </div>
+      <span>Mesa de Som</span>
+    </div>
+    
+  </div>
+</section>
 <!-- ================= GALERIA COM ÁUDIO ================= -->
 <section class="galeria-sonora">
 
@@ -157,31 +224,38 @@
 <div id="escalaBuilder" class="escala-modal hidden">
   <div class="escala-box">
 
-    <h3>📋 Montar Escala</h3>
+ <!-- Dentro de #escalaBuilder .escala-box — substitua o conteúdo atual por isto -->
+<h3>📋 Montar Escala</h3>
 
-    <!-- DIA -->
-    <label>Dia da escala</label>
-    <select id="escalaDia">
-      <option>Domingo</option>
-      <option>Segunda</option>
-      <option>Terça</option>
-      <option>Quarta</option>
-      <option>Quinta</option>
-      <option>Sexta</option>
-      <option>Sábado</option>
-    </select>
+<!-- CONTROLES DO TOPO (dia, etc) -->
+<div class="escala-topo">
+  <label>Dia da escala</label>
+  <select id="escalaDia">
+    <option>Domingo</option>
+    <option>Segunda</option>
+    <option>Terça</option>
+    <option>Quarta</option>
+    <option>Quinta</option>
+    <option>Sexta</option>
+    <option>Sábado</option>
+  </select>
+</div>
 
-    <hr>
+<hr>
 
-    <!-- LISTA DE HINOS -->
-    <div id="escalaLista"></div>
+<!-- ÁREA ROLÁVEL (onde a lista de hinos será injetada) -->
+<div class="escala-body">
+  <div id="escalaLista"></div>
+</div>
 
-    <button onclick="enviarEscalaWhatsApp()" class="whatsapp-btn">
-      📲 Enviar Escala no WhatsApp
-    </button>
-
- <button class="btn-fechar" onclick="fecharEscalaBuilder()">✖ Fechar</button>
-  </div>
+<!-- RODAPÉ FIXO DENTRO DO MODAL -->
+<div class="escala-footer">
+  
+<button class="btn-fechar" onclick="fecharEscalaBuilder()" aria-label="Fechar escala">✖<span>Fechar</span></button>
+  
+   <button onclick="enviarEscalaWhatsApp()" class="whatsapp-btn">
+📲 Enviar Escala no WhatsApp
+</button>
 </div>
 <!-- ===================== JAVASCRIPT ===================== -->
 <script src="main.js"></script>

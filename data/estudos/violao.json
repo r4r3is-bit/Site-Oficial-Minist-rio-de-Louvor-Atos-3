@@ -1,0 +1,177 @@
+{
+  "titulo": "Estudos de Violão",
+
+  "texto": [
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "A Função do Violão no Louvor"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O violão não existe para competir com os outros instrumentos, mas para sustentá-los. Em muitas músicas ele atua como o elo entre ritmo e harmonia."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Um violonista maduro entende que nem sempre precisa tocar com força ou velocidade. Muitas vezes o mais importante é a constância do ritmo e a clareza dos acordes."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Quando o violão está firme e equilibrado, toda a banda se sente mais segura para tocar."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Dinâmica e Sensibilidade"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Uma das habilidades mais importantes para um violonista em banda é o controle de dinâmica."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Dinâmica significa saber quando tocar forte, quando tocar suave e quando simplesmente parar."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Em momentos de oração ou ministração, um violão mais suave ajuda a criar ambiente. Em momentos de celebração, uma batida mais forte pode ajudar a conduzir a energia da música."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A maturidade musical está justamente em perceber o que a música pede em cada momento."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Equalização e Espaço Sonoro na Banda"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Um dos maiores desafios dentro de uma banda de louvor não é tocar as notas corretas, mas fazer com que todos os instrumentos convivam bem no mesmo espaço sonoro."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Se o violão tocar muito forte ou ocupar frequências demais, ele pode mascarar a guitarra, o teclado ou até a voz."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Por isso é importante ajustar bem o volume e tocar com clareza, sem exageros."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Consciência de Banda"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Tocar em banda exige algo fundamental: ouvir os outros músicos."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O violão precisa se encaixar com a bateria, acompanhar o movimento do contrabaixo e deixar espaço para a guitarra criar texturas."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Quando todos entendem seu papel, a música se torna clara, equilibrada e muito mais bonita."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "O Propósito do Violão no Ministério"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "No ministério de louvor, o violão não é apenas um instrumento musical. Ele é uma ferramenta de serviço."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Seu objetivo é ajudar a congregação a cantar com segurança, apoiar a harmonia da banda e contribuir para que a igreja adore a Deus com liberdade."
+    }
+
+  ],
+
+  "videos": [
+    
+    {
+      "titulo": "Levada Worship no Violão",
+      "link": "https://youtu.be/nADrlcAMApE?si=JqqnwI_jwgEEKHTE"
+    },
+    
+    {
+      "titulo": "Como limpar o som do violão na banda",
+      "link": "https://youtu.be/xfDVTGWurZY?si=xShifX5i5QKxIisu"
+    },
+    
+    {
+      "titulo": "Como Harmonizar o violão com a Banda",
+      "link": "https://youtu.be/bqQkvC_raqI?si=zTko2aVHZCVCrP6C"
+    },
+    
+    {
+      "titulo": "Como organizar o som da banda na igreja",
+      "link": "https://youtu.be/Js72Qsn3UMk?si=kceO2P95Sb1RlojR"
+    }
+    
+  ],
+  
+  "links": [
+    
+    {
+      "titulo": "Como melhorar sua batida no violão",
+      "url": "https://www.cifraclub.com.br/blog/batidas-de-violao/"
+    },
+    
+    {
+      "titulo": "Exercícios avançados de ritmo para violão",
+      "url": "https://www.descomplicandoamusica.com/exercicios-de-ritmo/"
+    },
+    
+    {
+      "titulo": "Guia de dinâmica para músicos de igreja",
+      "url": "https://www.worshiponline.com/blog/band-dynamics/"
+    },
+    
+    {
+      "titulo": "Como evitar som embolado em bandas",
+      "url": "https://producaomusicalonline.com.br/mixagem-basica-bandas/"
+    }
+    
+  ],
+  "exercicios": [
+    {
+      "titulo": "Exercício de dedilhado constante",
+      "descricao": "Toque progressões de acordes simples mantendo o ritmo constante com o polegar no baixo e dedos nos agudos para treinar consistência."
+    },
+    {
+      "titulo": "Exercício de dinâmica",
+      "descricao": "Toque a mesma progressão alternando entre palhetadas fortes e suaves para desenvolver controle de intensidade."
+    },
+    {
+      "titulo": "Exercício de arpejos",
+      "descricao": "Quebre os acordes corda por corda em diferentes posições para melhorar precisão e clareza no som."
+    },
+    {
+      "titulo": "Exercício de ritmo em compasso composto",
+      "descricao": "Toque padrões rítmicos em compassos de 6/8 ou 12/8 mantendo o tempo sem perder o pulso."
+    },
+    {
+      "titulo": "Exercício de conexão com a banda",
+      "descricao": "Pratique acompanhando uma gravação de bateria e baixo, prestando atenção em quando acentuar ou suavizar o violão."
+    }
+  ]
+}

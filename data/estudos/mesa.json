@@ -1,0 +1,339 @@
+{
+  "titulo": "Sonoplastia e Operação de Mesa de Som na Igreja",
+
+  "texto": [
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A sonoplastia é a área responsável por controlar, organizar e distribuir o som de forma equilibrada dentro de um ambiente. Em uma igreja, o objetivo principal não é apenas ter volume alto, mas garantir clareza, equilíbrio e inteligibilidade da palavra, do louvor e dos instrumentos."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Um bom técnico de som entende que o sistema de áudio é parte fundamental do culto. Se o som estiver mal regulado, a igreja pode ter dificuldade para entender a pregação, cantar os louvores ou acompanhar os instrumentos."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O trabalho do sonoplasta é servir ao culto. Ele precisa conhecer os equipamentos, entender como o som se comporta no ambiente e aprender a ouvir com atenção tudo o que acontece no palco."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O sistema de som de uma igreja normalmente é composto por microfones, cabos, mesa de som, equalizadores, amplificadores, caixas de som e retornos de palco. Cada um desses elementos trabalha junto para que o áudio seja distribuído corretamente dentro do templo."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O operador da mesa precisa aprender a controlar volumes, equalizar frequências e evitar problemas como microfonia, distorção ou som embolado. Esse processo exige prática, escuta e sensibilidade musical."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "O que é Sonoplastia"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Sonoplastia é o conjunto de técnicas utilizadas para captar, processar e distribuir o som em um ambiente. Em igrejas, ela envolve o uso de equipamentos que transformam vibrações sonoras em sinais elétricos e depois amplificam esses sinais para que todos possam ouvir claramente."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O som em si é uma vibração que se propaga pelo ar. Essa vibração possui características como frequência, intensidade e timbre. A frequência determina se o som é grave, médio ou agudo, sendo medida em Hertz (Hz). 0"
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "O Papel do Técnico de Som na Igreja"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O técnico de som é responsável por garantir que todas as fontes de áudio estejam equilibradas. Isso inclui microfones de pregadores, cantores, instrumentos musicais e qualquer reprodução de áudio durante o culto."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Entre as principais responsabilidades do sonoplasta estão:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Ajustar o volume de cada canal\n• Equalizar vozes e instrumentos\n• Evitar microfonia\n• Controlar o volume geral do ambiente\n• Acompanhar a dinâmica do culto\n• Trabalhar em sintonia com os músicos"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Além da parte técnica, o operador precisa conhecer o roteiro do culto. Saber quando haverá louvor, leitura bíblica ou pregação ajuda a preparar o som antecipadamente."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "A Mesa de Som"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A mesa de som, também chamada de mixer, é o centro de controle do sistema de áudio. É nela que todos os sinais de microfones e instrumentos chegam para serem ajustados antes de serem enviados para as caixas de som."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Ela permite controlar diversos aspectos do áudio, como volume, equalização, envio para retornos e efeitos. Em igrejas, a mesa de som é essencial para equilibrar vários microfones e instrumentos simultaneamente. 1"
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Estrutura de um Canal da Mesa de Som"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Cada canal da mesa normalmente possui alguns controles fundamentais:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Gain\n• Equalização\n• Auxiliar (retorno)\n• Pan\n• Fader"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O ganho controla a quantidade de sinal que entra no canal. A equalização ajusta graves, médios e agudos. O pan distribui o som entre esquerda e direita. O fader controla o volume final daquele canal."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Uso da Mesa SoundVoice Rubi MR162"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A mesa SoundVoice Rubi MR162 é uma mesa analógica com múltiplos canais que permite controlar microfones, instrumentos e sinais auxiliares. Cada canal possui controle de ganho, equalização de frequência e volume individual."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Para usar essa mesa corretamente, siga uma ordem básica:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "1. Conecte todos os microfones e instrumentos.\n2. Ajuste o ganho de cada canal.\n3. Equalize cada instrumento.\n4. Ajuste o volume com os faders.\n5. Equilibre tudo no master."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Equalização de Som"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Equalizar significa ajustar as frequências de um som para melhorar sua clareza. Em uma mesa de som básica existem três regiões principais:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Graves (Low)\n• Médios (Mid)\n• Agudos (High)"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Os graves são responsáveis pelo peso do som. Os médios dão presença e definição. Os agudos trazem brilho e clareza."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Um erro comum é exagerar nos graves. Isso faz o som ficar embolado dentro da igreja. Muitas vezes reduzir um pouco os graves e aumentar levemente os médios melhora muito a inteligibilidade."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Equalização de Voz"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Para voz falada ou cantada, uma equalização comum é:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Reduzir um pouco os graves\n• Aumentar médios para presença\n• Ajustar agudos para clareza"
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Equalização de Instrumentos"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Cada instrumento ocupa uma região diferente do espectro sonoro."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Exemplo:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Bumbo e contrabaixo → graves\n• Violão e teclado → médios\n• Pratos da bateria → agudos"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Quando todos os instrumentos ocupam exatamente a mesma região de frequência, o som fica confuso. A equalização serve justamente para criar espaço entre os instrumentos."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Microfonia (Feedback)"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A microfonia acontece quando o som que sai da caixa retorna para o microfone e é amplificado novamente, criando um ciclo de repetição que gera aquele apito agudo."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Para evitar microfonia:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Não aponte microfones para as caixas\n• Evite volumes muito altos\n• Ajuste corretamente o ganho\n• Posicione bem os retornos de palco"
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Posição do Técnico de Som"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A posição da mesa de som dentro da igreja é muito importante. O operador precisa ouvir exatamente o mesmo som que a congregação está ouvindo."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Por isso, a mesa deve ficar em uma posição onde o técnico escute as caixas principais do sistema. Caso contrário, ele pode fazer ajustes que parecem bons na mesa, mas que não funcionam para quem está sentado na igreja."
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Postura do Técnico de Som"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O sonoplasta também exerce um ministério. Ele precisa ser atento, organizado e responsável."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Algumas atitudes importantes:"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Chegar cedo para testar o sistema\n• Fazer passagem de som\n• Manter cabos organizados\n• Prestar atenção no culto inteiro\n• Trabalhar com humildade e cooperação"
+    },
+
+    {
+      "tipo": "subtitulo",
+      "conteudo": "Objetivo Final do Som na Igreja"
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O objetivo final da sonoplastia no culto não é impressionar com volume ou efeitos, mas permitir que a igreja compreenda claramente a palavra de Deus e participe do louvor com liberdade."
+    },
+
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Quando o som está equilibrado, a mensagem é transmitida com clareza e toda a congregação pode participar do culto sem distrações."
+    }
+
+  ],
+
+  "videos": [
+
+    {
+      "titulo": "Sonoplastia de Igrejas - Curso Básico",
+      "link": "https://www.youtube.com/watch?v=voidLBf15kA"
+    },
+
+    {
+      "titulo": "Curso de Sonoplastia - Conceitos de Grave, Médio e Agudo",
+      "link": "https://www.youtube.com/watch?v=oIZIXHw1QLw"
+    },
+
+    {
+      "titulo": "Como Ligar e Configurar Mesa de Som",
+      "link": "https://www.youtube.com/watch?v=tlGoJBMd234"
+    },
+
+    {
+      "titulo": "Como Equalizar Mesa de Som para Voz",
+      "link": "https://www.youtube.com/watch?v=siAUaftIFD0"
+    }
+
+  ],
+
+  "links": [
+
+    {
+      "titulo": "Curso gratuito de Sonoplastia para Igrejas",
+      "url": "https://www.cursou.com.br/geral/sonoplastia-igrejas/"
+    },
+
+    {
+      "titulo": "Guia completo de mesa de som para igrejas",
+      "url": "https://blog.dicomp.com.br/mesa-de-som-para-igrejas-guia-completo-para-integradores/"
+    },
+
+    {
+      "titulo": "Curso online de equalização da mesa de som",
+      "url": "https://gyncursos.com.br/unit/aula-03-equalizacao-da-mesa-de-som/"
+    },
+
+    {
+      "titulo": "Curso completo de sonorização ao vivo",
+      "url": "https://www.somaovivo.org/downloads/curso_completo_de_sonorizacao_ao_vivo.pdf"
+    }
+
+  ],
+
+  "exercicios": [
+
+    {
+      "titulo": "Treino de equalização de voz",
+      "descricao": "Pegue um microfone e pratique reduzir graves, aumentar médios e ajustar agudos até que a voz fique clara e natural."
+    },
+
+    {
+      "titulo": "Treino de controle de ganho",
+      "descricao": "Ajuste o ganho de cada canal até que o som fique forte sem distorcer."
+    },
+
+    {
+      "titulo": "Treino de equilíbrio da banda",
+      "descricao": "Pratique equilibrar volumes entre voz, violão, teclado e bateria para que nenhum instrumento domine o som."
+    },
+
+    {
+      "titulo": "Treino de prevenção de microfonia",
+      "descricao": "Teste diferentes posições de microfones e caixas para entender quais configurações evitam feedback."
+    },
+
+    {
+      "titulo": "Treino de escuta crítica",
+      "descricao": "Durante um culto ou ensaio, tente identificar quais frequências estão sobrando ou faltando e ajuste a equalização para melhorar o som geral."
+    }
+
+  ]
+}

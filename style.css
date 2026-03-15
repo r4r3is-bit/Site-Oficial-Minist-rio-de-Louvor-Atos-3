@@ -438,3 +438,470 @@ body {
   opacity:1;
   border-bottom:2px solid gold;
 }
+
+/* Área de Estudo */
+
+.area-estudos {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.titulo-estudos {
+  color: #d4af37;
+  margin-bottom: 20px;
+}
+
+/* CARROSSEL */
+
+.estudos-carrossel {
+  display: flex;
+  overflow-x: auto;
+  gap: 18px;
+  padding: 10px 14px;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+/* BOTÃO */
+
+.estudo-btn {
+  min-width: 90px;
+  text-align: center;
+  cursor: pointer;
+  scroll-snap-align: center;
+}
+
+/* CÍRCULO */
+
+.estudo-btn .icone {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  
+  background: #2a2a2a;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  box-shadow:
+    inset 0 2px 4px rgba(0, 0, 0, 0.6),
+    0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* ÍCONE SVG */
+
+.estudo-btn .icone img {
+  width: 32px;
+  height: 32px;
+  filter: brightness(0) saturate(100%) invert(73%) sepia(43%) saturate(650%) hue-rotate(8deg) brightness(95%) contrast(92%);
+}
+
+/* TEXTO */
+
+.estudo-btn span {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.85rem;
+  color: #d4af37;
+  border-bottom: 1px solid #d4af37;
+  padding-bottom: 3px;
+}
+
+/* ================================================= */
+/* PÁGINA DE ESTUDO */
+/* ================================================= */
+
+.pagina-estudo {
+  background: #121212;
+  color: #e6e6e6;
+  font-family: Arial, sans-serif;
+}
+
+/* TOPO */
+
+.topo-estudo {
+  padding: 30px;
+  text-align: center;
+  border-bottom: 1px solid #333;
+}
+
+#tituloEstudo {
+  color: #d4af37;
+  font-size: 28px;
+}
+
+/* CONTEÚDO */
+
+.conteudo-estudo {
+  padding: 25px;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* VÍDEOS */
+
+.videos-estudo {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.videos-estudo iframe {
+  border-radius: 10px;
+  border: 1px solid #333;
+}
+
+/* LINKS */
+
+.links-estudo {
+  margin-top: 20px;
+}
+
+.links-estudo a {
+  display: block;
+  color: #d4af37;
+  text-decoration: none;
+  margin: 8px 0;
+}
+
+.links-estudo a:hover {
+  text-decoration: underline;
+}
+.icone-estudo{
+width:34px;
+height:34px;
+filter: brightness(0) saturate(100%) invert(77%) sepia(39%) saturate(646%) hue-rotate(6deg) brightness(92%) contrast(89%);
+}
+.subtitulo-estudo{
+
+color:#d4af37;
+margin-top:30px;
+font-size:22px;
+
+}
+
+.paragrafo-estudo{
+
+line-height:1.7;
+margin-top:12px;
+color:#ddd;
+
+}
+
+.video-card{
+
+min-width:300px;
+text-align:center;
+
+}
+
+.video-card p{
+
+margin-top:8px;
+color:#d4af37;
+
+}
+
+.link-estudo{
+
+display:block;
+padding:10px;
+border:1px solid #333;
+border-radius:8px;
+margin:10px 0;
+color:#d4af37;
+text-decoration:none;
+
+}
+
+.link-estudo:hover{
+
+background:#1b1b1b;
+
+}
+
+.exercicios-estudo{
+
+margin-top:40px;
+
+}
+
+.exercicio-card{
+
+background:#1b1b1b;
+border:1px solid #333;
+padding:15px;
+border-radius:10px;
+margin-top:15px;
+
+}
+
+.exercicio-card h4{
+
+color:#d4af37;
+margin-bottom:6px;
+
+}
+
+.exercicio-card p{
+
+color:#ccc;
+
+}
+.bloco-estudo{
+
+margin-top:40px;
+
+}
+
+.bloco-estudo iframe{
+
+width:100%;
+height:380px;
+border-radius:10px;
+border:1px solid #333;
+
+}
+
+.cifra{
+
+background:#1c1c1c;
+padding:20px;
+margin-top:10px;
+border-radius:8px;
+
+}
+
+textarea{
+
+width:100%;
+height:160px;
+margin-top:20px;
+
+background:#1c1c1c;
+color:white;
+
+border:none;
+
+padding:15px;
+
+border-radius:10px;
+
+}
+.voltar-estudo{
+
+position:absolute;
+left:20px;
+top:20px;
+
+background:none;
+border:1px solid #d4af37;
+
+color:#d4af37;
+
+padding:6px 12px;
+
+border-radius:6px;
+
+cursor:pointer;
+
+font-size:14px;
+
+}
+
+.voltar-estudo:hover{
+
+background:#d4af37;
+color:#121212;
+
+}
+.barra-voltar{
+
+padding:15px 20px;
+
+}
+/* --- Ajustes para o modal de escala: limitar altura e permitir scroll interno --- */
+.escala-modal {
+  position: fixed;
+  inset: 0;
+  display: none;                /* controlado pela classe .show */
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.55);
+  z-index: 1200;
+  padding: 20px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.escala-modal.show {
+  display: flex;
+}
+
+/* caixa interna */
+.escala-box {
+  width: 100%;
+  max-width: 920px;              /* ajusta conforme layout */
+  background: #0f0f0f;           /* mantenha a cor do site */
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.6);
+  box-sizing: border-box;
+
+  /* limite de altura e scroll interno */
+  max-height: calc(100vh - 80px);
+  overflow: auto;
+  position: relative;
+}
+
+/* garante espaço extra no final para os botões não ficarem sobre o conteúdo */
+.escala-box #escalaLista {
+  padding-bottom: 90px;
+}
+
+/* actions (botões) fixos na base da caixa — ficam sempre visíveis */
+.escala-box .whatsapp-btn,
+.escala-box .btn-fechar {
+  position: sticky;
+  bottom: 12px;
+  display: inline-block;
+  margin: 8px 8px 0 0;
+  z-index: 2;
+}
+
+/* se preferir, alinhar os botões à direita */
+.escala-box .whatsapp-btn {
+  float: right;
+}
+
+/* estilo opcional para suavizar */
+.escala-box .btn-fechar {
+  background: transparent;
+  color: #ddd;
+  border: none;
+  font-size: 0.95rem;
+}
+/* ======= Escala modal — footer, botão enviar central e botão fechar pequeno ======= */
+
+/* container do modal já é .escala-box (não tocar) */
+/* área rolável: garante espaço extra para o footer */
+.escala-body {
+  flex: 1 1 auto;
+  overflow: auto;
+  padding-right: 6px;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 120px; /* espaço para o footer fixo — evita corte do conteúdo */
+}
+
+/* footer fixo (sticky) */
+.escala-footer{
+
+  position:sticky;
+  bottom:0;
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:12px; /* espaço entre os botões */
+
+  padding:16px;
+
+  background:linear-gradient(180deg, rgba(10,10,10,0), rgba(6,6,6,0.95));
+}
+
+.whatsapp-btn{
+
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+
+  width:300px;
+  height:42px;
+
+  border:none;
+  border-radius:12px;
+
+  font-size:15px;
+  font-weight:bold;
+  color:black;
+
+  background:linear-gradient(180deg,#3cff8f,#25D366);
+
+  cursor:pointer;
+
+  box-shadow:
+    0 6px 14px rgba(0,0,0,0.5),
+    0 0 20px rgba(37,211,102,0.9),
+    0 0 45px rgba(37,211,102,0.6),
+    inset 0 4px 6px rgba(255,255,255,0.35),
+    inset 0 -6px 10px rgba(0,0,0,0.35);
+
+  transition:all .18s ease;
+}
+.whatsapp-btn:hover{
+  transform:translateY(-2px);
+
+  box-shadow:
+    0 12px 22px rgba(0,0,0,0.6),
+    0 0 28px rgba(37,211,102,1),
+    0 0 60px rgba(37,211,102,0.8),
+    inset 0 4px 6px rgba(255,255,255,0.4),
+    inset 0 -6px 10px rgba(0,0,0,0.35);
+}
+
+.whatsapp-btn:active{
+  transform:translateY(2px);
+}
+/* BOTÃO FECHAR — pequeno circular com X amarelo */
+.escala-footer .btn-fechar {
+
+  position: static; /* remove o posicionamento absoluto */
+
+  width: 42px;
+  height: 42px;
+
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: linear-gradient(180deg,#0b0b0b,#141414);
+  color: #d4af37;
+
+  border: 1px solid rgba(212,175,55,0.06);
+
+  box-shadow:
+    0 10px 24px rgba(0,0,0,0.55),
+    inset 0 6px 12px rgba(255,255,255,0.02);
+
+  cursor: pointer;
+
+  font-size: 18px;
+
+  padding: 0;
+}
+
+/* mantém escondido qualquer texto */
+.escala-footer .btn-fechar span{
+  display:none;
+}
+/* evita que o botão whatsapp seja cortado em telas pequenas */
+.escala-footer .whatsapp-btn { min-width: 220px; max-width: calc(100% - 120px); box-sizing: border-box; }
+
+.iframe-cifra{
+width:100%;
+height:500px;
+border:none;
+margin-top:10px;
+}
+
+.cifra-estudo{
+margin-top:15px;
+}
+.cifra-estudo iframe{
+filter:none !important;
+mix-blend-mode: normal !important;
+background:white !important;
+}

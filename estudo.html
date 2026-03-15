@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Área de Estudos</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body class="pagina-estudo">
+
+<!-- BARRA SUPERIOR -->
+<div class="barra-voltar">
+
+<button onclick="history.back()">
+⬅ Voltar
+</button>
+
+</div>
+
+<!-- TITULO DO ESTUDO -->
+<header class="topo-estudo">
+
+<h1 id="tituloEstudo"></h1>
+
+</header>
+
+<!-- CONTEUDO PRINCIPAL -->
+<section class="conteudo-estudo">
+
+<div id="textoEstudo"></div>
+
+<h2 id="tituloVideos">Vídeo-aulas</h2>
+<div id="videosEstudo" class="videos-estudo"></div>
+
+<h2 id="tituloLinks">Leitura</h2>
+<div id="linksEstudo" class="links-estudo"></div>
+
+<!-- AREA DE EXERCICIOS -->
+<h2 id="tituloExercicios">Exercícios</h2>
+<div id="exerciciosEstudo" class="exercicios-estudo"></div>
+
+<!-- GERADOR DE ESTUDO POR CÓDIGO -->
+<div class="abrir-escala">
+
+<h2>Abrir Escala para Estudo</h2>
+
+<input
+type="text"
+id="codigoEscala"
+placeholder="Cole aqui o código da escala"
+/>
+
+<<button onclick="abrirEscalaCodigo()">Abrir</button>
+</div>
+<!-- AREA ESPECIAL PARA ESCALAS -->
+<div id="estudoEscala"></div>
+
+<!-- ANOTAÇÕES -->
+<h2 id="tituloAnotacoes" style="display:none;">Anotações</h2>
+
+<textarea
+id="anotacoes"
+style="display:none;"
+placeholder="Escreva suas anotações aqui...">
+</textarea>
+
+</section>
+
+<script src="estudo.js"></script>
+
+</body>
+</html>

@@ -57,6 +57,12 @@ info: "Integrante desde 2024. Grande potencial toca com sinceridade e dedicaçã
 foto: "assets/nata.png"
 },
 {
+nome: "Júnior",
+funcao: "Baixista/Guitarrista",
+info: "Integrante desde 2024. Diretor Musical da Banda, Forte senso musical, sério e meticuloso.",
+foto: "assets/junior.jpg"
+},
+{
   nome: "Felipe Mesquita",
 funcao: "Sonoplasta",
 info: "Integrante desde 2025. Esforçado, muito capaz, humilde, grande potêncial, faz o fino, dá o devido suporte, som nota 10, não gosta de ficar em evidência mas ajuda sempre, pensa muito no próximo,  compreensivo e tem os melhores comentários.",
@@ -179,7 +185,17 @@ const avaliacoesMinistros = {
     pontualidade: 87,
     potencial: 90,
     compromisso: 76
+},
+
+   "Júnior": {
+    teoria: 95,
+    paciencia: 61,
+    humor: 80,
+    pontualidade: 92,
+    potencial: 90,
+    compromisso: 88
   }
+  
 };
 let audioLigado = false;
 
@@ -379,6 +395,7 @@ document.getElementById("hinoPage").classList.remove("hidden")
 document.querySelector(".galeria-sonora").classList.add("hidden")
 document.getElementById("avaliacaoMinistro").classList.add("hidden")
 document.querySelector(".footer").classList.add("hidden")
+document.querySelector(".area-estudos").classList.add("hidden")
 }
 
 
@@ -394,6 +411,8 @@ document.getElementById("hinoPlayer").src = ""
 document.querySelector(".galeria-sonora").classList.remove("hidden")
 document.getElementById("avaliacaoMinistro").classList.remove("hidden")
 document.querySelector(".footer").classList.remove("hidden")
+const areaEstudos = document.querySelector(".area-estudos");
+  if (areaEstudos) areaEstudos.classList.remove("hidden");
 const scroll = localStorage.getItem("scrollHinos");
   if(scroll){
     setTimeout(()=>{
@@ -502,6 +521,11 @@ function abrirEscalaBuilder(){
   }
 
   document.getElementById("escalaBuilder").classList.add("show");
+ // trava o scroll do body (permite scroll dentro da .escala-box)
+  document.body.style.overflow = "hidden";
+
+  // (o resto da função continua igual: evita duplicatas, push na escalaAtual e renderEscala())
+  // ...
 
 //so detalhes pode ser removido
 if(escalaAtual.hinos.some(h => h.nome === hinoAtual.nome)) return;
@@ -523,6 +547,8 @@ const fab = document.getElementById("escalaFab");
 if (fab) fab.classList.remove("hidden");
 function fecharEscalaBuilder(){
   document.getElementById("escalaBuilder").classList.remove("show");
+  // libera o scroll do body
+  document.body.style.overflow = "";
 }
 
 function renderEscala(){
@@ -558,6 +584,18 @@ function renderEscala(){
     `;
   });
 }
+
+// =================================================
+// GERAR CÓDIGO DE ESTUDO DA ESCALA (utility)
+// =================================================
+function gerarCodigoEscala(listaHinos){
+  // junta pelos nomes, separador | — sem encoding aqui,
+  // vamos deixar o encoding para quando montar a URL (ou whatsapp já faz encodeURIComponent)
+  return listaHinos
+    .map(h => h.nome)
+    .join("|");
+}
+
 
 function enviarEscalaWhatsApp(){
 
@@ -600,6 +638,11 @@ ${h.cifra || "-"}
     }
 
   });
+
+// gera o código de estudo e acrescenta ao texto
+  const codigo = gerarCodigoEscala(escalaAtual.hinos);
+  texto += "\n\n📚 Código de estudo:\n";
+  texto += codigo;
 
   window.open(
     "https://api.whatsapp.com/send?text=" + encodeURIComponent(texto),
@@ -694,4 +737,17 @@ function atualizarVisualLetras(){
       btn.classList.remove("ativa");
     }
   });
+}
+
+// Área de Estudos //
+function abrirEstudo(tipo){
+
+window.location.href = `estudo.html?tipo=${tipo}`;
+}
+// =================================================
+// GERAR CÓDIGO DE ESTUDO DA ESCALA
+// =================================================
+// Área de Estudos //
+function abrirEstudo(tipo){
+  window.location.href = `estudo.html?tipo=${tipo}`;
 }

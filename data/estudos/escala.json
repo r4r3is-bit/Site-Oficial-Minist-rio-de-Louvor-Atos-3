@@ -1,0 +1,60 @@
+{
+  "titulo": "Aba de Estudos da Escala",
+  
+  "texto": [
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Esta área foi criada para facilitar o estudo das músicas que serão ministradas nos cultos. Sempre que um músico acessar esta página, o sistema exibirá automaticamente as duas últimas escalas cadastradas (normalmente referentes ao culto de domingo e ao culto de quinta-feira)."
+    },
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O objetivo é permitir uma preparação prática e rápida: assistir ao vídeo da música original, revisar a cifra completa e estudar a estrutura da canção."
+    },
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Cada músico pode estudar da forma que preferir. Não existe um método obrigatório, mas recomenda-se observar atentamente:"
+    },
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Tom da música"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Introdução e viradas"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Estrutura (verso, pré-refrão, refrão, ponte"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Dinâmica da música"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Momento de silêncio ou crescimento"
+    },
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Após revisar o vídeo e a cifra, utilize o espaço de anotações para registrar observações importantes como:"
+    },
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "• Mudanças de tom"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Partes que exigem mais atenção"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Entradas específicas de instrumentos"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Dinâmica da banda"},
+      {"tipo": "paragrafo",
+      "conteudo": "• Divisão de vozes no canto"
+    },
+    
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Isso ajuda toda a equipe a manter organização, unidade e excelência musical durante a ministração."
+    }
+    
+  ],
+
+  "links": []
+}
