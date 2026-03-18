@@ -4339,8 +4339,17 @@
     "youtube_principal": "https://youtu.be/fOBGrF-bQbA?si=7ubUVlBnt_I1LcvR",
     "youtube_secundario": "https://youtu.be/fOBGrF-bQbA?si=7ubUVlBnt_I1LcvR",
     "spotify": "https://open.spotify.com/track/7sV9sltSuQVSGfVhiBhmSF?si=GfKD00KCRPCxDKYhf3QbuA",
-    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/uma-vez/principal.html#instrument=guitar&key=5"}
+    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/uma-vez/principal.html#instrument=guitar&key=5"}, 
     
-    
+      {
+    "id": "bendito-seras-davi-sacer",
+    "nome": "Bendito Serás",
+    "cantor": "Davi Sacer",
+    "tom": "G",
+    "youtube_principal": "https://youtu.be/5_RktmE1uu8?si=Gk9B9Q3NPZ0Sxard",
+    "youtube_secundario": "https://youtu.be/5_RktmE1uu8?si=Gk9B9Q3NPZ0Sxard",
+    "spotify": "https://open.spotify.com/track/2UZQid7Pi1VqcI9oK35vr2",
+    "cifra": "https://www.cifraclub.com.br/davi-sacer/bendito-seras/"
+  }
 ]
 
