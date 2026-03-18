@@ -905,3 +905,75 @@ filter:none !important;
 mix-blend-mode: normal !important;
 background:white !important;
 }
+
+
+/* ================= EFEITO BOTÃO ESTUDO (CORRIGIDO) ================= */
+
+.estudo-btn{
+  position: relative;
+  transition: all 0.2s ease;
+  overflow: hidden; /* importante */
+}
+
+/* garante que o conteúdo fique na frente */
+.estudo-btn *{
+  position: relative;
+  z-index: 2;
+}
+
+/* brilho fica atrás */
+.estudo-btn::after{
+  content:"";
+  position:absolute;
+  top:0;
+  left:-120%;
+  width:120%;
+  height:100%;
+
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(255,215,0,0.4),
+    transparent
+  );
+
+  transition:0.5s;
+  z-index: 1; /* FICA ATRÁS */
+}
+
+/* animação */
+.estudo-btn:hover::after{
+  left:120%;
+}
+
+/* HOVER */
+.estudo-btn:hover{
+  transform: translateY(-4px) scale(1.05);
+}
+
+/* CLICK */
+.estudo-btn:active{
+  transform: scale(0.92);
+}
+
+/* glow no círculo */
+.estudo-btn:hover .icone{
+  box-shadow:
+    0 0 12px rgba(255,215,0,0.7),
+    0 0 25px rgba(255,215,0,0.3);
+}
+/* REMOVE O HIGHLIGHT AZUL AO TOCAR */
+.estudo-btn{
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
+
+/* remove foco padrão */
+.estudo-btn:focus{
+  outline: none;
+}
+
+/* remove aquele brilho estranho em alguns casos */
+.estudo-btn:active{
+  outline: none;
+}
