@@ -9,6 +9,16 @@
     "spotify": "https://open.spotify.com/track/5nTdPKg2nd1wMxStXdE2Xe",
     "cifra": "https://www.cifraclub.com.br/voz-da-verdade/pra-que/"
   },
+    {
+  "id": "eis-me-aqui",
+    "nome": "Eis me Aqui",
+    "cantor": "Valesca Maysa",
+    "tom": "G",
+    "youtube_principal": "https://youtu.be/mW4psuVOuXs?si=XzZqnu-Elm4L6G88",
+    "youtube_secundario": "https://youtu.be/mW4psuVOuXs?si=XzZqnu-Elm4L6G88",
+    "spotify": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE?si=ANtb793OTZOQMvZqaIkbJQ",
+    "cifra": "https://www.cifraclub.com.br/valesca-mayssa/eis-me-aqui/"
+  },
 
   {
     "id": "sonda-me",
@@ -4400,16 +4410,7 @@
     "youtube_secundario": "https://youtu.be/0RjojWKqsFY?si=WmW-A0fsBFris-D5",
     "spotify": "https://open.spotify.com/track/2boZYkfZkJpOE3FdNZ2ZNc?si=IZhecfSZTNuPsPMUu4kfbA",
     "cifra": "https://www.cifraclub.com.br/ministerio-morada/pra-onde-eu-irei/principal.html#instrument=guitar&key=0"
-  },
-  {
-  "id": "eis-me-aqui",
-    "nome": "Eis-me Aqui",
-    "cantor": "Valesca Mayssa",
-    "tom": "",
-    "youtube_principal": "https://youtu.be/wdtxqAjWjEU?si=UUNa81zR5JvVUEV3",
-    "youtube_secundario": "https://youtu.be/wdtxqAjWjEU?si=UUNa81zR5JvVUEV3",
-    "spotify": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE?si=ANtb793OTZOQMvZqaIkbJQ",
-    "cifra": "https://www.cifraclub.com.br/valesca-mayssa/eis-me-aqui/principal.html#instrument=guitar&key=2"
   }
+
 ]
 
