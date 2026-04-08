@@ -98,7 +98,7 @@ foto: "assets/thiago.png"
 // ===============================
 const avaliacoesMinistros = {
   "Raphael Reis": {
-    teoria: 92,
+    teoria: 90,
     paciencia: 98,
     humor: 72,
     pontualidade: 95,
