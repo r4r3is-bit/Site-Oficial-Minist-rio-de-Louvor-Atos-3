@@ -3862,12 +3862,12 @@
   {
     "id": "a-gloria-da-segunda-casa",
     "nome": "A Glória Da Segunda Casa",
-    "cantor": "Gisele Nascimento",
+    "cantor": "Beatriz",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/Z0Ob7jl4-Tc",
-    "youtube_secundario": "https://www.youtube.com/watch?v=Z0Ob7jl4-Tc",
+    "youtube_principal": "https://youtu.be/bqqiuZtqFEQ?si=gLPSlQkzdb8Or4M3",
+    "youtube_secundario": "https://youtu.be/bqqiuZtqFEQ?si=gLPSlQkzdb8Or4M3",
     "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
-    "cifra": "https://www.cifraclub.com.br/gisele-nascimento/a-gloria-da-segunda-casa/"
+    "cifra": "https://www.cifraclub.com.br/beatriz-andrade/a-gloria-da-segunda-casa/principal.html#instrument=guitar&key=5"
   },
 
 
@@ -4410,7 +4410,48 @@
     "youtube_secundario": "https://youtu.be/0RjojWKqsFY?si=WmW-A0fsBFris-D5",
     "spotify": "https://open.spotify.com/track/2boZYkfZkJpOE3FdNZ2ZNc?si=IZhecfSZTNuPsPMUu4kfbA",
     "cifra": "https://www.cifraclub.com.br/ministerio-morada/pra-onde-eu-irei/principal.html#instrument=guitar&key=0"
+  },
+    {
+    "id": "lembra-senhor",
+    "nome": "Lembra Senhoe",
+    "cantor": "Trazendo a Arca",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/pS0v3gw3EKU?si=43pQs3Qo2d6ya4l4",
+    "youtube_secundario": "https://youtu.be/pS0v3gw3EKU?si=43pQs3Qo2d6ya4l4",
+    "spotify": "https://open.spotify.com/track/6a7T8TKBMUV4u13H5Kuc5o?si=-tb5NyKIRG2glcZk1IkUqg",
+    "cifra": "https://www.cifraclub.com.br/toque-no-altar/lembra-senhor/principal.html#instrument=guitar&key=10"
+  }, 
+    {
+    "id": "ele-e-exaltado",
+    "nome": "Ele é Exaltado",
+    "cantor": "Adhemar de Campos",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/22c5Flzd8Iw?si=eQdAEtOk9alRA2sD",
+    "youtube_secundario": "https://youtu.be/22c5Flzd8Iw?si=eQdAEtOk9alRA2sD",
+    "spotify": "https://open.spotify.com/track/6laMXF1yMj9jCi8j4OSdoG?si=bUQQDQgMRUKsLcZdiuRpzw",
+    "cifra": "https://www.cifraclub.com.br/adhemar-de-campos/ele-exaltado/principal.html#instrument=guitar&key=8"
+  },
+    {
+    "id": "deus-de-promessas",
+    "nome": "Deus de Promessas",
+    "cantor": "Ministério Apascenta",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/bH-Vo-mfZDM?si=Iokqyxma_nPCnFX8",
+    "youtube_secundario": "https://youtu.be/bH-Vo-mfZDM?si=Iokqyxma_nPCnFX8",
+    "spotify": "https://open.spotify.com/track/6RblsgP9aZ2IONqucO8wi2?si=wmqeXUX1RUqdbslDnLiCxQ",
+    "cifra": "https://www.cifraclub.com.br/davi-sacer/deus-de-promessas/principal.html#instrument=guitar&key=3"
+  },
+    {
+    "id": "gratidao",
+    "nome": "Gratidão",
+    "cantor": "Felipe Rodrigues",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/-oH04gqi0xI?si=Vjjlfy1T7A-7KGWR",
+    "youtube_secundario": "https://youtu.be/-oH04gqi0xI?si=Vjjlfy1T7A-7KGWR",
+    "spotify": "https://open.spotify.com/track/1UsJHUdF66XUQcEliF00oC?si=VL6FK9N9SSi8mvhUcH13tg",
+    "cifra": "https://www.cifraclub.com.br/felipe-rodrigues/gratidao/principal.html#instrument=guitar&key=5"
   }
+  
 
 ]
 
