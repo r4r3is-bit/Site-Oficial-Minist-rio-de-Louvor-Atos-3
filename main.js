@@ -63,6 +63,12 @@ info: "Integrante desde 2024. Diretor Musical da Banda, Forte senso musical, sé
 foto: "assets/junior.jpg"
 },
 {
+nome: "Gil Carlos",
+funcao: "Violonista",
+info: "Integrante desde 2024.",
+foto: "assets/gil.jpg"
+},
+{
   nome: "Felipe Mesquita",
 funcao: "Sonoplasta",
 info: "Integrante desde 2025. Esforçado, muito capaz, humilde, grande potêncial, faz o fino, dá o devido suporte, som nota 10, não gosta de ficar em evidência mas ajuda sempre, pensa muito no próximo,  compreensivo e tem os melhores comentários.",
@@ -194,6 +200,14 @@ const avaliacoesMinistros = {
     pontualidade: 92,
     potencial: 90,
     compromisso: 88
+  },
+     "Gil Carlos": {
+    teoria: 0,
+    paciencia: 0,
+    humor: 0,
+    pontualidade: 0,
+    potencial: 0,
+    compromisso: 0
   }
   
 };
