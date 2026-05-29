@@ -822,8 +822,8 @@
     "nome": "Como Zaqueu",
     "cantor": "Regis Danese",
     "tom": "F",
-    "youtube_principal": "https://www.youtube.com/watch?v=GsxP0K1UlgM",
-    "youtube_secundario": "https://www.youtube.com/watch?v=RTRW1IQHG_M",
+    "youtube_principal": "https://youtu.be/HS-HSWBFogs?si=kX4I_hDpjHFNsN4G",
+    "youtube_secundario": "https://youtu.be/HS-HSWBFogs?si=kX4I_hDpjHFNsN4G",
     "spotify": "https://open.spotify.com/track/0gTkaOEcPG4zPhgwcUgQvH",
     "cifra": "https://www.cifraclub.com.br/regis-danese/faz-um-milagre-em-mim/"
   },
@@ -897,12 +897,12 @@
   {
     "id": "abraca-me",
     "nome": "Abraça-me",
-    "cantor": "David Quinlan",
+    "cantor": "André Valadão",
     "tom": "G",
-    "youtube_principal": "https://www.youtube.com/watch?v=Vrh_2ESD8g4",
-    "youtube_secundario": "https://www.youtube.com/watch?v=3cJf8vlrqEU",
+    "youtube_principal": "https://youtu.be/6PWUbDhHfqs?si=UpeGvJ6n2HMEevy6",
+    "youtube_secundario": "https://youtu.be/6PWUbDhHfqs?si=UpeGvJ6n2HMEevy6",
     "spotify": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa",
-    "cifra": "https://www.cifraclub.com.br/david-quinlan/abraca-me/"
+    "cifra": "https://www.cifraclub.com.br/andre-valadao/abraca-me/principal.html#instrument=guitar&key=10"
   },
 
   {
@@ -1075,8 +1075,8 @@
     "nome": "Se Eu Me Humilhar",
     "cantor": "Discopraise",
     "tom": "D#",
-    "youtube_principal": "https://www.youtube.com/watch?v=xlnE-SwHuZw",
-    "youtube_secundario": "https://www.youtube.com/watch?v=V2gbU87eYeM",
+    "youtube_principal": "https://youtu.be/XEa2jjT9SyQ?si=VSj9Dan5O5tYnI54",
+    "youtube_secundario": "https://youtu.be/XEa2jjT9SyQ?si=VSj9Dan5O5tYnI54",
     "spotify": "https://open.spotify.com/track/7iVzU89YhIBNzjPZsqsmCj",
     "cifra": "https://www.cifraclub.com.br/discopraise/se-eu-me-humilhar/"
   },
@@ -1086,8 +1086,8 @@
     "nome": "Até Que o Senhor Venha",
     "cantor": "Ministério Zoe",
     "tom": "E",
-    "youtube_principal": "https://www.youtube.com/watch?v=iS6GXPbhCwU",
-    "youtube_secundario": "https://www.youtube.com/watch?v=ArLM2T612zo",
+    "youtube_principal": "https://youtu.be/TdMS20oszR4?si=UODNeN9jmcFmSZsh",
+    "youtube_secundario": "https://youtu.be/TdMS20oszR4?si=UODNeN9jmcFmSZsh",
     "spotify": "https://open.spotify.com/track/4wqIhmTGkXUN0JXRSpZzWw",
     "cifra": "https://www.cifraclub.com.br/ministerio-zoe/ate-que-o-senhor-venha/"
   },
@@ -1295,7 +1295,7 @@
     "nome": "500 Graus",
     "cantor": "Cassiane",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=mGVlRuv_P-c",
+    "youtube_principal": "https ://www.youtube.com/watch?v=mGVlRuv_P-c",
     "youtube_secundario": "https://www.youtube.com/watch?v=mN-oQiBHjwk",
     "spotify": "https://open.spotify.com/track/11L36eQmtDZNM6WwisczXI",
     "cifra": "https://www.cifraclub.com.br/cassiane/500-graus/"
@@ -2811,8 +2811,8 @@
     "nome": "A Resposta",
     "cantor": "Thalles Roberto",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
-    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "youtube_principal": "https://youtu.be/-3KZhUi-6FY?si=SAqaC3b-me8I64F2",
+    "youtube_secundario": "https://youtu.be/-3KZhUi-6FY?si=SAqaC3b-me8I64F2",
     "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
     "cifra": "https://www.cifraclub.com.br/thalles-roberto/a-resposta/"
   },
@@ -2865,14 +2865,14 @@
     "nome": "Arde Outra Vez",
     "cantor": "Thalles Roberto",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/q7JQbKnTP3I",
-    "youtube_secundario": "https://www.youtube.com/watch?v=q7JQbKnTP3I",
+    "youtube_principal": "https://youtu.be/o6bSuclgy5w?si=uso42YUTwqIV-kB1",
+    "youtube_secundario": "https://youtu.be/o6bSuclgy5w?si=uso42YUTwqIV-kB1",
     "spotify": "https://open.spotify.com/track/4iw1pOe6oDkw4Rc2TX7NSm",
     "cifra": "https://www.cifraclub.com.br/thalles-roberto/arde-outra-vez/"
   },
 
   {
-    "id": "atraidospelo-fogo",
+    "id": "atraidos-pelo-fogo",
     "nome": "Atraídos Pelo Fogo",
     "cantor": "Casa Worship",
     "tom": "",
@@ -2951,8 +2951,8 @@
     "nome": "Quem É Esse",
     "cantor": "Julliany Souza",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
-    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
+    "youtube_principal": "https://youtu.be/0ZF5em0MTwY?si=ChboykM53dCdzVDS",
+    "youtube_secundario": "https://youtu.be/0ZF5em0MTwY?si=ChboykM53dCdzVDS",
     "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
     "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
   },
@@ -3219,16 +3219,6 @@
     "youtube_secundario": "https://www.youtube.com/watch?v=trPtAAEtCIY",
     "spotify": "https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2",
     "cifra": "https://www.cifraclub.com.br/sarah-oliveira/santos/"
-  },
-  {
-    "id": "quem-e-esse",
-    "nome": "Quem É Esse?",
-    "cantor": "Julliany Souza",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
-    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
-    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
-    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
   },
 
   {
@@ -3529,16 +3519,7 @@
     "spotify": "https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc",
     "cifra": "https://www.cifraclub.com.br/ministerio-morada/teus-altares/"
   },
-  {
-    "id": "quem-e-esse",
-    "nome": "Quem É Esse?",
-    "cantor": "Julliany Souza",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
-    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
-    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
-    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
-  },
+
   {
     "id": "joao-20-pra-sempre",
     "nome": "João 20 + Pra Sempre",
@@ -3928,8 +3909,8 @@
     "nome": "Acalma o Meu Coração",
     "cantor": "Anderson Freire",
     "tom": "B",
-    "youtube_principal": "https://www.youtube.com/embed/4NBmNvqmnqg",
-    "youtube_secundario": "https://www.youtube.com/watch?v=4NBmNvqmnqg",
+    "youtube_principal": "https://youtu.be/4NBmNvqmnqg?si=Fu-S8auZuO66DQmu",
+    "youtube_secundario": "https://youtu.be/4NBmNvqmnqg?si=Fu-S8auZuO66DQmu",
     "spotify": "https://open.spotify.com/track/0x3VCZEoCv2TzwTyy1DLhj",
     "cifra": "https://www.cifraclub.com.br/anderson-freire/acalma-o-meu-coracao/"
   },
@@ -3964,16 +3945,7 @@
     "spotify": "https://open.spotify.com/track/1Z9RilMoGIiUgrsNHr0zgN",
     "cifra": "https://www.cifraclub.com.br/casa-worship/vento-impetuoso/"
   },
-  {
-    "id": "quem-e-esse",
-    "nome": "Quem É Esse?",
-    "cantor": "Julliany Souza",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/xcC3Xh3PFcE",
-    "youtube_secundario": "https://www.youtube.com/watch?v=xcC3Xh3PFcE",
-    "spotify": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw",
-    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
-  },
+
   {
     "id": "tudo-e-perda",
     "nome": "Tudo É Perda",
@@ -4550,7 +4522,81 @@
     "youtube_secundario": "https://youtu.be/ZgvNdVCUHYw?si=gBOZLY06SBbY30rt",
     "spotify": "https://open.spotify.com/track/33awnwK3PrTyoQPWbRC2WW?si=JGU0teGVSpGR77gAPAFzdg",
     "cifra": "https://www.cifraclub.com.br/larissa-pires/vaso-que-lhe-apraz/principal.html#instrument=guitar&key=3"
-  }
+  },
+  
+  {
+    "id": "olha-pra-mim",
+    "nome": "Olha Pra Mim",
+    "cantor": "Toque no Altar",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/YpUaakrUuNo?si=KZ2lOIxCHl81xYo7",
+    "youtube_secundario": "https://youtu.be/YpUaakrUuNo?si=KZ2lOIxCHl81xYo7",
+    "spotify": "https://open.spotify.com/track/3tMnpJeg5d0QaBIMoD4J3V?si=k5x0ULOASFmNxg6ELw_dUA",
+    "cifra": "https://www.cifraclub.com.br/toque-no-altar/olha-pra-mim/principal.html#instrument=guitar&key=10"
+  },
+  
+    {
+    "id": "vem-senhor",
+    "nome": "Vem Senhor",
+    "cantor": "Stella Laura",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/MI3zbnzxpdg?si=cgt4qD_goyKkfamv",
+    "youtube_secundario": "https://youtu.be/MI3zbnzxpdg?si=cgt4qD_goyKkfamv",
+    "spotify": "https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT?si=qfI0kDr9RwiiNnuoKyJZbw",
+    "cifra": "https://www.cifraclub.com.br/stella-laura/vem-senhor/principal.html#instrument=guitar&key=7"
+  },
+  {
+    "id": "a-espera-de-jesus",
+    "nome": "À Espera de Jesus",
+    "cantor": "Isabelle Araújo",
+    "tom": "",
+    "youtube_principal": "https://youtube.com/watch?v=Iq1MK76oDhA&si=k4f-GFAIcdhirlY6",
+    "youtube_secundario": "https://youtube.com/watch?v=Iq1MK76oDhA&si=k4f-GFAIcdhirlY6",
+    "spotify": "https://open.spotify.com/track/1gPQQo9ScpOIGnOXO0i3KL?si=-GJ3MMiwTHKfz5d7XWRusQ",
+    "cifra": "https://www.cifraclub.com.br/ozeias-de-paula/-espera-de-jesus/principal.html#instrument=guitar&key=0"
+  },
+  {
+    "id":"e-assim-que-eu-te-amo",
+    "nome": "É Assim Que Eu Te Amo",
+    "cantor": "Oséias de Paula",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/n9JJDU87q2M?si=RbVsiVQugxXiEopG",
+    "youtube_secundario": "https://youtu.be/n9JJDU87q2M?si=RbVsiVQugxXiEopG",
+    "spotify": "https://open.spotify.com/track/7DdlZZ1jspg7EFrlcQEFkD?si=4-ULTyQUQmGabHvWRLGyPg",
+    "cifra": "https://www.cifraclub.com.br/ozeias-de-paula/e-assim-que-eu-te-amo/principal.html#instrument=guitar&key=5"
+  },
+  
+  {
+    "id": "o-amigo",
+    "nome": "O Amigo",
+    "cantor": "Eli Soares",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/c9YqmP4VX4k?si=Bj-x0qWcNM2EFkWN",
+    "youtube_secundario": "https://youtu.be/c9YqmP4VX4k?si=Bj-x0qWcNM2EFkWN",
+    "spotify": "https://open.spotify.com/track/4hKaZDgyBVG7kHN6ItoeTF?si=n_zDLbJxRt6tG0OIAO4WJQ",
+    "cifra": "https://www.cifraclub.com.br/eli-soares/o-amigo/principal.html#instrument=guitar&key=0"
+  },
+  {
+    "id": "fale-com-jesus",
+    "nome": "Fale Com Jesus",
+    "cantor": "Hirley Carvalhaes",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/8uKmMiCAzvk?si=4J_AiQbhtBDejHYL",
+    "youtube_secundario": "https://youtu.be/8uKmMiCAzvk?si=4J_AiQbhtBDejHYL",
+    "spotify": "https://open.spotify.com/track/3cyYXE1keVhfRjgplGy5wI?si=qnDGw66MQ66VaP03m-GPAw",
+    "cifra": "https://www.cifraclub.com.br/shirley-carvalhaes/fale-com-jesus/principal.html#instrument=guitar&key=7"
+  },
+    {
+    "id": "quando-eu-chorar",
+    "nome": "Quando Eu Chorar",
+    "cantor": "Bruna Carla",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/WAlyybMQo5E?si=unkXWBbn5hykzszH",
+    "youtube_secundario": "https://youtu.be/WAlyybMQo5E?si=unkXWBbn5hykzszH",
+    "spotify": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x?si=AOAmNCkcSSyHLJg6_Vp-1w",
+    "cifra": "https://www.cifraclub.com.br/bruna-karla/quando-eu-chorar/principal.html#instrument=guitar&key=0"
+    }
+  
   
   ]
 

@@ -38,23 +38,16 @@ info: "Líder do Ministério. Integrante desde 2018, líder desde 2025. Coringa 
 foto: "assets/raphael.png"
 },
 {
-  nome: "Iara",
-funcao: "Sonoplasta",
-info: "Integrante desde 2025. Dedicada, acertiva, observadora, simples mas possui um grande potêncial, ajuda sempre que consegue, dando seu melhor em tudo.",
-foto: "assets/iara.png"
+nome: "Natã Freitas",
+funcao: "Tecladista",
+info: "Integrante desde 2024. Grande potencial toca com sinceridade e dedicação.",
+foto: "assets/nata.png"
 },
 {
 nome: "Natiele",
 funcao: "Vocalista Mezzo Soprano",
 info: "Integrante desde 2025. Voz poderosa e companheira, sempre está a disposição quando precisa, tem um grande alcance vocal, mas não foi completamente explorado ainda.",
 foto: "assets/natiele.png"
-},
-
-{
-nome: "Natã Freitas",
-funcao: "Tecladista",
-info: "Integrante desde 2024. Grande potencial toca com sinceridade e dedicação.",
-foto: "assets/nata.png"
 },
 {
 nome: "Júnior",
@@ -164,15 +157,6 @@ const avaliacoesMinistros = {
     pontualidade: 95,
     potencial: 85,
     compromisso: 97
-  },
-  
-    "Iara": {
-    teoria: 75,
-    paciencia: 50,
-    humor: 90,
-    pontualidade: 67,
-    potencial: 90,
-    compromisso: 78
   },
 
   "Thiago": {
