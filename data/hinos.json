@@ -100,19 +100,19 @@
   {
     "id": "por-amor",
     "nome": "Por Amor",
-    "cantor": "Fernandinho",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=TIru4Fas77A",
-    "youtube_secundario": "https://www.youtube.com/watch?v=1c99vZ5kJcE",
-    "spotify": "https://open.spotify.com/track/6myCVYSwX2muEZQRdSSub2",
-    "cifra": "https://www.cifraclub.com.br/fernandinho/foi-por-amor/"
+    "cantor": "Voz da Verdade",
+    "tom": "C",
+    "youtube_principal": "https://youtu.be/_JL5CUcGMIw",
+    "youtube_secundario": "https://youtu.be/_JL5CUcGMIw",
+    "spotify": "https://open.spotify.com/track/42oO0TD4zAzWMy5Te5RNUt?si=oZa4JQMrQD6UAYQMbdC5uA",
+    "cifra": "https://www.cifraclub.com.br/voz-da-verdade/por-amor/principal.html#instrument=guitar&key=3"
   },
 
   {
-    "id": "terra-seca",
-    "nome": "Terra Seca",
+    "id": "faz-chover",
+    "nome": "Faz Chover",
     "cantor": "Fernandinho",
-    "tom": "G",
+    "tom": "C",
     "youtube_principal": "https://www.youtube.com/watch?v=scnBd3lAO0I",
     "youtube_secundario": "https://www.youtube.com/watch?v=f097WHc7h3g",
     "spotify": "https://open.spotify.com/track/0O3GrDa8Es7zBsarhi9ONY",
@@ -494,12 +494,12 @@
   {
     "id": "jesus-e-o-caminho",
     "nome": "Jesus é o Caminho",
-    "cantor": "Voz da Verdade",
+    "cantor": "Heloisa Rosa",
     "tom": "F",
-    "youtube_principal": "https://www.youtube.com/watch?v=Hzg4CtUOePc",
-    "youtube_secundario": "https://www.youtube.com/watch?v=1UIbZreM4Zg",
-    "spotify": "https://open.spotify.com/track/4riVncKC2BHr2xjPvSxKak",
-    "cifra": "https://www.cifraclub.com.br/voz-da-verdade/jesus-e-o-caminho/"
+    "youtube_principal": "https://youtu.be/SrvFZDSkieU",
+    "youtube_secundario": "https://youtu.be/SrvFZDSkieU",
+    "spotify": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt?si=5SYDu737Syun3oMePipU3A",
+    "cifra": "https://www.cifraclub.com.br/heloisa-rosa/jesus-o-caminho/principal.html#instrument=guitar&key=7"
   },
 
   {
@@ -1592,8 +1592,8 @@
     "nome": "Que Ruja o Leão",
     "cantor": "Isaias Saad feat. Nívea Soares",
     "tom": "C#m",
-    "youtube_principal": "https://youtu.be/gTRFVMkMajw?si=lb47X-zrccjF26d-",
-    "youtube_secundario": "https://youtu.be/gTRFVMkMajw?si=lb47X-zrccjF26d-",
+    "youtube_principal": "https://youtu.be/gTRFVMkMajw",
+    "youtube_secundario": "https://youtu.be/gTRFVMkMajw",
     "spotify": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl?si=As2ItObfQCiE5wZgcqq0oA",
     "cifra": "https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/principal.html#instrument=guitar&key=4"
   },
@@ -2486,12 +2486,12 @@
   {
     "id": "filho-do-homem",
     "nome": "Filho do Homem",
-    "cantor": "Alessandro Vilas Boas",
+    "cantor": "Gilmar Brito",
     "tom": "",
-    "youtube_principal": "https://youtu.be/PoXgJw095nE?si=xiPWwYlpJcCPB9ar",
-    "youtube_secundario": "https://youtu.be/PoXgJw095nE?si=xiPWwYlpJcCPB9ar",
-    "spotify": "https://open.spotify.com/track/66zqrYofPEKX4DpKozhg2h?si=dv1EYFf5SKWVcjeh5heGXg",
-    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/filho-do-homem/"
+    "youtube_principal": "https://youtu.be/gAW24LzAt2g",
+    "youtube_secundario": "https://youtu.be/gAW24LzAt2g",
+    "spotify": "https://open.spotify.com/track/11oOMVMdYhZu5ooQAOPvU9?si=gvpeyFeaR128d2qDKnAhOw",
+    "cifra": "https://www.cifraclub.com.br/gilmar-britto/filho-do-homem/principal.html#instrument=guitar&key=5/"
   },
   {
     "id": "uma-coisa",
@@ -3010,17 +3010,6 @@
   },
 
   {
-    "id": "tu-es-aguas-purificadoras",
-    "nome": "Tu És Águas Purificadoras",
-    "cantor": "Voz da Verdade",
-    "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/619,102",
-    "youtube_secundario": "https://www.youtube.com/watch?v=619,102",
-    "spotify": "https://open.spotify.com/track/619,102",
-    "cifra": "https://www.cifraclub.com.br/voz-da-verdade/tu-es-aguas-purificadoras/"
-  },
-
-  {
     "id": "se-isso-nao-for-amor",
     "nome": "Se Isso Não For Amor",
     "cantor": "Harpa Cristã",
@@ -3236,8 +3225,8 @@
     "nome": "Bondade de Deus",
     "cantor": "Isaías Saad",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/wSKKEAnLTDw",
-    "youtube_secundario": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+    "youtube_principal": "https://youtu.be/mZ9yZYo9Mmk",
+    "youtube_secundario": "https://youtu.be/mZ9yZYo9Mmk",
     "spotify": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai",
     "cifra": "https://www.cifraclub.com.br/isaias-saad/bondade-de-deus/"
   },
@@ -4595,8 +4584,39 @@
     "youtube_secundario": "https://youtu.be/WAlyybMQo5E?si=unkXWBbn5hykzszH",
     "spotify": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x?si=AOAmNCkcSSyHLJg6_Vp-1w",
     "cifra": "https://www.cifraclub.com.br/bruna-karla/quando-eu-chorar/principal.html#instrument=guitar&key=0"
-    }
-  
+    },
+    {
+    "id": "nada-mais-2",
+    "nome": "Nada Mais",
+    "cantor": "FHOP MUSIC",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/N5AMmLZjaaM",
+    "youtube_secundario": "https://youtu.be/N5AMmLZjaaM",
+    "spotify": "https://open.spotify.com/track/0ztZQGxSaj7AvQd38vpzCr?si=ml007pUWQyGZQMbeQaXbrg",
+    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/principal.html#instrument=guitar&key=7"
+    },
+    
+  {
+    "id": "nada-mais-2",
+    "nome": "Nada Mais",
+    "cantor": "FHOP MUSIC",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/N5AMmLZjaaM",
+    "youtube_secundario": "https://youtu.be/N5AMmLZjaaM",
+    "spotify": "https://open.spotify.com/track/0ztZQGxSaj7AvQd38vpzCr?si=ml007pUWQyGZQMbeQaXbrg",
+    "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/nada-mais/principal.html#instrument=guitar&key=7"
+    },
+      {
+    "id": "terra-seca",
+    "nome": "Terra Seca",
+    "cantor": "Judson Oliveira",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/8SDKbCDHJIU",
+    "youtube_secundario": "https://youtu.be/8SDKbCDHJIU",
+    "spotify": "https://open.spotify.com/track/7jgWbJ4oiYZ4YFwtnGa0ab?si=AKyLaGKVSFOvheOOsrjdKw",
+    "cifra": "https://www.cifraclub.com.br/ministerio-sarando-terra-ferida/deus-do-secreto/principal.html#instrument=guitar&key=8"
+  }
+
   
   ]
 
