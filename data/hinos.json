@@ -4615,6 +4615,36 @@
     "youtube_secundario": "https://youtu.be/8SDKbCDHJIU",
     "spotify": "https://open.spotify.com/track/7jgWbJ4oiYZ4YFwtnGa0ab?si=AKyLaGKVSFOvheOOsrjdKw",
     "cifra": "https://www.cifraclub.com.br/ministerio-sarando-terra-ferida/deus-do-secreto/principal.html#instrument=guitar&key=8"
+  },
+    {
+    "id": "soldado-ferido",
+    "nome": "Soldado Ferido",
+    "cantor":"Júnior",
+    "tom": "F#",
+    "youtube_principal": "https://youtu.be/ohRc_6mckY4",
+    "youtube_secundario": "https://youtu.be/ohRc_6mckY4",
+    "spotify": "https://open.spotify.com/track/5sPrTZdITTjOEeSvgw9mLd?si=pP12MUvSS6SknevomGjNCg",
+    "cifra": "https://www.cifraclub.com.br/junior/soldado-ferido/principal.html#instrument=guitar&key=1"
+  },
+    {
+    "id": "in-memorian",
+    "nome": "In Memorian",
+    "cantor": "Mara Lima",
+    "tom": "F",
+    "youtube_principal": "https://youtu.be/kthKNdcBmD4",
+    "youtube_secundario": "https://youtu.be/kthKNdcBmD4",
+    "spotify": "https://open.spotify.com/track/0Z6DfGi7OF0XdCaqOcui3w?si=zC6LQyw4Qpq-lM74L4j5_w",
+    "cifra": "https://www.cifraclub.com.br/mara-lima/in-memorian/principal.html#instrument=guitar&key=8"
+  },
+    {
+    "id": "deus-tremendo",
+    "nome": "Deus Tremendo",
+    "cantor": "Shirley Carvalhaes",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/wdlMO_b64Ao",
+    "youtube_secundario": "https://youtu.be/wdlMO_b64Ao",
+    "spotify": "https://open.spotify.com/track/2lMCfRZrB9pAunDPIIn8gE?si=C85WPn4dQYaudaey9RAjrg",
+    "cifra": "https://www.cifraclub.com.br/shirley-carvalhaes/deus-tremendo/principal.html#instrument=guitar&key=0null"
   }
 
   
