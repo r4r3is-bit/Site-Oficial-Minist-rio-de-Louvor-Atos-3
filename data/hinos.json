@@ -680,8 +680,8 @@
     "nome": "Deus Me Ama",
     "cantor": "Thalles Roberto",
     "tom": "A",
-    "youtube_principal": "https://youtu.be/-UgDShiFBhA?si=4qc1BsuKtBbQzsb6",
-    "youtube_secundario": "https://youtu.be/-UgDShiFBhA?si=4qc1BsuKtBbQzsb6",
+    "youtube_principal": "https://youtu.be/PsZoV7fchOM",
+    "youtube_secundario": "https://youtu.be/PsZoV7fchOM",
     "spotify": "https://open.spotify.com/track/1M2scz3rcfR7GHUViHUaWR?si=BO0aOFYvT8ydO_LSnQNfaQ",
     "cifra": "https://www.cifraclub.com.br/thalles-roberto/deus-me-ama/"
   },
@@ -780,6 +780,16 @@
     "tom": "A",
     "youtube_principal": "https://youtu.be/lSwiHA8gymg?si=EKw7Yrk5npZLLI3a",
     "youtube_secundario": "https://youtu.be/lSwiHA8gymg?si=EKw7Yrk5npZLLI3a",
+    "spotify": "https://open.spotify.com/track/3WguVId9zbNufOTHgQiTOx",
+    "cifra": "https://www.cifraclub.com.br/diante-do-trono/me-ama-/"
+  },
+  {
+    "id": "me-ama-ao-vivo",
+    "nome": "Me Ama (Ao Vivo)",
+    "cantor": "Diante do Trono",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/gCpQRynxZNs",
+    "youtube_secundario": "https://youtu.be/gCpQRynxZNs",
     "spotify": "https://open.spotify.com/track/3WguVId9zbNufOTHgQiTOx",
     "cifra": "https://www.cifraclub.com.br/diante-do-trono/me-ama-/"
   },
@@ -1437,12 +1447,12 @@
   {
     "id": "deixa-fluir",
     "nome": "Deixa Fluir",
-    "cantor": "Big Up",
+    "cantor": "Thayane Segueto",
     "tom": "F#",
-    "youtube_principal": "https://www.youtube.com/watch?v=someother",
-    "youtube_secundario": "https://www.youtube.com/watch?v=5DLKgKPhjjo",
+    "youtube_principal": "https://youtu.be/Q_4nGy6-VkQ",
+    "youtube_secundario": "https://youtu.be/Q_4nGy6-VkQ",
     "spotify": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw",
-    "cifra": "https://www.cifraclub.com.br/big-up/deixa-fluir/"
+    "cifra": "https://www.cifraclub.com.br/thaiane-seghetto/deixa-fluir/principal.html#instrument=guitar&key=8"
   },
 
   {
@@ -1543,6 +1553,17 @@
     "spotify": "https://open.spotify.com/track/0Njk2f5tMOnr3CH2WAXpdU",
     "cifra": "https://www.cifraclub.com.br/marcelo-markes/sinto-fluir/"
   },
+  {
+    "id": "sinto-fluir-2",
+    "nome": "Sinto Fluir",
+    "cantor": "Marcelo Markes e Central 3",
+    "tom": "B",
+    "youtube_principal": "https://youtu.be/ReAOJVH9U8o",
+      "youtube_secundario": "https://youtu.be/ReAOJVH9U8o",
+    "spotify": "https://open.spotify.com/track/0Njk2f5tMOnr3CH2WAXpdU",
+    "cifra": "https://www.cifraclub.com.br/marcelo-markes/sinto-fluir/"
+  },
+  
   {
     "id": "seja-livre",
     "nome": "Seja Livre",
@@ -4645,6 +4666,16 @@
     "youtube_secundario": "https://youtu.be/wdlMO_b64Ao",
     "spotify": "https://open.spotify.com/track/2lMCfRZrB9pAunDPIIn8gE?si=C85WPn4dQYaudaey9RAjrg",
     "cifra": "https://www.cifraclub.com.br/shirley-carvalhaes/deus-tremendo/principal.html#instrument=guitar&key=0null"
+  },
+  {
+    "id": "seu-amor",
+    "nome": "Seu Amor",
+    "cantor": "Isaias Saad",
+    "tom": "A",
+    "youtube_principal": "https://youtu.be/OEeY-Eu1lcU",
+    "youtube_secundario": "https://youtu.be/OEeY-Eu1lcU",
+    "spotify": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc?si=atgXRMEcTROzVS1seALqYQ",
+    "cifra": "https://www.cifraclub.com.br/isaias-saad/seu-amor/principal.html#instrument=guitar&key=1"
   }
 
   
