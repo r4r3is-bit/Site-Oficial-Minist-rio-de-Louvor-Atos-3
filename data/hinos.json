@@ -898,8 +898,8 @@
     "nome": "Leva-me Aos Sedentos",
     "cantor": "Aline Barros",
     "tom": "G",
-    "youtube_principal": "https://www.youtube.com/watch?v=zUOaDzTmpNA",
-    "youtube_secundario": "https://www.youtube.com/watch?v=MzLBmGf1fSQ",
+    "youtube_principal": "https://youtu.be/eConMACPJJk?is=rHjX6O2N-QKcf7nK",
+    "youtube_secundario": "https://youtu.be/eConMACPJJk?is=rHjX6O2N-QKcf7nK",
     "spotify": "https://open.spotify.com/track/4a4z4BPYYOCfx26M1KAQ5k",
     "cifra": "https://www.cifraclub.com.br/aline-barros/leva-me-aos-sedentos-101022/"
   },
@@ -1052,8 +1052,8 @@
     "nome": "Desejo Missionário",
     "cantor": "Mara Lima",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=GsxP0K1UlgM",
-    "youtube_secundario": "https://www.youtube.com/watch?v=dANcAGydlsM",
+    "youtube_principal": "https://youtu.be/uiXw3rAmQes?is=8dHzfN7ZtfBTHhAf",
+    "youtube_secundario": "https://youtu.be/uiXw3rAmQes?is=8dHzfN7ZtfBTHhAf",
     "spotify": "https://open.spotify.com/track/6yakyDBvGaxgwEH6GRGvVO",
     "cifra": "https://www.cifraclub.com.br/mara-lima/desejo-missionario/"
   },
@@ -1070,14 +1070,14 @@
   },
 
   {
-    "id": "ta-chorando-porque",
-    "nome": "Ta Chorando Porque?",
+    "id": "ta-chorando-porque-+-alvo-mais-que-a-neve",
+    "nome": "Ta Chorando Porque? + Alvo mais que a Neve",
     "cantor": "Preto no Branco",
     "tom": "B",
-    "youtube_principal": "https://www.youtube.com/watch?v=Rf-W8bI_q7A",
-    "youtube_secundario": "https://www.youtube.com/watch?v=xdr1Wg_cgSo",
-    "spotify": "https://open.spotify.com/track/4mbksCDQBeVelEUum0bjRP",
-    "cifra": "https://www.cifraclub.com.br/amanda-wanessa/ta-chorando-porque/"
+    "youtube_principal": "https://youtu.be/WKmSqdc9QRE?is=zI5MJczN9OPlJ-cP",
+    "youtube_secundario": "https://youtu.be/WKmSqdc9QRE?is=zI5MJczN9OPlJ-cP",
+    "spotify": "https://open.spotify.com/track/2DCwzIVV6glyf5iho6LoVw?si=y6uJs7lmRY28n1ZKWUYTPA&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/jeyzer-maia/ta-chorando-porque/principal.html#instrument=guitar&key=4"
   },
 
   {
@@ -1994,12 +1994,12 @@
   {
     "id": "ekballo",
     "nome": "Ekballo",
-    "cantor": "Heloisa Rosa",
-    "tom": "D",
-    "youtube_principal": "https://www.youtube.com/embed/198755580",
-    "youtube_secundario": "https://www.youtube.com/watch?v=198755580",
-    "spotify": "https://open.spotify.com/track/6elWiXo70uU",
-    "cifra": "https://www.cifraclub.com.br/jefferson-e-suellen/foi-na-cruz/"
+    "cantor": "One Sounds",
+    "tom": "C",
+    "youtube_principal": "https://youtu.be/TXuuAPqvXgo?is=2LkWkwZAFCShiyOW",
+    "youtube_secundario": "https://youtu.be/TXuuAPqvXgo?is=2LkWkwZAFCShiyOW",
+    "spotify": "https://open.spotify.com/track/6snzGZK4lEkXpzrImMuHws?si=n-E-cCaZQ8a74YNXZZB0WQ&utm_source=copy-link&sci=spotify%3Acard-config%3A6dhRHpR1Vu8TrkUCip0Tpj",
+    "cifra": "https://www.cifraclub.com.br/alessandro-vilas-boas/ekballo/principal.html#instrument=guitar&key=0"
   },
   {
     "id": "yeshua",
@@ -3703,12 +3703,12 @@
   {
     "id": "a-alma-abatida",
     "nome": "A Alma Abatida",
-    "cantor": "Gabriela Rocha",
+    "cantor": "Harpa Cristã",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/embed/nSvxVCdj_gU",
-    "youtube_secundario": "https://www.youtube.com/watch?v=nSvxVCdj_gU",
+    "youtube_principal": "https://youtu.be/on4NpQOQ9Vg?is=Y9AW1kJLirFeSnVs",
+    "youtube_secundario": "https://youtu.be/on4NpQOQ9Vg?is=Y9AW1kJLirFeSnVs",
     "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
-    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/a-alma-abatida/"
+    "cifra": "https://www.cifraclub.com.br/harpa-crista/a-alma-abatida/principal.html#instrument=guitar&key=7"
   },
   {
     "id": "porque-ele-vive",
@@ -4533,7 +4533,36 @@
     "spotify": "https://open.spotify.com/track/33awnwK3PrTyoQPWbRC2WW?si=JGU0teGVSpGR77gAPAFzdg",
     "cifra": "https://www.cifraclub.com.br/larissa-pires/vaso-que-lhe-apraz/principal.html#instrument=guitar&key=3"
   },
-  
+  {
+    "id": "breve-verei",
+    "nome": "Breve Verei",
+    "cantor": "Harpa Cristã",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/A6ttfLvFxvw?is=nSfE0VBTzUL3clg_",
+    "youtube_secundario": "https://youtu.be/A6ttfLvFxvw?is=nSfE0VBTzUL3clg_",
+    "spotify": "https://open.spotify.com/track/33awnwK3PrTyoQPWbRC2WW?si=JGU0teGVSpGR77gAPAFzdg",
+    "cifra": "https://www.cifraclub.com.br/harpa-crista/breve-verei-bom-jesus/principal.html#instrument=guitar&key=10"
+  },
+  {
+    "id": "pensando-bem",
+    "nome": "Pensando Bem",
+    "cantor": "Ton Carfi",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/-hwpxf3lRf4?is=ewz67lz0vJQNVFjW",
+    "youtube_secundario": "https://youtu.be/-hwpxf3lRf4?is=ewz67lz0vJQNVFjW",
+    "spotify": "https://open.spotify.com/track/33awnwK3PrTyoQPWbRC2WW?si=JGU0teGVSpGR77gAPAFzdg",
+    "cifra": "https://www.cifraclub.com.br/j-neto/pensando-bem/principal.html#instrument=guitar&key=10"
+  },
+  {
+    "id": "eu-so-quero-adorar",
+    "nome": "Eu Só Quero Adorar",
+    "cantor": "Jerson Ruffino",
+    "tom": "C",
+    "youtube_principal": "https://youtu.be/zjhlfaT1YO8?is=YVHWXrsapkTpyjbs",
+    "youtube_secundario": "https://youtu.be/zjhlfaT1YO8?is=YVHWXrsapkTpyjbs",
+    "spotify": "https://open.spotify.com/track/33awnwK3PrTyoQPWbRC2WW?si=JGU0teGVSpGR77gAPAFzdg",
+    "cifra": "https://www.cifraclub.com.br/gerson-rufino/eu-so-quero-adorar/principal.html#instrument=guitar&key=0"
+  },
   {
     "id": "olha-pra-mim",
     "nome": "Olha Pra Mim",
@@ -4676,7 +4705,58 @@
     "youtube_secundario": "https://youtu.be/OEeY-Eu1lcU",
     "spotify": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc?si=atgXRMEcTROzVS1seALqYQ",
     "cifra": "https://www.cifraclub.com.br/isaias-saad/seu-amor/principal.html#instrument=guitar&key=1"
+  },
+    {
+    "id": "Deus-de-Abraao",
+    "nome": "Deus de Abraão",
+    "cantor": "Patrick Mendes",
+    "tom": "G",
+    "youtube_principal": "https://youtu.be/KkXqsm1_RUM?is=kHfS564S3jD7T6A_",
+    "youtube_secundario": "https://youtu.be/KkXqsm1_RUM?is=kHfS564S3jD7T6A_",
+    "spotify": "https://open.spotify.com/track/5jhwQvOqsxzrJXcygHanSD?si=t7uTtZc3RhiRuMlzxNAEkg&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/patrick-mendes/deus-de-abraao-part-jessica-augusto/principal.html#instrument=guitar&key=10"
+  }, 
+    {
+    "id": "acima-da-media",
+    "nome": "Acima da Média",
+    "cantor": "Bruna Karla",
+    "tom": "F",
+    "youtube_principal": "https://youtu.be/AFYyhml9Kwo?is=dU5TR9A3WIsOYH7U",
+    "youtube_secundario": "https://youtu.be/AFYyhml9Kwo?is=dU5TR9A3WIsOYH7U",
+    "spotify": "https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj?si=QdzGGhp4QHKGIS72hcqIlw&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/bruna-karla/acima-da-media/principal.html#instrument=guitar&key=8"
+  }, 
+    {
+    "id": "me-ajude-a-melhorar",
+    "nome": "Me Ajude A Melhorar",
+    "cantor": "Eli Soares",
+    "Tom": "E",
+    "youtube_principal": "https://youtu.be/lclKOqYuvug?is=i0zNAneBfqqSDGZe",
+    "youtube_secundario": "https://youtu.be/lclKOqYuvug?is=i0zNAneBfqqSDGZe",
+    "spotify": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU?si=qtUqykHdQrGzUXLWLarqYw&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/eli-soares/me-ajudar-a-melhorar/principal.html#instrument=guitar&key=4"
+  },
+  {
+    "id": "o-lugar",
+    "nome": "O Lugar",
+    "cantor": "Pr. Lucas",
+    "Tom": "D",
+    "youtube_principal": "https://youtu.be/tgs3ux9GPxY?is=kVjjoSaAtYJxJ4L2",
+    "youtube_secundario": "https://youtu.be/tgs3ux9GPxY?is=kVjjoSaAtYJxJ4L2",
+    "spotify": "https://open.spotify.com/track/7oUbKLNUs0aDsLHwDSOcqd?si=d8EEs5RaRWOn44t3GOE5qQ&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/pr-lucas/o-lugar/principal.html#instrument=guitar&key=10"
+  },
+   {
+    "id": "se-eu-cair",
+    "nome": "Se Eu Cair",
+    "cantor": "Eli Soares",
+    "Tom": "G",
+    "youtube_principal": "https://youtu.be/0mJSNgnl8y8?is=Z67FNQ6TqVCeKx32",
+    "youtube_secundario": "https://youtu.be/0mJSNgnl8y8?is=Z67FNQ6TqVCeKx32",
+    "spotify": "https://open.spotify.com/track/0lZnfqLWU7QrJm6GkzB4cw?si=e0zEE1TDSgio4oJk-5AvNg&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/eli-soares/se-eu-cair/principal.html#instrument=guitar&key=10"
   }
+  
 
   
   ]
