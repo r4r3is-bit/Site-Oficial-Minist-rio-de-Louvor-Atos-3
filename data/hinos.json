@@ -1922,14 +1922,14 @@
     "cifra": "https://www.cifraclub.com.br/jefferson-e-suellen/o-encontro-part-valesca-mayssa/principal.html#instrument=guitar&key=3"
   },
   {
-    "id": "colossenses",
-    "nome": "Colossenses",
-    "cantor": "Paulo Neto",
-    "tom": "E",
-    "youtube_principal": "https://www.youtube.com/embed/Mryw3gkoGrg",
-    "youtube_secundario": "https://www.youtube.com/watch?v=Mryw3gkoGrg",
+    "id": "colossenses-e-suas-linhas-de-amor",
+    "nome": "Colossenses e Suas Linhas de Amor",
+    "cantor": "Fhop Music",
+    "tom": "Bm",
+    "youtube_principal": "https://youtu.be/MeX0yHMs9Nk?is=0bdaeXdt3J7lJ3fb",
+    "youtube_secundario": "https://youtu.be/MeX0yHMs9Nk?is=0bdaeXdt3J7lJ3fb",
     "spotify": "https://open.spotify.com/track/7HJZT2h5lOPYfIPq6HZSDp",
-    "cifra": "https://www.cifraclub.com/aline-barros/casa-do-pai/"
+    "cifra": "https://www.cifraclub.com.br/marco-telles/colossenses-e-suas-linhas-de-amor/principal.html#instrument=guitar&key=2"
   },
   {
     "id": "unico",
@@ -2104,12 +2104,12 @@
   {
     "id": "se-isso-nao-for-amor",
     "nome": "Se Isso não For Amor",
-    "cantor": "Harpa Cristã",
+    "cantor": "Ruthe Dayanne",
     "tom": "D",
-    "youtube_principal": "https://www.youtube.com/embed/3:53",
-    "youtube_secundario": "https://www.youtube.com/watch?v=3:53",
+    "youtube_principal": "https://youtu.be/xRzy2nXPxAI?is=wx-VxU1Moo2z5zU8",
+    "youtube_secundario": "https://youtu.be/xRzy2nXPxAI?is=wx-VxU1Moo2z5zU8",
     "spotify": "https://open.spotify.com/track/3:53",
-    "cifra": "https://www.cifraclub.com.br/fernanda-brum/tudo-e-perda/"
+    "cifra": "https://www.cifraclub.com.br/ruthe-dayanne/se-isso-nao-for-amor/principal.html#instrument=guitar&key=8"
   },
   {
     "id": "yahweh-se-manifestara",
@@ -2922,6 +2922,16 @@
     "youtube_secundario": "https://www.youtube.com/watch?v=C3EgGOBYk5s",
     "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
     "cifra": "https://www.cifraclub.com.br/dj-pv/eu-tenho-voce/"
+  },
+  {
+    "id": "tudo-e-teu",
+    "nome": "Tudo é Teu",
+    "cantor": "DROPS",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/1yorXvlZd6s?is=TzYJYOqNGg6TQUvx",
+    "youtube_secundario": "https://youtu.be/1yorXvlZd6s?is=TzYJYOqNGg6TQUvx",
+    "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
+    "cifra": "https://www.cifraclub.com.br/drops-ina/tudo-e-teu/principal.html#instrument=guitar&key=10"
   },
 
   {
