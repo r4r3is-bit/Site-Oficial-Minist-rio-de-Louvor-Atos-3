@@ -168,8 +168,8 @@
     "nome": "Depois Do Culto",
     "cantor": "Voz da Verdade",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=5EYHr0RZI9w",
-    "youtube_secundario": "https://www.youtube.com/watch?v=tVnq3jpViDg",
+    "youtube_principal": "https://youtu.be/tVnq3jpViDg?is=IgVy59mNUuQoBc3J",
+    "youtube_secundario": "https://youtu.be/tVnq3jpViDg?is=IgVy59mNUuQoBc3J",
     "spotify": "https://open.spotify.com/track/4lz5NKKQj9hgbZDxcSJIBi",
     "cifra": "https://www.cifraclub.com.br/samuel-mariano/depois-do-culto/"
   },
@@ -853,8 +853,8 @@
     "nome": "Depois Da Muralha",
     "cantor": "Chagas Sobrinho",
     "tom": "G#",
-    "youtube_principal": "https://www.youtube.com/watch?v=5M5njyiQlzA",
-    "youtube_secundario": "https://www.youtube.com/watch?v=1zEq6r2Zw3Q",
+    "youtube_principal": "https://youtu.be/k2ffApgpbP8?is=o-_JOgGbXGVVNMhd",
+    "youtube_secundario": "https://youtu.be/k2ffApgpbP8?is=o-_JOgGbXGVVNMhd",
     "spotify": "https://open.spotify.com/track/42o6bliSkFfRlo6t6jTwJq",
     "cifra": "https://www.cifraclub.com.br/chagas-sobrinho/depois-da-muralha/"
   },
@@ -1966,10 +1966,10 @@
     "nome": "Diz",
     "cantor": "Gabriela Rocha",
     "tom": "D",
-    "youtube_principal": "https://www.youtube.com/embed/5dBlK8Q1dCHWZMWOwTH9IT",
-    "youtube_secundario": "https://www.youtube.com/watch?v=5dBlK8Q1dCHWZMWOwTH9IT",
+    "youtube_principal": "https://youtu.be/LF1UnPP4MvY?is=73GVOWH6sm2iLZlS",
+    "youtube_secundario": "https://youtu.be/LF1UnPP4MvY?is=73GVOWH6sm2iLZlS",
     "spotify": "https://open.spotify.com/track/3qjxMOo96cd9kqVoW0mUhU",
-    "cifra": "https://www.cifraclub.com.br/sarah-oliveira/santo/"
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/diz-you-say/principal.html#instrument=guitar&key=10"
   },
   {
     "id": "no-silencio",
@@ -2090,6 +2090,16 @@
     "youtube_secundario": "https://youtu.be/YXnQ02HYB1w?si=V9rP8jMAR79FqlEj",
     "spotify": "https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt?si=cQQG5xOsRd-WXvSD2G7aJg",
     "cifra": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/tu-es-aguas-purificadoras/principal.html#instrument=guitar&key=5"
+  },
+  {
+    "id": "adotado-como-filho",
+    "nome": "Adotado como Filho",
+    "cantor": "Nic & Rachel Bilman",
+    "tom": "B",
+    "youtube_principal": "https://youtu.be/ALL-_PeMves?is=oARTzPU2R2qQcBnh",
+    "youtube_secundario": "https://youtu.be/ALL-_PeMves?is=oARTzPU2R2qQcBnh",
+    "spotify": "https://open.spotify.com/track/39l0dObmxde36B39Z08DVs?si=NvNVuvt-TMq4oy7u0ojacA&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/nic-e-rachael-billman/adotado-como-filho/principal.html#instrument=guitar&key=0"
   },
   {
     "id": "se-isso-nao-for-amor",
