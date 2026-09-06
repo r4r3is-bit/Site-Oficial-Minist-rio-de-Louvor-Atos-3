@@ -2578,7 +2578,16 @@
     "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
     "cifra": "https://www.cifraclub.com.br/diante-do-trono/sim-e-amen/"
   },
-
+  {
+    "id": "a-mesa",
+    "nome": "A Mesa",
+    "cantor": "Eli Soares",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/2EGqHewoaxQ?is=CP9-yyzZKWWA7o7t",
+    "youtube_secundario": "https://youtu.be/2EGqHewoaxQ?is=CP9-yyzZKWWA7o7t",
+    "spotify": "https://open.spotify.com/track/4CQp8QtF5UgUtJfkvM4ESs?si=HkcW4iMlS8uE9E8IJE9j5w&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/eli-soares/a-mesa/principal.html#instrument=guitar&key=5"
+  },
   {
     "id": "senhor-e-rei",
     "nome": "Senhor e Rei",
@@ -2588,6 +2597,26 @@
     "youtube_secundario": "https://www.youtube.com/watch?v=5EYHr0RZI9w",
     "spotify": "https://open.spotify.com/track/2LWOizeNUqBcIN88qbLsBY",
     "cifra": "https://www.cifraclub.com.br/trazendo-a-arca/senhor-e-rei/"
+  },
+  {
+    "id": "a-mensagem-da-cruz",
+    "nome": "A Mensagem da Cruz",
+    "cantor": "Rose Nascimento",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/V6OF9PXhHZ4?is=XcV-hGE5qoa0rTxX",
+    "youtube_secundario": "https://youtu.be/V6OF9PXhHZ4?is=XcV-hGE5qoa0rTxX",
+    "spotify": "https://open.spotify.com/track/1RxqBIXTn3f2mJ88gKokV6?si=hvakwlv0TyORuzZHIAtVnA&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/rose-nascimento/a-mensagem-da-cruz/principal.html#instrument=guitar&key=10"
+  },
+  {
+    "id": "a-ele-a-gloria",
+    "nome": "A Ele a Glória",
+    "cantor": "Gabriela Rocha",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/9p3qBC3VotM?is=4fts3_BsTQl-9zdg",
+    "youtube_secundario": "https://youtu.be/9p3qBC3VotM?is=4fts3_BsTQl-9zdg",
+    "spotify": "https://open.spotify.com/track/07TsgfuIWgAd4Ds39uwtaH?si=Ut2_MXA_R1a_10iMWD59Ow&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/gabriela-rocha/a-ele-a-gloria/principal.html#instrument=guitar&key=7"
   },
   {
     "id": "gratidao2",
