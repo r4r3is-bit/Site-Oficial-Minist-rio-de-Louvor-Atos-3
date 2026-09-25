@@ -713,7 +713,7 @@
     "nome": "Com Muito Louvor",
     "cantor": "Cassiane",
     "tom": "G",
-    "youtube_principal": "https://www.youtube.com/watch?v=SWm3wuU0PHs",
+    "youtube_principal": "https://youtu.be/ir1RbosYcCY?si=ed8DQ_oD44BFISVA",
     "youtube_secundario": "https://www.youtube.com/watch?v=3q-pRKf-VaQ",
     "spotify": "https://open.spotify.com/track/4pvFVHn28QbLjlDwzMUXBM",
     "cifra": "https://www.cifraclub.com.br/cassiane/com-muito-louvor/"
@@ -730,6 +730,38 @@
     "cifra": "https://www.cifraclub.com.br/isadora-pompeo/oi-jesus/"
   },
 
+{
+    "id": "ele-nao-escolhe-herois",
+    "nome": "Ele Não Escolhe Heróis",
+    "cantor": "Rawfy Weltom",
+    "tom": "E",
+    "youtube_principal": "https://youtu.be/JsyTM-VYWzg?is=LRKdpfzEykFo2kOd",
+    "youtube_secundario": "https://youtu.be/JsyTM-VYWzg?is=LRKdpfzEykFo2kOd",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/rawfy-welton/ele-nao-escolhe-herois/principal.html#instrument=guitar&key=7"
+  },
+  
+  {
+    "id": "creio",
+    "nome": "Creio",
+    "cantor": "Rawfy Welton",
+    "tom": "Ab",
+    "youtube_principal": "https://youtu.be/P45qT3ufiq8?is=X2BPw1QNimu13s-e",
+    "youtube_secundario": "https://youtu.be/P45qT3ufiq8?is=X2BPw1QNimu13s-e",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/rawfy-welton/creio/principal.html#instrument=guitar&key=11"
+  },
+  {
+    "id": "Acredito",
+    "nome": "Acredito",
+    "cantor": "Leonardo Gonçalves",
+    "tom": "E",
+    "youtube_principal": "https://youtu.be/t9dz882vNB8?is=SSouasDLwAr-L9pD",
+    "youtube_secundario": "https://youtu.be/t9dz882vNB8?is=SSouasDLwAr-L9pD",
+    "spotify": "https://open.spotify.com/track/3ghY1MUkBTB80hwDHXCroW",
+    "cifra": "https://www.cifraclub.com.br/leonardo-goncalves/acredito--we-believe/principal.html#instrument=guitar&key=7"
+  },
+  
   {
     "id": "nova-chance",
     "nome": "Nova Chance",
@@ -2680,6 +2712,7 @@
     "spotify": "https://open.spotify.com/track/7CuG9m0KPSSAm3fkitO5OB",
     "cifra": "https://www.cifraclub.com.br/andre-e-felipe/cuido-dos-detalhes/"
   },
+  
   {
     "id": "estamos-de-pe",
     "nome": "Estamos de Pé",
