@@ -663,7 +663,16 @@
     "spotify": "https://open.spotify.com/track/79X9kfOoH45HPJVz55hLDc",
     "cifra": "https://www.cifraclub.com.br/gabriela-rocha/atos-2/"
   },
-
+  {
+    "id": "e-se-eu-cair",
+    "nome": "E Se Eu Cair",
+    "cantor": "Eli Soares",
+    "tom": "",
+    "youtube_principal": "https://youtu.be/0mJSNgnl8y8?is=I9oFv9Cz3EpnaH4F",
+    "youtube_secundario": "https://youtu.be/0mJSNgnl8y8?is=I9oFv9Cz3EpnaH4F",
+    "spotify": "https://open.spotify.com/track/0lZnfqLWU7QrJm6GkzB4cw?si=z1Lki4yITXWzK2bHoowjMw&utm_source=copy-link",
+    "cifra": "https://www.cifraclub.com.br/eli-soares/se-eu-cair/principal.html#instrument=guitar&key=10"
+  },
   {
     "id": "o-fogo-nunca-dorme",
     "nome": "O Fogo Nunca Dorme",
