@@ -620,6 +620,17 @@
     "spotify": "https://open.spotify.com/track/2VQM44ZFqs41PcWkHmfQst?si=03n8GtdCQSmx8sGcfutsTw",
     "cifra": "https://www.cifraclub.com.br/amanda-wanessa/e-adorar/principal.html#instrument=guitar&key=11"
   },
+  
+  {
+    "id": "a-cruz-era-pra-mim",
+    "nome": "A Cruz era pra mim",
+    "cantor": "Pedro Henrique",
+    "tom": "Ab",
+    "youtube_principal": "https://youtu.be/h9dX-d1Yeto?is=vAsjEJ2o69HtizDc",
+    "youtube_secundario": "https://youtu.be/h9dX-d1Yeto?is=vAsjEJ2o69HtizDc",
+    "spotify": "https://open.spotify.com/track/2VQM44ZFqs41PcWkHmfQst?si=03n8GtdCQSmx8sGcfutsTw",
+    "cifra": "https://www.cifraclub.com.br/pedro-henrique-gospel/a-cruz-era-pra-mim/principal.html#instrument=guitar&key=1"
+  },
 
   {
     "id": "maranata",
