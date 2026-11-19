@@ -52,6 +52,17 @@
   },
   
   {
+    "id": "Santo",
+    "nome": "Santo",
+    "cantor": "Carol Braga",
+    "tom": "B",
+    "youtube_principal": "https://youtu.be/lnSFpsJiR3Y?is=PUiLe4xTIAGzdpoc",
+    "youtube_secundario": "https://youtu.be/lnSFpsJiR3Y?is=PUiLe4xTIAGzdpoc",
+    "spotify": "",
+    "cifra": "https://www.cifraclub.com.br/livres-para-adorar/santo/principal.html#instrument=guitar&key=2"
+  },
+  
+  {
     "id": "isaias-9",
     "nome": "Isaías 9",
     "cantor": "Rodolfo Abrantes",
