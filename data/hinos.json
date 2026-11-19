@@ -1000,16 +1000,6 @@
     "cifra": "https://www.cifraclub.com.br/mara-lima/desejo-missionario/"
   },
   {
-    "id": "toda-via-me-alegrarei",
-    "nome": "Toda Via Me Alegrarei",
-    "cantor": "Samuel Messias",
-    "tom": "E",
-    "youtube_principal": "https://www.youtube.com/watch?v=81GaF34veWA",
-    "youtube_secundario": "https://www.youtube.com/watch?v=rNBedSCKwVc",
-    "spotify": "https://open.spotify.com/track/5pzgKsUwkhpGoMGP2PNzAa",
-    "cifra": "https://www.cifraclub.com.br/samuel-messias/todavia-me-alegrarei/"
-  },
-  {
     "id": "se-eu-me-humilhar",
     "nome": "Se Eu Me Humilhar",
     "cantor": "Discopraise",
@@ -3583,7 +3573,7 @@
     "id": "todavia-me-alegrarei",
     "nome": "Todavia Me Alegrarei",
     "cantor": "Samuel Messias",
-    "tom": "",
+    "tom": "E",
     "youtube_principal": "https://www.youtube.com/watch?v=81GaF34veWA",
     "youtube_secundario": "https://www.youtube.com/watch?v=81GaF34veWA",
     "spotify": "https://open.spotify.com/track/5pzgKsUwkhpGoMGP2PNzAa",
