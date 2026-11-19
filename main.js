@@ -403,7 +403,7 @@ const idPrincipal = extrairIdYouTube(hinoAtual.youtube_principal);
 const idVideo = idPrincipal || idSecundario;
 
 if (idSecundario || idPrincipal) {
-  const idExterno = idSecundario || idPrincipal;
+  const idExterno = idPrincipal || idSecundario;
   document.getElementById("hinoYouTube").href =
     `https://www.youtube.com/watch?v=${idExterno}`;
 } else {
@@ -778,13 +778,5 @@ function atualizarVisualLetras(){
 
 // Área de Estudos //
 function abrirEstudo(tipo){
-
-window.location.href = `estudo.html?tipo=${tipo}`;
-}
-// =================================================
-// GERAR CÓDIGO DE ESTUDO DA ESCALA
-// =================================================
-// Área de Estudos //
-function abrirEstudo(tipo){
-  window.location.href = `estudo.html?tipo=${tipo}`;
+  window.location.href = `estudo.html?tipo=${encodeURIComponent(tipo)}`;
 }
