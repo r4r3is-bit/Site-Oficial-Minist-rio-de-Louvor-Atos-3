@@ -977,3 +977,53 @@ background:white !important;
 .estudo-btn:active{
   outline: none;
 }
+
+/* =================================================
+   CADASTRO DE HINOS
+================================================= */
+.repertorio-heading{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:16px}
+.repertorio-heading h3{margin:0}
+.btn-add-hino{border:0;border-radius:12px;padding:11px 16px;background:linear-gradient(135deg,#f6d879,#c9a13a);color:#17130a;font-weight:800;cursor:pointer}
+.cadastro-hino-box{max-width:520px;max-height:88vh;overflow:auto;position:relative}
+.cadastro-hino-box h3{text-align:left;margin:4px 40px 6px 0}
+.cadastro-hint{color:#aaa;font-size:.86rem;margin-bottom:16px}
+.modal-close{position:absolute;right:14px;top:14px;border:1px solid #555;background:#171717;color:#fff;border-radius:50%;width:36px;height:36px}
+#formNovoHino{display:grid;gap:8px}
+#formNovoHino label{color:#d9bd68;font-size:.84rem;margin-top:7px}
+#formNovoHino input,#formNovoHino select{box-sizing:border-box;width:100%;background:#171717;color:#fff;border:1px solid #454545;border-radius:10px;padding:12px;font:inherit}
+.input-with-action{display:flex;gap:8px}
+.input-with-action input{flex:1;min-width:0}
+.input-with-action button{width:48px;border:1px solid #b89537;border-radius:10px;background:#292315;color:#f7d66e;font-size:1.15rem}
+.cadastro-actions{display:flex;gap:10px;margin-top:12px}
+.cadastro-actions button{flex:1;padding:12px;border-radius:10px;border:0;font-weight:700}
+.btn-secondary{background:#333;color:#eee}
+.form-feedback{min-height:1em;color:#f1d37c;font-size:.82rem;margin:2px 0}
+
+/* =================================================
+   ESTUDOS INTERATIVOS
+================================================= */
+.study-dashboard{max-width:1000px;margin:0 auto 28px;padding:18px;background:linear-gradient(135deg,#1c1a13,#111);border:1px solid rgba(212,175,55,.28);border-radius:16px}
+.study-progress{height:9px;background:#303030;border-radius:20px;overflow:hidden;margin:10px 0}
+.study-progress span{display:block;height:100%;background:linear-gradient(90deg,#b58b24,#f5dc83);width:0;transition:width .25s}
+.study-tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:22px 0}
+.study-tool-card,.study-lesson,.study-exercise{background:#1b1b1b;border:1px solid #39332a;border-radius:14px;padding:16px;margin:12px 0}
+.study-tool-card h3,.study-lesson h3,.study-exercise h3{color:#e2c66e;margin:0 0 10px}
+.study-tool-card select,.study-tool-card input,.study-tool-card button,.study-tool-card textarea,.study-exercise button{max-width:100%;box-sizing:border-box}
+.study-tool-card select,.study-tool-card input{background:#101010;color:#fff;border:1px solid #555;padding:10px;border-radius:9px}
+.study-action{background:linear-gradient(135deg,#e7ca72,#b28a2a);color:#15110a;border:0;border-radius:9px;padding:10px 14px;font-weight:700;cursor:pointer}
+.study-muted{color:#aaa;font-size:.88rem;line-height:1.55}
+.scale-notes{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.scale-note{padding:10px 12px;border-radius:9px;background:#29251b;border:1px solid #66552c;color:#ffe8a1;font-weight:700}
+.study-chord-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+.study-chord{background:#242424;padding:12px;border-radius:10px;text-align:center;border:1px solid #444}
+.study-check{display:flex;gap:10px;align-items:flex-start;margin:12px 0;color:#ddd;line-height:1.45}
+.study-check input{accent-color:#d5b14f;margin-top:4px}
+.study-quiz-option{display:block;width:100%;text-align:left;background:#252525;color:#eee;border:1px solid #555;padding:11px;border-radius:9px;margin:7px 0}
+.study-quiz-option.correct{border-color:#3a9c65;background:#173324}
+.study-quiz-option.wrong{border-color:#c55;background:#351818}
+.study-feedback{min-height:1.3em;color:#e5ca78;font-size:.9rem;margin-top:8px}
+.study-notes{width:100%;min-height:120px;box-sizing:border-box;background:#111;color:#eee;border:1px solid #555;border-radius:10px;padding:12px}
+.metronome-display{font-size:2rem;color:#f2d67b;font-weight:800;margin:10px 0}
+.metronome-beat{display:inline-block;width:14px;height:14px;border-radius:50%;background:#444;margin:0 5px}
+.metronome-beat.active{background:#f4d46d;box-shadow:0 0 14px #e9c65e}
+@media(max-width:600px){.cadastro-hino-box{width:100%;padding:16px}.repertorio-heading{align-items:stretch}.repertorio-heading .btn-add-hino{width:100%}.study-dashboard{padding:14px}}
