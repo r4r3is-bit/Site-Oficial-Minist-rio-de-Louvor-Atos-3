@@ -270,7 +270,15 @@ fetch("data/hinos.json")
   return r.json();
 })
 .then(d => {
-  hinos = Array.isArray(d) ? d : [];
+  const catalogoBase = Array.isArray(d) ? d : [];
+  let hinosLocais = [];
+  try {
+    hinosLocais = JSON.parse(localStorage.getItem("atos3_hinos_adicionados") || "[]");
+    if (!Array.isArray(hinosLocais)) hinosLocais = [];
+  } catch (erro) {
+    hinosLocais = [];
+  }
+  hinos = [...catalogoBase, ...hinosLocais];
 
   // Pré-calcula os textos normalizados e a ordem alfabética uma única vez.
   hinos.forEach(h => {
@@ -786,4 +794,109 @@ function atualizarVisualLetras(){
 // Área de Estudos //
 function abrirEstudo(tipo){
   window.location.href = `estudo.html?tipo=${encodeURIComponent(tipo)}`;
+}
+
+// =================================================
+// CADASTRO DE HINOS PELO PRÓPRIO SITE
+// =================================================
+function abrirCadastroHino(){
+  const modal = document.getElementById("cadastroHinoModal");
+  if (!modal) return;
+  document.getElementById("formNovoHino").reset();
+  document.getElementById("novoHinoAviso").textContent = "";
+  modal.classList.add("show");
+  document.body.style.overflow = "hidden";
+}
+function fecharCadastroHino(){
+  document.getElementById("cadastroHinoModal")?.classList.remove("show");
+  document.body.style.overflow = "";
+}
+function pesquisarYoutubeNovoHino(){
+  const nome = document.getElementById("novoHinoNome").value.trim();
+  const cantor = document.getElementById("novoHinoCantor").value.trim();
+  if (!nome) {
+    document.getElementById("novoHinoAviso").textContent = "Informe o nome do hino antes de pesquisar.";
+    document.getElementById("novoHinoNome").focus();
+    return;
+  }
+  const query = encodeURIComponent([nome, cantor].filter(Boolean).join(" "));
+  // O YouTube bloqueia a incorporação da página de resultados em iframes.
+  // Abrimos uma janela compacta para permitir escolher e copiar o vídeo.
+  const popup = window.open(
+    "https://www.youtube.com/results?search_query=" + query,
+    "atos3YoutubeSearch",
+    "popup=yes,width=980,height=720,resizable=yes,scrollbars=yes"
+  );
+  if (!popup) {
+    document.getElementById("novoHinoAviso").textContent = "O navegador bloqueou a janela. Permita pop-ups para este site.";
+  }
+}
+function salvarNovoHino(event){
+  event.preventDefault();
+  const nome = document.getElementById("novoHinoNome").value.trim();
+  const cantor = document.getElementById("novoHinoCantor").value.trim() || "Intérprete não informado";
+  const tom = document.getElementById("novoHinoTom").value;
+  const youtube = document.getElementById("novoHinoYoutube").value.trim();
+  const cifra = document.getElementById("novoHinoCifra").value.trim();
+  const spotify = document.getElementById("novoHinoSpotify").value.trim();
+  const feedback = document.getElementById("novoHinoAviso");
+  const validarUrl = (value, hosts) => {
+    if (!value) return true;
+    try {
+      const url = new URL(value);
+      return url.protocol === "https:" && hosts.some(host => url.hostname === host || url.hostname.endsWith("." + host));
+    } catch (erro) { return false; }
+  };
+  if (!validarUrl(youtube, ["youtube.com","youtu.be"])) {
+    feedback.textContent = "O link do YouTube não parece válido.";
+    return;
+  }
+  if (!validarUrl(cifra, ["cifraclub.com.br","cifraclub.com"])) {
+    feedback.textContent = "O link da cifra deve ser do CifraClub.";
+    return;
+  }
+  if (!validarUrl(spotify, ["open.spotify.com"])) {
+    feedback.textContent = "O link do Spotify não parece válido.";
+    return;
+  }
+  const chave = texto => normalizarTexto(texto).replace(/[^a-z0-9]/g, "");
+  if (hinos.some(h => chave(h.nome) === chave(nome) && chave(h.cantor) === chave(cantor))) {
+    feedback.textContent = "Esse hino já está cadastrado com esse intérprete.";
+    return;
+  }
+  const slug = chave(nome) + "-" + chave(cantor);
+  const novo = {
+    id: "novo-" + slug + "-" + Date.now().toString(36),
+    nome, cantor, tom,
+    youtube_principal: youtube || "https://www.youtube.com/results?search_query=" + encodeURIComponent(nome + " " + cantor),
+    youtube_secundario: youtube || "https://www.youtube.com/results?search_query=" + encodeURIComponent(nome + " " + cantor),
+    spotify: spotify || "https://open.spotify.com/search/" + encodeURIComponent(nome + " " + cantor),
+    cifra: cifra || "https://www.cifraclub.com.br/search/?q=" + encodeURIComponent(nome + " " + cantor),
+    origem: "cadastro-local"
+  };
+  let locais = [];
+  try { locais = JSON.parse(localStorage.getItem("atos3_hinos_adicionados") || "[]"); } catch (erro) {}
+  if (!Array.isArray(locais)) locais = [];
+  locais.push(novo);
+  try {
+    localStorage.setItem("atos3_hinos_adicionados", JSON.stringify(locais));
+  } catch (erro) {
+    feedback.textContent = "Não foi possível salvar neste navegador. Verifique o espaço disponível.";
+    return;
+  }
+  hinos.push(novo);
+  hinos.forEach(h => {
+    h._nomeBusca = normalizarTexto(h.nome);
+    h._cantorBusca = normalizarTexto(h.cantor);
+    h._letraBusca = (h._nomeBusca[0] || "").toUpperCase();
+  });
+  hinosOrdenados = [...hinos].sort((a,b) => a._nomeBusca.localeCompare(b._nomeBusca));
+  letraSelecionada = "";
+  termoBusca = "";
+  const busca = document.getElementById("buscaHinos");
+  if (busca) busca.value = "";
+  criarFiltroLetras();
+  renderHinos();
+  fecharCadastroHino();
+  alert("Hino adicionado ao repertório deste navegador!");
 }
