@@ -214,7 +214,7 @@
     "nome": "Santo Espírito Es Bem Vindo",
     "cantor": "Nivea Soares",
     "tom": "D",
-    "youtube_principal": "https://www.youtube.com/watch?v=Jsr1C6xVhDg",
+    "youtube_principal": "https://www.youtube.com/watch?v=yj5Y__Xp9zA",
     "youtube_secundario": "https://www.youtube.com/watch?v=yj5Y__Xp9zA",
     "spotify": "https://open.spotify.com/track/64Ts41QIXU4YknFAgVLXrv",
     "cifra": "https://www.cifraclub.com.br/nivea-soares/santo-espirito/"
@@ -224,8 +224,8 @@
     "nome": "Amo o Senhor",
     "cantor": "Nivea Soares",
     "tom": "C",
-    "youtube_principal": "https://www.youtube.com/watch?v=3q-pRKf-VaQ",
-    "youtube_secundario": "https://www.youtube.com/watch?v=zIiBw4heKPo",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "https://open.spotify.com/track/1NId83ftjzppDCs18U5ZPg",
     "cifra": "https://www.cifraclub.com.br/nivea-soares/teu-amor-nao-falha/"
   },
@@ -424,7 +424,7 @@
     "nome": "Teu Amor Não Falha",
     "cantor": "Nívea Soares",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=3q-pRKf-VaQ",
+    "youtube_principal": "https://www.youtube.com/watch?v=uzutxVqVJsI",
     "youtube_secundario": "https://www.youtube.com/watch?v=uzutxVqVJsI",
     "spotify": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr",
     "cifra": "https://www.cifraclub.com.br/nivea-soares/teu-amor-nao-falha/"
@@ -941,10 +941,10 @@
   },
   {
     "id": "tem-tudo-a-ve-com-ele",
-    "nome": "Tem Tudo a Vê Com Ele",
+    "nome": "Tem Tudo a Ver Com Ele",
     "cantor": "Central 3",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=0jDlU-XiwCw",
+    "youtube_principal": "https://www.youtube.com/watch?v=k4EoMJfcv0Y",
     "youtube_secundario": "https://www.youtube.com/watch?v=k4EoMJfcv0Y",
     "spotify": "https://open.spotify.com/track/726jL4DA03vVyblrxpqOo",
     "cifra": "https://www.cifraclub.com.br/central-3/tudo-a-ver-com-ele/"
@@ -954,8 +954,8 @@
     "nome": "Angnus Dei",
     "cantor": "David Quinlan",
     "tom": "C",
-    "youtube_principal": "https://www.youtube.com/watch?v=Jsr1C6xVhDg",
-    "youtube_secundario": "https://www.youtube.com/watch?v=Qbn1C6xVhDg",
+    "youtube_principal": "https://www.youtube.com/watch?v=csIeNzdl0E0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=csIeNzdl0E0",
     "spotify": "https://open.spotify.com/track/6UBSkuhGbocJjyAq3ZuULZ",
     "cifra": "https://www.cifraclub.com.br/david-quinlan/agnus-dei/"
   },
@@ -2514,8 +2514,8 @@
     "nome": "A Vitória Chegou",
     "cantor": "Aurelina Dourado",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=rBhlTUxAfdA",
-    "youtube_secundario": "https://www.youtube.com/watch?v=rBhlTUxAfdA",
+    "youtube_principal": "https://www.youtube.com/watch?v=tJRcSJZlMBA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=tJRcSJZlMBA",
     "spotify": "https://open.spotify.com/track/6SqZpvMfE3VlK5DFyRs1Wn",
     "cifra": "https://www.cifraclub.com.br/aurelina-dourado/a-vitoria-chegou/"
   },
