@@ -169,7 +169,10 @@
 </section>
 <!-- ===================== REPERTÓRIO ===================== -->
 <section class="repertorio">
-  <h3>Repertório Banda Atos 3</h3>
+  <div class="repertorio-heading">
+    <h3>Repertório Banda Atos 3</h3>
+    <button class="btn-add-hino" onclick="abrirCadastroHino()">＋ Adicionar hino</button>
+  </div>
 
 <!-- ===================== Lupa de pesquisa ===================== -->
 <div class="busca-hinos">
@@ -196,6 +199,42 @@
   <!-- BOTÃO FLUTUANTE -->
   <button class="fab" onclick="abrirEscala()">+</button>
 </section>
+
+<!-- CADASTRO DE NOVO HINO -->
+<div id="cadastroHinoModal" class="escala-modal hidden">
+  <div class="escala-box cadastro-hino-box">
+    <button class="modal-close" onclick="fecharCadastroHino()" aria-label="Fechar">✕</button>
+    <h3>＋ Adicionar novo hino</h3>
+    <p class="cadastro-hint">Preencha os dados disponíveis. Os links são opcionais.</p>
+    <form id="formNovoHino" onsubmit="salvarNovoHino(event)">
+      <label for="novoHinoNome">Nome do hino *</label>
+      <input id="novoHinoNome" required maxlength="100" placeholder="Ex.: Lugar Secreto">
+      <label for="novoHinoCantor">Cantor / Ministério</label>
+      <input id="novoHinoCantor" maxlength="100" placeholder="Ex.: Gabriela Rocha">
+      <label for="novoHinoTom">Tonalidade</label>
+      <select id="novoHinoTom">
+        <option value="">Não definida</option>
+        <option>C</option><option>C#</option><option>D</option><option>D#</option>
+        <option>E</option><option>F</option><option>F#</option><option>G</option>
+        <option>G#</option><option>A</option><option>A#</option><option>B</option>
+      </select>
+      <label for="novoHinoYoutube">Link do YouTube</label>
+      <div class="input-with-action">
+        <input id="novoHinoYoutube" type="url" placeholder="Cole aqui o link do vídeo">
+        <button type="button" onclick="pesquisarYoutubeNovoHino()" title="Pesquisar no YouTube">🔎</button>
+      </div>
+      <label for="novoHinoCifra">Link da cifra (opcional)</label>
+      <input id="novoHinoCifra" type="url" placeholder="https://www.cifraclub.com.br/...">
+      <label for="novoHinoSpotify">Link do Spotify (opcional)</label>
+      <input id="novoHinoSpotify" type="url" placeholder="https://open.spotify.com/...">
+      <p id="novoHinoAviso" class="form-feedback" aria-live="polite"></p>
+      <div class="cadastro-actions">
+        <button type="button" class="btn-secondary" onclick="fecharCadastroHino()">Cancelar</button>
+        <button type="submit" class="btn-add-hino">Salvar hino</button>
+      </div>
+    </form>
+  </div>
+</div>
 
 <!-- ===================== PERFIL DOS MINISTROS ===================== -->
 <section class="perfil hidden" id="perfil">
