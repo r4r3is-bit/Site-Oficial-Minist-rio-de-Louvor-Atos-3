@@ -4,7 +4,7 @@
 setTimeout(() => {
 document.getElementById("welcome-screen").style.display = "none"
 document.getElementById("site").classList.remove("hidden")
-}, 4000)
+}, 1300)
 
 // =================================================
 // BOTÃO CLARO / ESCURO
@@ -19,6 +19,15 @@ document.body.style.color = dark ? "#fff" : "#000"
 toggle.textContent = dark ? "🌙" : "☀️"
 }
 let termoBusca = "";
+
+function normalizarTexto(texto) {
+  return (texto || "")
+    .toString()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+}
 // =================================================
 // TOPO FIXO
 // =================================================
@@ -224,7 +233,7 @@ area.innerHTML = "";
 ministros.forEach((m, i) => {
   area.innerHTML += `
     <div class="ministro" onclick="abrirPerfil(${i})">
-      <img src="${m.foto}" class="ministro-thumb">
+      <img src="${m.foto}" class="ministro-thumb" loading="lazy" decoding="async">
       <h4>${m.nome}</h4>
       <span>${m.funcao}</span>
     </div>
@@ -251,25 +260,38 @@ function fecharEscala(){ document.getElementById("escalaModal").classList.remove
 // HINOS (JSON)
 // =================================================
 let hinos = []
+let hinosOrdenados = []
 let hinoAtual = null
 let escala = []
 
 fetch("data/hinos.json")
-.then(r => r.json())
+.then(r => {
+  if (!r.ok) throw new Error("Falha ao carregar data/hinos.json: " + r.status);
+  return r.json();
+})
 .then(d => {
-  hinos = d;
+  hinos = Array.isArray(d) ? d : [];
 
-  // Ativa a lupa só depois de carregar
-  const buscaInput = document.getElementById("buscaHinos");
+  // Pré-calcula os textos normalizados e a ordem alfabética uma única vez.
+  hinos.forEach(h => {
+    h._nomeBusca = normalizarTexto(h.nome);
+    h._cantorBusca = normalizarTexto(h.cantor);
+    h._letraBusca = (h._nomeBusca[0] || "").toUpperCase();
+  });
 
-  if (buscaInput) {
-    buscaInput.addEventListener("input", function () {
-      termoBusca = this.value;
-      renderHinos();
-    });
-  }
-criarFiltroLetras();
+  hinosOrdenados = [...hinos].sort((a, b) =>
+    a._nomeBusca.localeCompare(b._nomeBusca)
+  );
+
+  criarFiltroLetras();
   renderHinos();
+})
+.catch(err => {
+  console.error("Erro ao carregar hinos:", err);
+  const lista = document.getElementById("listaHinos");
+  if (lista) {
+    lista.innerHTML = "<p style='padding:20px'>Não foi possível carregar o repertório. Atualize a página.</p>";
+  }
 });
 
 
@@ -277,74 +299,90 @@ criarFiltroLetras();
 // RENDERIZA HINOS A-Z (COM FILTRO)
 // =================================================
 function renderHinos(){
-  const normalizar = texto =>
-  (texto || "")
-    .toString()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g,"")
-    .toLowerCase()
-    .trim();
+  const busca = normalizarTexto(termoBusca);
 
-  const busca = normalizar(termoBusca);
-
-  let base = hinos;
-// Letras Filtros
-if(letraSelecionada){
-  base = base.filter(h => {
-    const primeira = normalizar(h.nome)[0]?.toUpperCase();
-    return primeira === letraSelecionada;
+  // Filtra letra e pesquisa no mesmo conjunto, sem descartar um filtro ao usar o outro.
+  const filtrados = hinosOrdenados.filter(h => {
+    const combinaLetra = !letraSelecionada || h._letraBusca === letraSelecionada;
+    const combinaBusca = !busca ||
+      h._nomeBusca.includes(busca) ||
+      h._cantorBusca.includes(busca);
+    return combinaLetra && combinaBusca;
   });
-}
-// acima
-  if (busca.length > 0) {
-    base = hinos.filter(h =>
-      normalizar(h.nome).includes(busca) ||
-      normalizar(h.cantor).includes(busca)
-    );
+
+  if (filtrados.length === 0) {
+    document.getElementById("listaHinos").innerHTML =
+      "<p style='padding:20px'>Nenhum hino encontrado.</p>";
+    return;
   }
 
-  const ordenados = [...base].sort((a,b)=>
-    normalizar(a.nome).localeCompare(normalizar(b.nome))
+  renderAgrupado("listaHinos", filtrados, true);
+}
+
+function renderAgrupado(id, lista, jaOrdenada = false){
+  const ul = document.getElementById(id);
+  if (!ul) return;
+
+  const normalizados = jaOrdenada ? lista : [...lista].sort((a, b) =>
+    normalizarTexto(a.nome).localeCompare(normalizarTexto(b.nome))
   );
-if (ordenados.length === 0) {
-  document.getElementById("listaHinos").innerHTML =
-    "<p style='padding:20px'>Nenhum hino encontrado.</p>";
-  return;
+
+  let letra = "";
+  const html = [];
+
+  normalizados.forEach(h => {
+    const primeira = normalizarTexto(h.nome).trim()[0]?.toUpperCase() || "#";
+
+    if (primeira !== letra) {
+      letra = primeira;
+      html.push(`<div class="az-letter">${letra}</div>`);
+    }
+
+    html.push(`
+      <li class="az-item" onclick="abrirHinoPorId('${h.id}')">
+        <strong>${h.nome}</strong>
+        <span>${h.cantor}</span>
+      </li>
+    `);
+  });
+
+  // Uma única escrita no DOM em vez de reprocessar a lista a cada item.
+  ul.innerHTML = html.join("");
 }
-  renderAgrupado("listaHinos", ordenados);
-}
 
-function renderAgrupado(id, lista){
-  const ul = document.getElementById(id)
-  ul.innerHTML = ""   
-
-  let letra = ""
-
-  const normalizados = [...lista].sort((a,b)=>{
-    return a.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-    .localeCompare(
-      b.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-    )
-  })
-
-  normalizados.forEach(h=>{
-    const primeira = h.nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-    .trim()[0].toUpperCase()
-
-    if(primeira !== letra){  
-      letra = primeira  
-      ul.innerHTML += `<div class="az-letter">${letra}</div>`  
-    }  
-
-    ul.innerHTML += `
-      <li class="az-item" onclick="abrirHinoPorId('${h.id}')">  
-        <strong>${h.nome}</strong>  
-        <span>${h.cantor}</span>  
-      </li>`  
-    })  
-} // =================================================
+// =================================================
 // ABRIR HINO
 // =================================================
+function extrairIdYouTube(url) {
+  if (typeof url !== "string" || !url.trim()) return "";
+
+  try {
+    const parsed = new URL(url.trim());
+    const host = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    let id = "";
+
+    if (host === "youtu.be") {
+      id = parsed.pathname.split("/").filter(Boolean)[0] || "";
+    } else if (
+      host === "youtube.com" ||
+      host === "m.youtube.com" ||
+      host === "music.youtube.com" ||
+      host === "youtube-nocookie.com"
+    ) {
+      if (parsed.pathname === "/watch") {
+        id = parsed.searchParams.get("v") || "";
+      } else {
+        const match = parsed.pathname.match(/^\/(?:embed|shorts|live)\/([^/?]+)/);
+        if (match) id = match[1];
+      }
+    }
+
+    return /^[A-Za-z0-9_-]{11}$/.test(id) ? id : "";
+  } catch (erro) {
+    return "";
+  }
+}
+
 function abrirHino(i){
 hinoAtual = hinos[i]
 
@@ -359,23 +397,24 @@ localStorage.setItem("scrollHinos", window.scrollY);
 // FORÇA ABRIR O HINO NO TOPO DA TELA
 window.scrollTo({ top: 0, behavior: "instant" });
 
-// BOTÃO YOUTUBE EXTERNO
-document.getElementById("hinoYouTube").href =
-hinoAtual.youtube_secundario || hinoAtual.youtube_principal
+// BOTÃO YOUTUBE EXTERNO + PLAYER
+const idSecundario = extrairIdYouTube(hinoAtual.youtube_secundario);
+const idPrincipal = extrairIdYouTube(hinoAtual.youtube_principal);
+const idVideo = idPrincipal || idSecundario;
 
-// PLAYER EMBED
-if(hinoAtual.youtube_principal){
-let idVideo = "";
-
-if(hinoAtual.youtube_principal.includes("youtu.be/")){
-  idVideo = hinoAtual.youtube_principal.split("youtu.be/")[1].split("?")[0];
-} else if(hinoAtual.youtube_principal.includes("v=")){
-  idVideo = hinoAtual.youtube_principal.split("v=")[1].split("&")[0];}
-document.getElementById("hinoPlayer").src =
-  `https://www.youtube-nocookie.com/embed/${idVideo}`
-}else{
-document.getElementById("hinoPlayer").src = ""
+if (idSecundario || idPrincipal) {
+  const idExterno = idSecundario || idPrincipal;
+  document.getElementById("hinoYouTube").href =
+    `https://www.youtube.com/watch?v=${idExterno}`;
+} else {
+  // Se o cadastro não tem um ID válido, não abre uma URL quebrada.
+  document.getElementById("hinoYouTube").href =
+    `https://www.youtube.com/results?search_query=${encodeURIComponent(hinoAtual.nome + " " + hinoAtual.cantor + " canal oficial")}`;
 }
+
+document.getElementById("hinoPlayer").src = idVideo
+  ? `https://www.youtube-nocookie.com/embed/${idVideo}`
+  : "";
 
 // SELECT DE TOM
 const selectT = document.getElementById("tomSelect")
