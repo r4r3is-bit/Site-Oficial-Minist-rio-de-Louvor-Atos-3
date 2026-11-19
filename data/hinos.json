@@ -891,11 +891,11 @@
   },
   {
     "id": "vitorioso-es",
-    "nome": "Vitorioso Es",
+    "nome": "Vitorioso És",
     "cantor": "Gabriel Guedes",
     "tom": "A",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=k7tGP-vidwc",
+    "youtube_secundario": "https://www.youtube.com/watch?v=k7tGP-vidwc",
     "spotify": "",
     "cifra": ""
   },
@@ -3637,7 +3637,7 @@
     "youtube_principal": "",
     "youtube_secundario": "",
     "spotify": "",
-    "cifra": ""
+    "cifra": "https://www.cifraclub.com.br/eyshila/deus-no-controle/"
   },
   {
     "id": "acende-outra-vez",
@@ -3694,8 +3694,8 @@
     "nome": "Filho Volta",
     "cantor": "Gerson Rufino",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=1kySyIHTfwQ",
+    "youtube_secundario": "https://www.youtube.com/watch?v=1kySyIHTfwQ",
     "spotify": "",
     "cifra": ""
   },
