@@ -2694,10 +2694,10 @@
     "nome": "Quem É Esse",
     "cantor": "Julliany Souza",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=0ZF5em0MTwY",
+    "youtube_secundario": "https://www.youtube.com/watch?v=0ZF5em0MTwY",
     "spotify": "",
-    "cifra": ""
+    "cifra": "https://www.cifraclub.com.br/julliany-souza/quem-e-esse/"
   },
   {
     "id": "restaura-o-teu-altar",
@@ -3554,10 +3554,10 @@
     "nome": "Rasgando o Coração",
     "cantor": "Fernanda Brum",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=TFI0-LoCd94",
+    "youtube_secundario": "https://www.youtube.com/watch?v=TFI0-LoCd94",
     "spotify": "",
-    "cifra": ""
+    "cifra": "https://www.cifraclub.com.br/fernanda-brum/rasgando-o-coracao/"
   },
   {
     "id": "tu-es-bom-em-todo-o-tempo",
@@ -3584,10 +3584,10 @@
     "nome": "Todavia Me Alegrarei",
     "cantor": "Samuel Messias",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=81GaF34veWA",
+    "youtube_secundario": "https://www.youtube.com/watch?v=81GaF34veWA",
     "spotify": "",
-    "cifra": ""
+    "cifra": "https://www.cifraclub.com.br/samuel-messias/todavia-me-alegrarei/"
   },
   {
     "id": "aguenta-firme",
@@ -3604,8 +3604,8 @@
     "nome": "Ouço Deus Me Chamar",
     "cantor": "Fernanda Brum, Ludmila Ferber, Marcos Freire",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=_PDyQrDUAhM",
+    "youtube_secundario": "https://www.youtube.com/watch?v=_PDyQrDUAhM",
     "spotify": "",
     "cifra": ""
   },
@@ -3614,8 +3614,8 @@
     "nome": "Não Me Deixe Esquecer",
     "cantor": "Valesca Mayssa",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=xkQCzSNRGCs",
+    "youtube_secundario": "https://www.youtube.com/watch?v=xkQCzSNRGCs",
     "spotify": "",
     "cifra": ""
   },
@@ -3624,10 +3624,10 @@
     "nome": "Deixa",
     "cantor": "Maria Marçal",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=93TXfW3MT4o",
+    "youtube_secundario": "https://www.youtube.com/watch?v=93TXfW3MT4o",
     "spotify": "",
-    "cifra": ""
+    "cifra": "https://www.cifraclub.com.br/maria-marcal/deixa/"
   },
   {
     "id": "deus-no-controle",
