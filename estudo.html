@@ -32,6 +32,14 @@
 <!-- CONTEUDO PRINCIPAL -->
 <section class="conteudo-estudo">
 
+<div id="studyDashboard" class="study-dashboard">
+  <strong>Seu progresso de aprendizado</strong>
+  <div id="studyProgressText" class="study-muted">0 atividades concluídas</div>
+  <div class="study-progress"><span id="studyProgressBar"></span></div>
+  <p class="study-muted">Marque as atividades conforme praticar. Seu progresso e suas anotações ficam salvos neste navegador.</p>
+</div>
+
+<div id="interactiveTools" class="study-tools"></div>
 <div id="textoEstudo"></div>
 
 <h2 id="tituloVideos">Vídeo-aulas</h2>
@@ -55,7 +63,7 @@ id="codigoEscala"
 placeholder="Cole aqui o código da escala"
 />
 
-<<button onclick="abrirEscalaCodigo()">Abrir</button>
+<button type="button" onclick="abrirEscalaCodigo()">Abrir</button>
 </div>
 <!-- AREA ESPECIAL PARA ESCALAS -->
 <div id="estudoEscala"></div>
