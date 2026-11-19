@@ -390,7 +390,7 @@ document.getElementById("hinoNome").innerText = hinoAtual.nome
 document.getElementById("hinoTom").innerText = hinoAtual.tom
 const consultaMusica = encodeURIComponent(hinoAtual.nome + " " + hinoAtual.cantor);
 document.getElementById("hinoCifra").href =
-  hinoAtual.cifra || `https://www.cifraclub.com.br/?q=${consultaMusica}`;
+  hinoAtual.cifra || `https://www.cifraclub.com.br/search/?q=${consultaMusica}`;
 document.getElementById("hinoSpotify").href =
   hinoAtual.spotify || `https://open.spotify.com/search/${consultaMusica}`;
 document.querySelector(".galeria-sonora").classList.add("hidden")
