@@ -388,8 +388,11 @@ hinoAtual = hinos[i]
 
 document.getElementById("hinoNome").innerText = hinoAtual.nome
 document.getElementById("hinoTom").innerText = hinoAtual.tom
-document.getElementById("hinoCifra").href = hinoAtual.cifra
-document.getElementById("hinoSpotify").href = hinoAtual.spotify
+const consultaMusica = encodeURIComponent(hinoAtual.nome + " " + hinoAtual.cantor);
+document.getElementById("hinoCifra").href =
+  hinoAtual.cifra || `https://www.cifraclub.com.br/?q=${consultaMusica}`;
+document.getElementById("hinoSpotify").href =
+  hinoAtual.spotify || `https://open.spotify.com/search/${consultaMusica}`;
 document.querySelector(".galeria-sonora").classList.add("hidden")
 document.getElementById("avaliacaoMinistro").classList.add("hidden")
 document.querySelector(".footer").classList.add("hidden")
@@ -402,15 +405,12 @@ const idSecundario = extrairIdYouTube(hinoAtual.youtube_secundario);
 const idPrincipal = extrairIdYouTube(hinoAtual.youtube_principal);
 const idVideo = idPrincipal || idSecundario;
 
-if (idSecundario || idPrincipal) {
-  const idExterno = idPrincipal || idSecundario;
-  document.getElementById("hinoYouTube").href =
-    `https://www.youtube.com/watch?v=${idExterno}`;
-} else {
-  // Se o cadastro não tem um ID válido, não abre uma URL quebrada.
-  document.getElementById("hinoYouTube").href =
-    `https://www.youtube.com/results?search_query=${encodeURIComponent(hinoAtual.nome + " " + hinoAtual.cantor + " canal oficial")}`;
-}
+// Usa o vídeo direto quando existe; caso contrário, abre a busca exata
+// por título + intérprete, sem restringir a busca a um canal específico.
+const buscaYouTube = `https://www.youtube.com/results?search_query=${consultaMusica}`;
+document.getElementById("hinoYouTube").href = idVideo
+  ? `https://www.youtube.com/watch?v=${idVideo}`
+  : (hinoAtual.youtube_principal || hinoAtual.youtube_secundario || buscaYouTube);
 
 document.getElementById("hinoPlayer").src = idVideo
   ? `https://www.youtube-nocookie.com/embed/${idVideo}`
