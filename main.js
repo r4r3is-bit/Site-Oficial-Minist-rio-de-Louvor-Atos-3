@@ -464,10 +464,17 @@ const scroll = localStorage.getItem("scrollHinos");
 // ESCALA
 // =================================================
 
-document.getElementById("buscaEscala").addEventListener("input", e=>{
-const termo = e.target.value.toLowerCase()
-renderAgrupado("listaEscala", hinos.filter(h=>h.nome.toLowerCase().includes(termo)))
-})
+const buscaEscala = document.getElementById("buscaEscala");
+
+if (buscaEscala) {
+  buscaEscala.addEventListener("input", e => {
+    const termo = normalizarTexto(e.target.value);
+    const resultado = hinosOrdenados.filter(h =>
+      h._nomeBusca.includes(termo) || h._cantorBusca.includes(termo)
+    );
+    renderAgrupado("listaEscala", resultado, true);
+  });
+}
 
 function abrirHinoPorId(id){
 const i = hinos.findIndex(h=>h.id===id)
