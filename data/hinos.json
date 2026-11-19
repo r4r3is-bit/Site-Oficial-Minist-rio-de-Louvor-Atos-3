@@ -6,7 +6,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/5nTdPKg2nd1wMxStXdE2Xe",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -56,7 +56,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/3xHMnLdbGlU3BgfLTnMHw8",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -96,7 +96,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/42oO0TD4zAzWMy5Te5RNUt",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -106,7 +106,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0O3GrDa8Es7zBsarhi9ONY",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -126,7 +126,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6mUbs0OTXZUUZWrCKHVfh9",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -156,7 +156,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/4lz5NKKQj9hgbZDxcSJIBi",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -166,7 +166,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1KvEIfZqKcuSOBTlRWbuNj",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -176,7 +176,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/71FkOGkNoEpRQAAmV9CP73",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -196,7 +196,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0nc7tCYDj6obAZbj6Osz3V",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -206,7 +206,7 @@
     "tom": "F",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -216,7 +216,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/64Ts41QIXU4YknFAgVLXrv",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -226,7 +226,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1NId83ftjzppDCs18U5ZPg",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -236,7 +236,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0Hs4gtGPFTlZrHV1fANf7k",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -246,7 +246,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/4PEhZ5ZhQ57XkBIfTzT507",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -276,7 +276,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1YbhpBNx6txXtDsVbdORrJ",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -314,8 +314,8 @@
     "nome": "Ousado Amor",
     "cantor": "Isaías Saad",
     "tom": "C#m",
-    "youtube_principal": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
-    "youtube_secundario": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai",
     "cifra": ""
   },
@@ -356,7 +356,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/4U0OkbvolzQ5RbtzoqSpZt",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -396,7 +396,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1v2vwMbhxepnn7D4hEjJvV",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -440,8 +440,8 @@
     "cifra": ""
   },
   {
-    "id": "filho-do-homem",
-    "nome": "Filho Do Homem",
+    "id": "o-filho-do-homem",
+    "nome": "O Filho do Homem",
     "cantor": "Gilmar Brito",
     "tom": "D",
     "youtube_principal": "",
@@ -464,8 +464,8 @@
     "nome": "Lugar Secreto",
     "cantor": "Gabriela Rocha",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=YnrN0o0lubM",
-    "youtube_secundario": "https://www.youtube.com/watch?v=YnrN0o0lubM",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "https://open.spotify.com/track/5RKekXXd9ltF7zirPXEAb5",
     "cifra": ""
   },
@@ -486,7 +486,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1ZaetPaqL0rZGgKxWPeU8v",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -516,7 +516,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/4riVncKC2BHr2xjPvSxKak",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -656,7 +656,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/4SXld7G7LXQffIVePuDZxl",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -746,7 +746,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1izIEPiOSZyyVH70SoZZuU",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -756,7 +756,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1fVKo1dxvM5LnwYTG8xXzO",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -776,7 +776,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/4GLpnhegAiZPePoSgSLreG",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -786,7 +786,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6ntlFzraKmwFeLqk6MDnVK",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -826,7 +826,7 @@
     "tom": "G#",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/42o6bliSkFfRlo6t6jTwJq",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -896,7 +896,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/5UUg93nsPboTvQXc53HofE",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1006,7 +1006,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/5pzgKsUwkhpGoMGP2PNzAa",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "tom": "E",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/7hCDMlIsd4bNZW4enNjqcZ",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1116,7 +1116,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/137BgbPL84Ezoz6GC72e7Z",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1186,7 +1186,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1266,7 +1266,7 @@
     "tom": "F#",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/3g4TegeapKCe6KnUC6XU0J",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "tom": "F#",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1386,7 +1386,7 @@
     "tom": "G#",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1426,7 +1426,7 @@
     "tom": "A#",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/7GaVhCMcvvhTYgQlBptmz0",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1580,13 +1580,13 @@
     "cifra": ""
   },
   {
-    "id": "eu-era-orfao",
-    "nome": "Eu Era Órfão",
+    "id": "eu-era-orfao-filho-amado",
+    "nome": "Eu Era Órfão + Filho Amado",
     "cantor": "Cia Salt.",
     "tom": "G",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6j1Knwmo11EaCUZWluxw3n",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1636,7 +1636,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1676,7 +1676,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/443TOgRDCDHQJnm92Ji7FH",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1736,7 +1736,7 @@
     "tom": "G",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/7dGksgOyGuJ9QCNZhxxN5e",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/5jdUf07cWPoPsTB3M9fNxS",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1766,7 +1766,7 @@
     "tom": "Bm",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/7HJZT2h5lOPYfIPq6HZSDp",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1776,7 +1776,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/39mYHNz7iFYTcrgKJ0m6w7",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1786,7 +1786,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/3wxGnsMOjSmFaHP7v4gRri",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1806,7 +1806,7 @@
     "tom": "D",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/3qjxMOo96cd9kqVoW0mUhU",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1816,7 +1816,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/5KWN97Jo8czHeuupNGhzbk",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1826,7 +1826,7 @@
     "tom": "G",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/1MLQsm0VzXrBM3rPYBKLxw",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1836,7 +1836,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6snzGZK4lEkXpzrImMuHws",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0KoqMXZglx0vTCrzdBDlqy",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1856,7 +1856,7 @@
     "tom": "G",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0YdeGzSneJdP1NEKY3EFlR",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1876,7 +1876,7 @@
     "tom": "A",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6zhy9FNJrI01oJ0rOlTCVF",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -1886,7 +1886,7 @@
     "tom": "C",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -2136,7 +2136,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -2206,7 +2206,7 @@
     "tom": "",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -2684,8 +2684,8 @@
     "nome": "Ovelhinha",
     "cantor": "Isadora Pompeo",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=OEDQj7XucHg",
-    "youtube_secundario": "https://www.youtube.com/watch?v=OEDQj7XucHg",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
     "cifra": ""
   },
@@ -2780,8 +2780,8 @@
     "cifra": ""
   },
   {
-    "id": "ate-que-nao-consiga-ficar-em-pe",
-    "nome": "Até Que Não Consiga Ficar Em Pé",
+    "id": "ate-que-eu-nao-consiga-mais-ficar-de-pe",
+    "nome": "Até Que Eu Não Consiga Mais Ficar de Pé",
     "cantor": "Daniel Berg",
     "tom": "",
     "youtube_principal": "",
@@ -2797,7 +2797,7 @@
     "youtube_principal": "https://www.youtube.com/watch?v=6NvkZY-va0E",
     "youtube_secundario": "https://www.youtube.com/watch?v=6NvkZY-va0E",
     "spotify": "https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ",
-    "cifra": "https://www.cifraclub.com.br/get-worship/um-novo-dia/"
+    "cifra": ""
   },
   {
     "id": "bondade-de-deus",
@@ -3360,8 +3360,8 @@
     "cifra": ""
   },
   {
-    "id": "o-vaso-que-lhe-apras",
-    "nome": "O Vaso que Lhe Aprás",
+    "id": "vaso-que-lhe-apraz",
+    "nome": "Vaso Que Lhe Apraz",
     "cantor": "Larissa Pires",
     "tom": "",
     "youtube_principal": "",
@@ -3526,7 +3526,7 @@
     "tom": "F",
     "youtube_principal": "",
     "youtube_secundario": "",
-    "spotify": "https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj",
+    "spotify": "",
     "cifra": ""
   },
   {
@@ -3554,20 +3554,20 @@
     "nome": "Rasgando o Coração",
     "cantor": "Fernanda Brum",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=a5iQi4ULTeo",
-    "youtube_secundario": "https://www.youtube.com/watch?v=a5iQi4ULTeo",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/fernanda-brum/rasgando-o-coracao/"
+    "cifra": ""
   },
   {
     "id": "tu-es-bom-em-todo-o-tempo",
     "nome": "Tu És Bom (Em Todo o Tempo)",
     "cantor": "Eyshila, Fernandinho",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=9LgqRB8Fuoo",
-    "youtube_secundario": "https://www.youtube.com/watch?v=9LgqRB8Fuoo",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/eyshila/tu-es-bom-em-todo-o-tempo/"
+    "cifra": ""
   },
   {
     "id": "ah-jesus",
@@ -3614,18 +3614,18 @@
     "nome": "Não Me Deixe Esquecer",
     "cantor": "Valesca Mayssa",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=xkQCzSNRGCs",
-    "youtube_secundario": "https://www.youtube.com/watch?v=xkQCzSNRGCs",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/valesca-mayssa/nao-me-deixe-esquecer/"
+    "cifra": ""
   },
   {
     "id": "deixa",
     "nome": "Deixa",
     "cantor": "Maria Marçal",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=93TXfW3MT4o",
-    "youtube_secundario": "https://www.youtube.com/watch?v=93TXfW3MT4o",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
     "cifra": ""
   },
@@ -3637,7 +3637,7 @@
     "youtube_principal": "",
     "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/eyshila/deus-no-controle/"
+    "cifra": ""
   },
   {
     "id": "acende-outra-vez",
@@ -3647,7 +3647,7 @@
     "youtube_principal": "",
     "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/jefferson-e-suellen/acende-outra-vez/"
+    "cifra": ""
   },
   {
     "id": "o-amor-que-cura",
@@ -3657,7 +3657,7 @@
     "youtube_principal": "",
     "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/fernanda-brum/o-amor-que-cura/"
+    "cifra": ""
   },
   {
     "id": "sou-grato-por-seu-amor",
@@ -3667,15 +3667,15 @@
     "youtube_principal": "https://www.youtube.com/watch?v=2B9hzpfkWVg",
     "youtube_secundario": "https://www.youtube.com/watch?v=2B9hzpfkWVg",
     "spotify": "https://open.spotify.com/track/30ctDNEzwq4YivvC3vD1Mx",
-    "cifra": "https://www.cifraclub.com.br/get-worship/sou-grato-por-seu-amor/"
+    "cifra": ""
   },
   {
     "id": "ele-se-move",
     "nome": "Ele Se Move",
     "cantor": "Aline Barros, Eyshila, Fernanda Brum",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=EzKRgMPaLHc",
-    "youtube_secundario": "https://www.youtube.com/watch?v=EzKRgMPaLHc",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
     "cifra": ""
   },
@@ -3724,8 +3724,8 @@
     "nome": "Amar Como Você",
     "cantor": "José Jr.",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=bjW1-ovD9Gk",
-    "youtube_secundario": "https://www.youtube.com/watch?v=bjW1-ovD9Gk",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "https://open.spotify.com/track/4tWQcwi8Ap3X7znREKdyAg",
     "cifra": "https://www.cifraclub.com.br/jose-augusto-five-music/amar-como-voce/zstzzh.html"
   },
@@ -3817,7 +3817,7 @@
     "youtube_principal": "",
     "youtube_secundario": "",
     "spotify": "",
-    "cifra": "https://www.cifraclub.com.br/midian-lima/jo/"
+    "cifra": ""
   },
   {
     "id": "sua-presenca",
@@ -3984,8 +3984,8 @@
     "nome": "Laranjeiras",
     "cantor": "José Jr.",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=_RVEI5nfaQ0",
-    "youtube_secundario": "https://www.youtube.com/watch?v=_RVEI5nfaQ0",
+    "youtube_principal": "https://www.youtube.com/watch?v=g76GDphdZP0",
+    "youtube_secundario": "https://www.youtube.com/watch?v=g76GDphdZP0",
     "spotify": "https://open.spotify.com/track/2YhaZjMjYrUsSOyJUK3Wzz",
     "cifra": "https://www.cifraclub.com.br/jose-augusto-five-music/laranjeiras/"
   },
@@ -4050,8 +4050,8 @@
     "cifra": ""
   },
   {
-    "id": "tu-que-habitas-no-jardim",
-    "nome": "Tu Que Habitas no Jardim",
+    "id": "tu-que-habitas-no-jardim-corca-indomavel",
+    "nome": "Tu Que Habitas no Jardim / Corça Indomável",
     "cantor": "José Jr.",
     "tom": "",
     "youtube_principal": "",
@@ -4134,8 +4134,8 @@
     "nome": "Que Jesus Seja o Nome",
     "cantor": "Get Worship",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=7yicsV9SUGw",
-    "youtube_secundario": "https://www.youtube.com/watch?v=7yicsV9SUGw",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
     "cifra": ""
   },
@@ -4144,8 +4144,8 @@
     "nome": "Ele Aqui Está",
     "cantor": "Get Worship",
     "tom": "",
-    "youtube_principal": "",
-    "youtube_secundario": "",
+    "youtube_principal": "https://www.youtube.com/watch?v=Nz7yHWBayJg",
+    "youtube_secundario": "https://www.youtube.com/watch?v=Nz7yHWBayJg",
     "spotify": "https://open.spotify.com/track/4NIYQWJHOQK9EYHtJQl8ej",
     "cifra": ""
   },
@@ -4154,8 +4154,8 @@
     "nome": "De Tal Maneira",
     "cantor": "Get Worship",
     "tom": "",
-    "youtube_principal": "https://www.youtube.com/watch?v=hP7M13UmvJI",
-    "youtube_secundario": "https://www.youtube.com/watch?v=hP7M13UmvJI",
+    "youtube_principal": "",
+    "youtube_secundario": "",
     "spotify": "",
     "cifra": ""
   },
