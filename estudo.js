@@ -201,23 +201,31 @@ function startMetronome() {
   stopMetronome();
   const bpm = Math.max(40,Math.min(220,Number(document.getElementById("bpmInput")?.value)||80));
   beatCount=0;
+  const AudioCtx=window.AudioContext||window.webkitAudioContext;
+  let ctx=null;
+  if(AudioCtx){ctx=new AudioCtx();if(ctx.state==="suspended")ctx.resume();}
   const tick=()=>{
     beatCount=(beatCount%4)+1;
     document.querySelectorAll(".metronome-beat").forEach((el,i)=>el.classList.toggle("active",i===beatCount-1));
-    const AudioCtx=window.AudioContext||window.webkitAudioContext;
-    if(AudioCtx){
-      const ctx=new AudioCtx(), osc=ctx.createOscillator(), gain=ctx.createGain();
-      osc.frequency.value=beatCount===1?1200:800;gain.gain.value=.08;
-      osc.connect(gain);gain.connect(ctx.destination);osc.start();osc.stop(ctx.currentTime+.045);
+    if(ctx){
+      const osc=ctx.createOscillator(), gain=ctx.createGain();
+      osc.frequency.value=beatCount===1?1200:800;
+      gain.gain.setValueAtTime(.08,ctx.currentTime);
+      gain.gain.exponentialRampToValueAtTime(.0001,ctx.currentTime+.045);
+      osc.connect(gain);gain.connect(ctx.destination);osc.start();osc.stop(ctx.currentTime+.05);
     }
   };
   tick();
   metronomeTimer=setInterval(tick,60000/bpm);
+  window._atos3MetronomeContext=ctx;
 }
 function stopMetronome() {
   if(metronomeTimer) clearInterval(metronomeTimer);
   metronomeTimer=null;
   document.querySelectorAll(".metronome-beat").forEach(el=>el.classList.remove("active"));
+  const ctx=window._atos3MetronomeContext;
+  if(ctx && ctx.state!=="closed")ctx.close();
+  window._atos3MetronomeContext=null;
 }
 window.addEventListener("pagehide",stopMetronome);
 
